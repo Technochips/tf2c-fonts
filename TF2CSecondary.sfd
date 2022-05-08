@@ -22,7 +22,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1263062752
-ModificationTime: 1651938018
+ModificationTime: 1652020571
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -1159,7 +1159,7 @@ NameList: AGL For New Fonts
 DisplaySize: -96
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 576 16 8
+WinInfo: 1024 16 7
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -1167,7 +1167,7 @@ Grid
  -49.142578125 -768 l 1028
 EndSplineSet
 AnchorClass2: "topattright" "mark-1" "mkmkbottomattside" "mkmk-1" "mkmkbottomatt" "mkmk-1" "mkmkbottom" "mkmk-1" "bottomatt" "mark-1" "mkmktop" "mkmk-1" "bottomattside" "mark-1" "bottom" "mark-1" "top" "mark-1"
-BeginChars: 65536 706
+BeginChars: 65536 734
 
 StartChar: space
 Encoding: 32 32 0
@@ -1175,7 +1175,7 @@ Width: 350
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Kerns2: 378 -128 "kern" 89 -48 "kern" 86 -72 "kern" 84 -32 "kern" 79 -16 "kern" 74 -128 "kern" 65 -56 "kern" 54 -16 "kern" 42 -96 "kern"
+Kerns2: 377 -128 "kern" 89 -48 "kern" 86 -72 "kern" 84 -32 "kern" 79 -16 "kern" 74 -128 "kern" 65 -56 "kern" 54 -16 "kern" 42 -96 "kern"
 EndChar
 
 StartChar: exclam
@@ -1459,7 +1459,7 @@ EndChar
 
 StartChar: quotesingle
 Encoding: 39 39 7
-AltUni2: 0002c8.ffffffff.0
+AltUni2: 0002c8.ffffffff.0 002032.ffffffff.0
 Width: 137
 GlyphClass: 2
 Flags: W
@@ -1608,6 +1608,7 @@ EndChar
 
 StartChar: hyphen
 Encoding: 45 45 13
+AltUni2: 002011.ffffffff.0 002010.ffffffff.0 002212.ffffffff.0 0000ad.ffffffff.0
 Width: 292
 GlyphClass: 2
 Flags: W
@@ -2331,7 +2332,7 @@ EndChar
 
 StartChar: A
 Encoding: 65 65 33
-AltUni2: 000410.ffffffff.0 000391.ffffffff.0
+AltUni2: 000391.ffffffff.0 000410.ffffffff.0
 Width: 645
 GlyphClass: 2
 Flags: W
@@ -2361,7 +2362,7 @@ EndChar
 
 StartChar: B
 Encoding: 66 66 34
-AltUni2: 000412.ffffffff.0 000392.ffffffff.0
+AltUni2: 000392.ffffffff.0 000412.ffffffff.0
 Width: 522
 GlyphClass: 2
 Flags: W
@@ -2421,7 +2422,7 @@ SplineSet
  453 315 453 315 461 291.5 c 128,-1,56
  469 268 469 268 470 237 c 0,30,31
 EndSplineSet
-Kerns2: 378 -176 "kern" 86 -63 "kern" 85 -59 "kern" 84 -32 "kern" 78 -30 "kern" 77 -18 "kern" 76 -6 "kern" 74 -176 "kern" 71 -24 "kern" 58 -132 "kern" 57 -156 "kern" 55 -143 "kern" 54 -144 "kern" 53 -66 "kern" 52 -109 "kern" 47 -36 "kern" 42 -90 "kern" 35 -18 "kern" 33 -79 "kern"
+Kerns2: 377 -176 "kern" 86 -63 "kern" 85 -59 "kern" 84 -32 "kern" 78 -30 "kern" 77 -18 "kern" 76 -6 "kern" 74 -176 "kern" 71 -24 "kern" 58 -132 "kern" 57 -156 "kern" 55 -143 "kern" 54 -144 "kern" 53 -66 "kern" 52 -109 "kern" 47 -36 "kern" 42 -90 "kern" 35 -18 "kern" 33 -79 "kern"
 EndChar
 
 StartChar: C
@@ -2505,12 +2506,12 @@ SplineSet
  656 519 656 519 687.5 460 c 128,-1,29
  719 401 719 401 720 318 c 1,15,16
 EndSplineSet
-Kerns2: 255 -24 "kern" 378 -160 "kern" 88 -163 "kern" 87 -16 "kern" 85 -18 "kern" 79 -16 "kern" 77 -6 "kern" 74 -160 "kern" 73 -24 "kern" 69 -10 "kern" 58 -156 "kern" 57 -156 "kern" 56 -132 "kern" 55 -137 "kern" 54 -138 "kern" 52 -138 "kern" 43 -6 "kern" 42 -101 "kern" 33 -102 "kern"
+Kerns2: 255 -24 "kern" 377 -160 "kern" 88 -163 "kern" 87 -16 "kern" 85 -18 "kern" 79 -16 "kern" 77 -6 "kern" 74 -160 "kern" 73 -24 "kern" 69 -10 "kern" 58 -156 "kern" 57 -156 "kern" 56 -132 "kern" 55 -137 "kern" 54 -138 "kern" 52 -138 "kern" 43 -6 "kern" 42 -101 "kern" 33 -102 "kern"
 EndChar
 
 StartChar: E
 Encoding: 69 69 37
-AltUni2: 000415.ffffffff.0 000395.ffffffff.0
+AltUni2: 000395.ffffffff.0 000415.ffffffff.0
 Width: 447
 GlyphClass: 2
 Flags: W
@@ -2535,7 +2536,7 @@ SplineSet
  0 0 l 1,11,-1
  0 707 l 5,0,-1
 EndSplineSet
-Kerns2: 378 -128 "kern" 90 -48 "kern" 89 -63 "kern" 87 -48 "kern" 86 -80 "kern" 85 -16 "kern" 84 -32 "kern" 83 -16 "kern" 81 -63 "kern" 80 -32 "kern" 79 -63 "kern" 78 -32 "kern" 74 -128 "kern" 72 18 "kern" 71 -48 "kern" 69 -48 "kern" 68 -48 "kern" 67 -32 "kern" 65 -32 "kern" 54 -24 "kern" 50 17 "kern" 48 18 "kern" 47 -54 "kern" 46 18 "kern" 45 18 "kern" 43 17 "kern" 42 -42 "kern" 38 18 "kern" 36 18 "kern" 35 -48 "kern"
+Kerns2: 377 -128 "kern" 90 -48 "kern" 89 -63 "kern" 87 -48 "kern" 86 -80 "kern" 85 -16 "kern" 84 -32 "kern" 83 -16 "kern" 81 -63 "kern" 80 -32 "kern" 79 -63 "kern" 78 -32 "kern" 74 -128 "kern" 72 18 "kern" 71 -48 "kern" 69 -48 "kern" 68 -48 "kern" 67 -32 "kern" 65 -32 "kern" 54 -24 "kern" 50 17 "kern" 48 18 "kern" 47 -54 "kern" 46 18 "kern" 45 18 "kern" 43 17 "kern" 42 -42 "kern" 38 18 "kern" 36 18 "kern" 35 -48 "kern"
 EndChar
 
 StartChar: F
@@ -2563,7 +2564,7 @@ SplineSet
  1 2 l 5,10,-1
  0 9 l 5,0,-1
 EndSplineSet
-Kerns2: 255 -16 "kern" 378 -176 "kern" 89 -63 "kern" 82 -32 "kern" 79 -96 "kern" 78 18 "kern" 77 -32 "kern" 74 -176 "kern" 73 -16 "kern" 69 -80 "kern" 68 24 "kern" 65 -80 "kern" 51 15 "kern" 44 16 "kern" 42 -191 "kern" 39 -42 "kern" 37 36 "kern" 36 25 "kern" 33 -88 "kern"
+Kerns2: 255 -16 "kern" 377 -176 "kern" 89 -63 "kern" 82 -32 "kern" 79 -96 "kern" 78 18 "kern" 77 -32 "kern" 74 -176 "kern" 73 -16 "kern" 69 -80 "kern" 68 24 "kern" 65 -80 "kern" 51 15 "kern" 44 16 "kern" 42 -191 "kern" 39 -42 "kern" 37 36 "kern" 36 25 "kern" 33 -88 "kern"
 EndChar
 
 StartChar: G
@@ -2606,12 +2607,12 @@ SplineSet
  458 723 458 723 611 696 c 1,33,-1
  608 643 l 1,0,1
 EndSplineSet
-Kerns2: 254 17 "kern" 378 -144 "kern" 89 -31 "kern" 87 -48 "kern" 80 -6 "kern" 74 -144 "kern" 69 -16 "kern" 67 -36 "kern" 65 -30 "kern" 52 -25 "kern" 50 17 "kern" 48 18 "kern" 47 -24 "kern" 44 6 "kern" 43 25 "kern" 41 17 "kern" 40 32 "kern" 38 31 "kern" 37 30 "kern" 36 24 "kern" 34 25 "kern"
+Kerns2: 254 17 "kern" 377 -144 "kern" 89 -31 "kern" 87 -48 "kern" 80 -6 "kern" 74 -144 "kern" 69 -16 "kern" 67 -36 "kern" 65 -30 "kern" 52 -25 "kern" 50 17 "kern" 48 18 "kern" 47 -24 "kern" 44 6 "kern" 43 25 "kern" 41 17 "kern" 40 32 "kern" 38 31 "kern" 37 30 "kern" 36 24 "kern" 34 25 "kern"
 EndChar
 
 StartChar: H
 Encoding: 72 72 40
-AltUni2: 00041d.ffffffff.0 000397.ffffffff.0
+AltUni2: 000397.ffffffff.0 00041d.ffffffff.0
 Width: 696
 GlyphClass: 2
 Flags: W
@@ -2636,12 +2637,12 @@ SplineSet
  0 0 l 1,11,-1
  0 717 l 1,0,-1
 EndSplineSet
-Kerns2: 254 -17 "kern" 378 -48 "kern" 84 -32 "kern" 78 -18 "kern" 74 -48 "kern" 71 -42 "kern" 70 32 "kern" 69 -48 "kern" 67 -36 "kern" 54 -66 "kern" 52 -67 "kern" 50 -31 "kern" 47 -30 "kern" 46 -25 "kern" 45 -17 "kern" 44 -6 "kern" 41 -17 "kern" 35 -48 "kern" 33 -36 "kern"
+Kerns2: 254 -17 "kern" 377 -48 "kern" 84 -32 "kern" 78 -18 "kern" 74 -48 "kern" 71 -42 "kern" 70 32 "kern" 69 -48 "kern" 67 -36 "kern" 54 -66 "kern" 52 -67 "kern" 50 -31 "kern" 47 -30 "kern" 46 -25 "kern" 45 -17 "kern" 44 -6 "kern" 41 -17 "kern" 35 -48 "kern" 33 -36 "kern"
 EndChar
 
 StartChar: I
 Encoding: 73 73 41
-AltUni2: 000406.ffffffff.0 000399.ffffffff.0
+AltUni2: 000399.ffffffff.0 000406.ffffffff.0
 Width: 245
 GlyphClass: 2
 Flags: W
@@ -2658,7 +2659,7 @@ SplineSet
  54 1 l 1,3,-1
  76 717 l 1,0,-1
 EndSplineSet
-Kerns2: 378 -191 "kern" 89 -32 "kern" 87 -32 "kern" 86 -32 "kern" 85 -16 "kern" 81 -48 "kern" 79 -48 "kern" 78 -16 "kern" 77 -16 "kern" 76 -16 "kern" 74 -191 "kern" 71 -63 "kern" 70 32 "kern" 68 -32 "kern" 67 -32 "kern" 65 -32 "kern" 53 17 "kern" 51 18 "kern" 50 11 "kern" 46 17 "kern" 45 18 "kern" 44 24 "kern" 43 25 "kern" 40 42 "kern" 38 30 "kern" 37 25 "kern" 36 24 "kern"
+Kerns2: 377 -191 "kern" 89 -32 "kern" 87 -32 "kern" 86 -32 "kern" 85 -16 "kern" 81 -48 "kern" 79 -48 "kern" 78 -16 "kern" 77 -16 "kern" 76 -16 "kern" 74 -191 "kern" 71 -63 "kern" 70 32 "kern" 68 -32 "kern" 67 -32 "kern" 65 -32 "kern" 53 17 "kern" 51 18 "kern" 50 11 "kern" 46 17 "kern" 45 18 "kern" 44 24 "kern" 43 25 "kern" 40 42 "kern" 38 30 "kern" 37 25 "kern" 36 24 "kern"
 EndChar
 
 StartChar: J
@@ -2695,12 +2696,12 @@ SplineSet
  381 334 381 334 376 412 c 2,27,-1
  346 714 l 1,0,-1
 EndSplineSet
-Kerns2: 378 -84 "kern" 79 -32 "kern" 74 -84 "kern" 70 24 "kern" 69 -32 "kern" 65 -32 "kern" 43 11 "kern" 42 -84 "kern" 40 17 "kern" 38 25 "kern" 34 18 "kern" 33 -95 "kern"
+Kerns2: 377 -84 "kern" 79 -32 "kern" 74 -84 "kern" 70 24 "kern" 69 -32 "kern" 65 -32 "kern" 43 11 "kern" 42 -84 "kern" 40 17 "kern" 38 25 "kern" 34 18 "kern" 33 -95 "kern"
 EndChar
 
 StartChar: K
 Encoding: 75 75 43
-AltUni2: 00041a.ffffffff.0 00039a.ffffffff.0
+AltUni2: 00039a.ffffffff.0 00041a.ffffffff.0
 Width: 541
 GlyphClass: 2
 Flags: W
@@ -2747,12 +2748,12 @@ SplineSet
  22 0 l 1,5,-1
  20 715 l 1,0,-1
 EndSplineSet
-Kerns2: 255 -18 "kern" 378 -30 "kern" 89 -160 "kern" 85 -32 "kern" 84 -63 "kern" 79 -32 "kern" 78 -11 "kern" 77 -18 "kern" 74 -30 "kern" 73 -18 "kern" 69 -48 "kern" 65 -48 "kern" 58 -102 "kern" 57 -270 "kern" 54 -252 "kern" 52 -227 "kern" 50 -24 "kern" 48 -17 "kern"
+Kerns2: 255 -18 "kern" 377 -30 "kern" 89 -160 "kern" 85 -32 "kern" 84 -63 "kern" 79 -32 "kern" 78 -11 "kern" 77 -18 "kern" 74 -30 "kern" 73 -18 "kern" 69 -48 "kern" 65 -48 "kern" 58 -102 "kern" 57 -270 "kern" 54 -252 "kern" 52 -227 "kern" 50 -24 "kern" 48 -17 "kern"
 EndChar
 
 StartChar: M
 Encoding: 77 77 45
-AltUni2: 00041c.ffffffff.0 00039c.ffffffff.0
+AltUni2: 00039c.ffffffff.0 00041c.ffffffff.0
 Width: 781
 GlyphClass: 2
 Flags: W
@@ -2778,7 +2779,7 @@ SplineSet
  92 -1 l 1,12,-1
  20 0 l 1,0,-1
 EndSplineSet
-Kerns2: 378 -25 "kern" 89 -32 "kern" 85 -25 "kern" 78 25 "kern" 74 -25 "kern" 72 12 "kern" 71 -11 "kern" 69 -32 "kern" 44 5 "kern" 43 12 "kern" 38 24 "kern" 37 24 "kern" 36 12 "kern" 34 12 "kern"
+Kerns2: 377 -25 "kern" 89 -32 "kern" 85 -25 "kern" 78 25 "kern" 74 -25 "kern" 72 12 "kern" 71 -11 "kern" 69 -32 "kern" 44 5 "kern" 43 12 "kern" 38 24 "kern" 37 24 "kern" 36 12 "kern" 34 12 "kern"
 EndChar
 
 StartChar: N
@@ -2811,7 +2812,7 @@ EndChar
 
 StartChar: O
 Encoding: 79 79 47
-AltUni2: 00041e.ffffffff.0 00039f.ffffffff.0
+AltUni2: 00039f.ffffffff.0 00041e.ffffffff.0
 Width: 870
 GlyphClass: 2
 Flags: W
@@ -2823,54 +2824,54 @@ AnchorPoint: "top" 425 748 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-406 40 m 0,0,1
- 463 39 463 39 524 57 c 128,-1,2
- 585 75 585 75 629 113.5 c 128,-1,3
- 673 152 673 152 706 221.5 c 128,-1,4
- 739 291 739 291 736 393 c 0,5,6
- 731 452 731 452 710.5 499.5 c 128,-1,7
- 690 547 690 547 668 575 c 128,-1,8
- 646 603 646 603 614 624 c 128,-1,9
- 582 645 582 645 551 657.5 c 128,-1,10
- 520 670 520 670 454 677 c 1,11,12
- 386 680 386 680 321 661.5 c 128,-1,13
- 256 643 256 643 204.5 593 c 128,-1,14
- 153 543 153 543 126.5 468.5 c 128,-1,15
- 100 394 100 394 102 316 c 0,16,17
- 104 244 104 244 133 192 c 128,-1,18
- 162 140 162 140 200.5 107.5 c 128,-1,19
- 239 75 239 75 294.5 58.5 c 128,-1,20
- 350 42 350 42 406 40 c 0,0,1
-425 724 m 0,21,22
- 458 724 458 724 498.5 718.5 c 128,-1,23
- 539 713 539 713 582.5 698 c 128,-1,24
- 626 683 626 683 665.5 658 c 128,-1,25
- 705 633 705 633 740.5 593 c 128,-1,26
- 776 553 776 553 799 495 c 128,-1,27
- 822 437 822 437 823 360 c 0,28,29
- 820 255 820 255 780 185.5 c 128,-1,30
- 740 116 740 116 680.5 72.5 c 128,-1,31
- 621 29 621 29 548.5 10 c 128,-1,32
- 476 -9 476 -9 410 -9 c 0,33,34
- 374 -9 374 -9 329 -4 c 128,-1,35
- 284 1 284 1 237.5 17.5 c 128,-1,36
- 191 34 191 34 150 62.5 c 128,-1,37
- 109 91 109 91 75 131.5 c 128,-1,38
- 41 172 41 172 22.5 223.5 c 128,-1,39
- 4 275 4 275 8 357 c 0,40,41
- 13 433 13 433 37.5 490 c 128,-1,42
- 62 547 62 547 99 588 c 128,-1,43
- 136 629 136 629 177.5 655 c 128,-1,44
- 219 681 219 681 263.5 697.5 c 128,-1,45
- 308 714 308 714 349.5 719.5 c 128,-1,46
- 391 725 391 725 425 724 c 0,21,22
+406 40 m 4,0,1
+ 463 39 463 39 524 57 c 132,-1,2
+ 585 75 585 75 629 113.5 c 132,-1,3
+ 673 152 673 152 706 221.5 c 132,-1,4
+ 739 291 739 291 736 393 c 4,5,6
+ 731 452 731 452 710.5 499.5 c 132,-1,7
+ 690 547 690 547 668 575 c 132,-1,8
+ 646 603 646 603 614 624 c 132,-1,9
+ 582 645 582 645 551 657.5 c 132,-1,10
+ 520 670 520 670 454 677 c 5,11,12
+ 386 680 386 680 321 661.5 c 132,-1,13
+ 256 643 256 643 204.5 593 c 132,-1,14
+ 153 543 153 543 126.5 468.5 c 132,-1,15
+ 100 394 100 394 102 316 c 4,16,17
+ 104 244 104 244 133 192 c 132,-1,18
+ 162 140 162 140 200.5 107.5 c 132,-1,19
+ 239 75 239 75 294.5 58.5 c 132,-1,20
+ 350 42 350 42 406 40 c 4,0,1
+425 724 m 4,21,22
+ 458 724 458 724 498.5 718.5 c 132,-1,23
+ 539 713 539 713 582.5 698 c 132,-1,24
+ 626 683 626 683 665.5 658 c 132,-1,25
+ 705 633 705 633 740.5 593 c 132,-1,26
+ 776 553 776 553 799 495 c 132,-1,27
+ 822 437 822 437 823 360 c 4,28,29
+ 820 255 820 255 780 185.5 c 132,-1,30
+ 740 116 740 116 680.5 72.5 c 132,-1,31
+ 621 29 621 29 548.5 10 c 132,-1,32
+ 476 -9 476 -9 410 -9 c 4,33,34
+ 374 -9 374 -9 329 -4 c 132,-1,35
+ 284 1 284 1 237.5 17.5 c 132,-1,36
+ 191 34 191 34 150 62.5 c 132,-1,37
+ 109 91 109 91 75 131.5 c 132,-1,38
+ 41 172 41 172 22.5 223.5 c 132,-1,39
+ 4 275 4 275 8 357 c 4,40,41
+ 13 433 13 433 37.5 490 c 132,-1,42
+ 62 547 62 547 99 588 c 132,-1,43
+ 136 629 136 629 177.5 655 c 132,-1,44
+ 219 681 219 681 263.5 697.5 c 132,-1,45
+ 308 714 308 714 349.5 719.5 c 132,-1,46
+ 391 725 391 725 425 724 c 4,21,22
 EndSplineSet
-Kerns2: 255 -32 "kern" 378 -176 "kern" 89 -16 "kern" 88 -16 "kern" 87 -16 "kern" 86 -32 "kern" 84 -16 "kern" 81 -16 "kern" 79 -16 "kern" 77 -16 "kern" 74 -176 "kern" 73 -32 "kern" 71 -16 "kern" 70 48 "kern" 69 -32 "kern" 68 -16 "kern" 67 -16 "kern" 66 -16 "kern" 65 -16 "kern" 58 -138 "kern" 57 -180 "kern" 56 -137 "kern" 55 -144 "kern" 54 -138 "kern" 53 -54 "kern" 52 -162 "kern" 50 -30 "kern" 48 -24 "kern" 47 -18 "kern" 46 -18 "kern" 42 -72 "kern" 40 -18 "kern" 34 -18 "kern" 33 -96 "kern" 14 -54 "kern"
+Kerns2: 255 -32 "kern" 377 -176 "kern" 89 -16 "kern" 88 -16 "kern" 87 -16 "kern" 86 -32 "kern" 84 -16 "kern" 81 -16 "kern" 79 -16 "kern" 77 -16 "kern" 74 -176 "kern" 73 -32 "kern" 71 -16 "kern" 70 48 "kern" 69 -32 "kern" 68 -16 "kern" 67 -16 "kern" 66 -16 "kern" 65 -16 "kern" 58 -138 "kern" 57 -180 "kern" 56 -137 "kern" 55 -144 "kern" 54 -138 "kern" 53 -54 "kern" 52 -162 "kern" 50 -30 "kern" 48 -24 "kern" 47 -18 "kern" 46 -18 "kern" 42 -72 "kern" 40 -18 "kern" 34 -18 "kern" 33 -96 "kern" 14 -54 "kern"
 EndChar
 
 StartChar: P
 Encoding: 80 80 48
-AltUni2: 000420.ffffffff.0 0003a1.ffffffff.0
+AltUni2: 0003a1.ffffffff.0 000420.ffffffff.0
 Width: 540
 GlyphClass: 2
 Flags: W
@@ -2911,7 +2912,7 @@ SplineSet
  436 659 436 659 465 624.5 c 128,-1,32
  494 590 494 590 498 539 c 0,15,16
 EndSplineSet
-Kerns2: 255 -24 "kern" 378 -144 "kern" 89 -96 "kern" 87 -16 "kern" 86 -32 "kern" 84 -16 "kern" 83 -32 "kern" 79 -112 "kern" 78 -30 "kern" 77 -25 "kern" 74 -144 "kern" 73 -24 "kern" 71 -36 "kern" 70 48 "kern" 69 -80 "kern" 68 -112 "kern" 65 -112 "kern" 58 -60 "kern" 57 -120 "kern" 42 -257 "kern" 33 -151 "kern" 14 -96 "kern" 12 -101 "kern"
+Kerns2: 255 -24 "kern" 377 -144 "kern" 89 -96 "kern" 87 -16 "kern" 86 -32 "kern" 84 -16 "kern" 83 -32 "kern" 79 -112 "kern" 78 -30 "kern" 77 -25 "kern" 74 -144 "kern" 73 -24 "kern" 71 -36 "kern" 70 48 "kern" 69 -80 "kern" 68 -112 "kern" 65 -112 "kern" 58 -60 "kern" 57 -120 "kern" 42 -257 "kern" 33 -151 "kern" 14 -96 "kern" 12 -101 "kern"
 EndChar
 
 StartChar: Q
@@ -3025,7 +3026,7 @@ SplineSet
  32 6 l 1,36,-1
  20 711 l 1,15,16
 EndSplineSet
-Kerns2: 255 -36 "kern" 378 -191 "kern" 89 -63 "kern" 87 -32 "kern" 85 -31 "kern" 79 -96 "kern" 77 -18 "kern" 76 -25 "kern" 74 -191 "kern" 73 -36 "kern" 69 -96 "kern" 68 -112 "kern" 65 -112 "kern" 58 -42 "kern" 57 -84 "kern" 55 -66 "kern" 53 -53 "kern" 52 -66 "kern" 47 -66 "kern" 39 -54 "kern" 33 -96 "kern"
+Kerns2: 255 -36 "kern" 377 -191 "kern" 89 -63 "kern" 87 -32 "kern" 85 -31 "kern" 79 -96 "kern" 77 -18 "kern" 76 -25 "kern" 74 -191 "kern" 73 -36 "kern" 69 -96 "kern" 68 -112 "kern" 65 -112 "kern" 58 -42 "kern" 57 -84 "kern" 55 -66 "kern" 53 -53 "kern" 52 -66 "kern" 47 -66 "kern" 39 -54 "kern" 33 -96 "kern"
 EndChar
 
 StartChar: S
@@ -3089,7 +3090,7 @@ EndChar
 
 StartChar: T
 Encoding: 84 84 52
-AltUni2: 000422.ffffffff.0 0003a4.ffffffff.0
+AltUni2: 0003a4.ffffffff.0 000422.ffffffff.0
 Width: 644
 GlyphClass: 2
 Flags: W
@@ -3149,7 +3150,7 @@ SplineSet
  35 334 35 334 29.5 414 c 128,-1,25
  24 494 24 494 22 716 c 1,0,-1
 EndSplineSet
-Kerns2: 378 -30 "kern" 88 -32 "kern" 87 -48 "kern" 86 -48 "kern" 81 -48 "kern" 79 -37 "kern" 78 -17 "kern" 74 -30 "kern" 71 -48 "kern" 70 48 "kern" 69 -32 "kern" 68 -48 "kern" 65 -32 "kern" 50 -30 "kern" 47 -42 "kern" 46 -12 "kern" 45 -18 "kern" 42 -101 "kern" 37 -5 "kern" 36 6 "kern"
+Kerns2: 377 -30 "kern" 88 -32 "kern" 87 -48 "kern" 86 -48 "kern" 81 -48 "kern" 79 -37 "kern" 78 -17 "kern" 74 -30 "kern" 71 -48 "kern" 70 48 "kern" 69 -32 "kern" 68 -48 "kern" 65 -32 "kern" 50 -30 "kern" 47 -42 "kern" 46 -12 "kern" 45 -18 "kern" 42 -101 "kern" 37 -5 "kern" 36 6 "kern"
 EndChar
 
 StartChar: V
@@ -3208,7 +3209,7 @@ EndChar
 
 StartChar: X
 Encoding: 88 88 56
-AltUni2: 000425.ffffffff.0 0003a7.ffffffff.0
+AltUni2: 0003a7.ffffffff.0 000425.ffffffff.0
 Width: 737
 GlyphClass: 2
 Flags: W
@@ -3277,11 +3278,11 @@ Fore
 SplineSet
 609 711 m 1,0,-1
  610 675 l 1,1,-1
- 210 61 l 1,2,-1
- 600 80 l 1,3,-1
- 605 10 l 1,4,-1
- 108 0 l 1,5,-1
- 102 46 l 1,6,-1
+ 210 61 l 5,2,-1
+ 600 80 l 5,3,-1
+ 605 10 l 5,4,-1
+ 108 0 l 5,5,-1
+ 102 46 l 5,6,-1
  512 658 l 1,7,-1
  51 654 l 1,8,-1
  46 717 l 1,9,-1
@@ -3398,7 +3399,7 @@ EndChar
 
 StartChar: a
 Encoding: 97 97 65
-AltUni2: 000251.ffffffff.0 000430.ffffffff.0
+AltUni2: 000430.ffffffff.0 000251.ffffffff.0
 Width: 652
 GlyphClass: 2
 Flags: W
@@ -3447,7 +3448,7 @@ SplineSet
  500 466 l 1,42,-1
  585 466 l 1,22,-1
 EndSplineSet
-Kerns2: 12 8 "kern" 36 -5 "kern" 42 -24 "kern" 47 -102 "kern" 48 -30 "kern" 50 -30 "kern" 52 -144 "kern" 54 -264 "kern" 55 -269 "kern" 57 -227 "kern" 66 12 "kern" 67 -16 "kern" 68 -24 "kern" 69 -24 "kern" 70 63 "kern" 71 -32 "kern" 74 -144 "kern" 76 8 "kern" 77 -8 "kern" 78 -65 "kern" 79 -32 "kern" 81 -32 "kern" 82 16 "kern" 83 -8 "kern" 84 -24 "kern" 87 -32 "kern" 89 -32 "kern" 90 -9 "kern" 378 -144 "kern"
+Kerns2: 12 8 "kern" 36 -5 "kern" 42 -24 "kern" 47 -102 "kern" 48 -30 "kern" 50 -30 "kern" 52 -144 "kern" 54 -264 "kern" 55 -269 "kern" 57 -227 "kern" 66 12 "kern" 67 -16 "kern" 68 -24 "kern" 69 -24 "kern" 70 63 "kern" 71 -32 "kern" 74 -144 "kern" 76 8 "kern" 77 -8 "kern" 78 -65 "kern" 79 -32 "kern" 81 -32 "kern" 82 16 "kern" 83 -8 "kern" 84 -24 "kern" 87 -32 "kern" 89 -32 "kern" 90 -9 "kern" 377 -144 "kern"
 EndChar
 
 StartChar: b
@@ -3498,7 +3499,7 @@ SplineSet
  0 710 l 1,40,-1
  74 710 l 1,20,-1
 EndSplineSet
-Kerns2: 378 -90 "kern" 90 -72 "kern" 89 -63 "kern" 87 -96 "kern" 86 -88 "kern" 85 -24 "kern" 84 -108 "kern" 81 -16 "kern" 79 -16 "kern" 78 -24 "kern" 77 -16 "kern" 76 -16 "kern" 75 -16 "kern" 74 -90 "kern" 72 -16 "kern" 71 -16 "kern" 69 -16 "kern" 68 -24 "kern" 65 -16 "kern" 46 -30 "kern" 45 -17 "kern" 42 -53 "kern" 39 -31 "kern" 31 -24 "kern"
+Kerns2: 377 -90 "kern" 90 -72 "kern" 89 -63 "kern" 87 -96 "kern" 86 -88 "kern" 85 -24 "kern" 84 -108 "kern" 81 -16 "kern" 79 -16 "kern" 78 -24 "kern" 77 -16 "kern" 76 -16 "kern" 75 -16 "kern" 74 -90 "kern" 72 -16 "kern" 71 -16 "kern" 69 -16 "kern" 68 -24 "kern" 65 -16 "kern" 46 -30 "kern" 45 -17 "kern" 42 -53 "kern" 39 -31 "kern" 31 -24 "kern"
 EndChar
 
 StartChar: c
@@ -3593,7 +3594,7 @@ SplineSet
  504 710 l 1,41,-1
  606 710 l 1,22,-1
 EndSplineSet
-Kerns2: 254 -24 "kern" 255 -33 "kern" 378 -96 "kern" 90 -24 "kern" 89 -24 "kern" 88 -132 "kern" 87 -24 "kern" 86 -32 "kern" 85 -16 "kern" 84 -8 "kern" 82 16 "kern" 79 -24 "kern" 75 -6 "kern" 74 -96 "kern" 73 -33 "kern" 72 24 "kern" 71 -16 "kern" 70 63 "kern" 69 -24 "kern" 68 -16 "kern" 65 -32 "kern" 53 -18 "kern" 45 -6 "kern" 41 -24 "kern"
+Kerns2: 254 -24 "kern" 255 -33 "kern" 377 -96 "kern" 90 -24 "kern" 89 -24 "kern" 88 -132 "kern" 87 -24 "kern" 86 -32 "kern" 85 -16 "kern" 84 -8 "kern" 82 16 "kern" 79 -24 "kern" 75 -6 "kern" 74 -96 "kern" 73 -33 "kern" 72 24 "kern" 71 -16 "kern" 70 63 "kern" 69 -24 "kern" 68 -16 "kern" 65 -32 "kern" 53 -18 "kern" 45 -6 "kern" 41 -24 "kern"
 EndChar
 
 StartChar: e
@@ -3656,7 +3657,7 @@ SplineSet
  541 386 541 386 557 336 c 128,-1,52
  573 286 573 286 571 226 c 1,11,12
 EndSplineSet
-Kerns2: 378 -176 "kern" 90 -24 "kern" 89 -63 "kern" 88 -56 "kern" 87 -63 "kern" 86 -72 "kern" 84 -16 "kern" 82 75 "kern" 78 -8 "kern" 77 63 "kern" 74 -176 "kern" 71 -16 "kern" 70 17 "kern" 69 -8 "kern" 68 -86 "kern" 67 -8 "kern" 65 -44 "kern" 46 17 "kern" 42 -36 "kern" 40 18 "kern" 39 -48 "kern" 38 17 "kern"
+Kerns2: 377 -176 "kern" 90 -24 "kern" 89 -63 "kern" 88 -56 "kern" 87 -63 "kern" 86 -72 "kern" 84 -16 "kern" 82 75 "kern" 78 -8 "kern" 77 63 "kern" 74 -176 "kern" 71 -16 "kern" 70 17 "kern" 69 -8 "kern" 68 -86 "kern" 67 -8 "kern" 65 -44 "kern" 46 17 "kern" 42 -36 "kern" 40 18 "kern" 39 -48 "kern" 38 17 "kern"
 EndChar
 
 StartChar: f
@@ -3704,7 +3705,7 @@ SplineSet
  118 412 118 412 118 406 c 2,38,-1
  136 6 l 1,0,-1
 EndSplineSet
-Kerns2: 0 -48 "kern" 12 -160 "kern" 36 24 "kern" 37 17 "kern" 39 -42 "kern" 42 -150 "kern" 46 18 "kern" 65 -184 "kern" 66 -32 "kern" 67 -128 "kern" 68 -128 "kern" 69 -160 "kern" 70 -32 "kern" 71 -144 "kern" 73 -96 "kern" 74 -191 "kern" 76 -16 "kern" 78 -104 "kern" 79 -160 "kern" 82 -72 "kern" 83 -112 "kern" 84 -88 "kern" 85 -128 "kern" 89 -144 "kern" 378 -191 "kern" 255 -96 "kern"
+Kerns2: 0 -48 "kern" 12 -160 "kern" 36 24 "kern" 37 17 "kern" 39 -42 "kern" 42 -150 "kern" 46 18 "kern" 65 -184 "kern" 66 -32 "kern" 67 -128 "kern" 68 -128 "kern" 69 -160 "kern" 70 -32 "kern" 71 -144 "kern" 73 -96 "kern" 74 -191 "kern" 76 -16 "kern" 78 -104 "kern" 79 -160 "kern" 82 -72 "kern" 83 -112 "kern" 84 -88 "kern" 85 -128 "kern" 89 -144 "kern" 377 -191 "kern" 255 -96 "kern"
 EndChar
 
 StartChar: g
@@ -3838,9 +3839,9 @@ AnchorPoint: "bottomattside" 79 5 basechar 0
 AnchorPoint: "bottom" 97 -31 basechar 0
 LayerCount: 2
 Fore
-Refer: 385 775 N 1 0 0 1 151 -145 2
+Refer: 384 775 N 1 0 0 1 151 -145 2
 Refer: 255 305 N 1 0 0 1 0 0 2
-Kerns2: 378 -136 "kern" 85 18 "kern" 83 17 "kern" 82 32 "kern" 78 -10 "kern" 77 18 "kern" 76 30 "kern" 75 24 "kern" 74 -136 "kern" 72 42 "kern" 71 -16 "kern" 70 72 "kern" 68 -16 "kern" 67 -22 "kern" 66 24 "kern" 53 17 "kern" 46 31 "kern" 45 31 "kern" 44 31 "kern" 42 -25 "kern" 40 53 "kern"
+Kerns2: 377 -136 "kern" 85 18 "kern" 83 17 "kern" 82 32 "kern" 78 -10 "kern" 77 18 "kern" 76 30 "kern" 75 24 "kern" 74 -136 "kern" 72 42 "kern" 71 -16 "kern" 70 72 "kern" 68 -16 "kern" 67 -22 "kern" 66 24 "kern" 53 17 "kern" 46 31 "kern" 45 31 "kern" 44 31 "kern" 42 -25 "kern" 40 53 "kern"
 Substitution2: "dotless-1" dotlessi
 EndChar
 
@@ -3869,8 +3870,8 @@ SplineSet
  258 541 258 541 245 553 c 0,22,23
  231 567 231 567 231 585 c 0,0,1
 EndSplineSet
-Refer: 378 567 N 1 0 0 1 0 0 2
-Kerns2: 378 -63 "kern" 83 16 "kern" 80 24 "kern" 79 -8 "kern" 75 48 "kern" 74 -63 "kern" 72 24 "kern" 70 24 "kern" 66 32 "kern" 54 -11 "kern" 47 -6 "kern" 42 -84 "kern" 38 32 "kern"
+Refer: 377 567 N 1 0 0 1 0 0 2
+Kerns2: 377 -63 "kern" 83 16 "kern" 80 24 "kern" 79 -8 "kern" 75 48 "kern" 74 -63 "kern" 72 24 "kern" 70 24 "kern" 66 32 "kern" 54 -11 "kern" 47 -6 "kern" 42 -84 "kern" 38 32 "kern"
 Substitution2: "dotless-1" uni0237
 EndChar
 
@@ -4020,12 +4021,12 @@ SplineSet
  560 104 560 104 560 18 c 1,30,-1
  444 18 l 1,0,1
 EndSplineSet
-Kerns2: 255 -22 "kern" 378 -128 "kern" 89 -40 "kern" 85 -40 "kern" 84 -48 "kern" 83 -16 "kern" 80 11 "kern" 79 -32 "kern" 78 -16 "kern" 77 24 "kern" 76 11 "kern" 75 -16 "kern" 74 -128 "kern" 73 -22 "kern" 72 -16 "kern" 71 -85 "kern" 70 42 "kern" 69 -22 "kern" 68 -24 "kern" 67 -24 "kern" 66 17 "kern" 65 -32 "kern" 53 6 "kern" 40 12 "kern" 39 -11 "kern" 37 31 "kern" 0 -63 "kern"
+Kerns2: 255 -22 "kern" 377 -128 "kern" 89 -40 "kern" 85 -40 "kern" 84 -48 "kern" 83 -16 "kern" 80 11 "kern" 79 -32 "kern" 78 -16 "kern" 77 24 "kern" 76 11 "kern" 75 -16 "kern" 74 -128 "kern" 73 -22 "kern" 72 -16 "kern" 71 -85 "kern" 70 42 "kern" 69 -22 "kern" 68 -24 "kern" 67 -24 "kern" 66 17 "kern" 65 -32 "kern" 53 6 "kern" 40 12 "kern" 39 -11 "kern" 37 31 "kern" 0 -63 "kern"
 EndChar
 
 StartChar: o
 Encoding: 111 111 79
-AltUni2: 00043e.ffffffff.0 0003bf.ffffffff.0
+AltUni2: 0003bf.ffffffff.0 00043e.ffffffff.0
 Width: 622
 GlyphClass: 2
 Flags: W
@@ -4074,7 +4075,7 @@ SplineSet
  529 388 529 388 551.5 344 c 128,-1,40
  574 300 574 300 571 247 c 0,22,23
 EndSplineSet
-Kerns2: 255 -32 "kern" 378 -191 "kern" 90 -88 "kern" 89 -63 "kern" 88 -56 "kern" 87 -75 "kern" 86 -104 "kern" 85 -24 "kern" 84 -72 "kern" 83 -24 "kern" 82 -16 "kern" 81 -16 "kern" 80 -24 "kern" 79 -24 "kern" 78 -24 "kern" 77 -24 "kern" 76 -23 "kern" 74 -191 "kern" 73 -32 "kern" 72 -16 "kern" 71 -24 "kern" 69 -32 "kern" 68 -24 "kern" 67 -24 "kern" 66 -16 "kern" 65 -24 "kern" 58 -73 "kern" 57 -162 "kern" 55 -138 "kern" 54 -132 "kern" 53 -53 "kern" 52 -138 "kern" 51 -17 "kern" 50 -42 "kern" 35 -17 "kern" 33 -72 "kern" 14 -54 "kern"
+Kerns2: 255 -32 "kern" 377 -191 "kern" 90 -88 "kern" 89 -63 "kern" 88 -56 "kern" 87 -75 "kern" 86 -104 "kern" 85 -24 "kern" 84 -72 "kern" 83 -24 "kern" 82 -16 "kern" 81 -16 "kern" 80 -24 "kern" 79 -24 "kern" 78 -24 "kern" 77 -24 "kern" 76 -23 "kern" 74 -191 "kern" 73 -32 "kern" 72 -16 "kern" 71 -24 "kern" 69 -32 "kern" 68 -24 "kern" 67 -24 "kern" 66 -16 "kern" 65 -24 "kern" 58 -73 "kern" 57 -162 "kern" 55 -138 "kern" 54 -132 "kern" 53 -53 "kern" 52 -138 "kern" 51 -17 "kern" 50 -42 "kern" 35 -17 "kern" 33 -72 "kern" 14 -54 "kern"
 EndChar
 
 StartChar: p
@@ -4130,7 +4131,7 @@ SplineSet
  29 477 l 1,44,-1
  96 477 l 1,22,-1
 EndSplineSet
-Kerns2: 255 -24 "kern" 378 -200 "kern" 90 -60 "kern" 89 -80 "kern" 84 -59 "kern" 81 -36 "kern" 79 -8 "kern" 78 -24 "kern" 77 -24 "kern" 74 -200 "kern" 73 -24 "kern" 72 -8 "kern" 71 -16 "kern" 70 24 "kern" 69 -16 "kern" 65 -16 "kern" 47 -36 "kern" 46 -30 "kern" 45 -25 "kern" 44 -11 "kern" 42 -144 "kern" 39 -36 "kern" 37 -8 "kern" 35 -25 "kern" 14 -32 "kern" 12 -102 "kern"
+Kerns2: 255 -24 "kern" 377 -200 "kern" 90 -60 "kern" 89 -80 "kern" 84 -59 "kern" 81 -36 "kern" 79 -8 "kern" 78 -24 "kern" 77 -24 "kern" 74 -200 "kern" 73 -24 "kern" 72 -8 "kern" 71 -16 "kern" 70 24 "kern" 69 -16 "kern" 65 -16 "kern" 47 -36 "kern" 46 -30 "kern" 45 -25 "kern" 44 -11 "kern" 42 -144 "kern" 39 -36 "kern" 37 -8 "kern" 35 -25 "kern" 14 -32 "kern" 12 -102 "kern"
 EndChar
 
 StartChar: q
@@ -4334,7 +4335,7 @@ SplineSet
  18 400 18 400 19 487 c 1,29,-1
  104 484 l 1,0,1
 EndSplineSet
-Kerns2: 378 -144 "kern" 90 -16 "kern" 86 -36 "kern" 82 16 "kern" 80 16 "kern" 78 -12 "kern" 76 32 "kern" 74 -144 "kern" 71 -24 "kern" 70 63 "kern" 69 -24 "kern" 67 -24 "kern" 65 -24 "kern" 50 -30 "kern" 49 -24 "kern" 47 -36 "kern" 46 -18 "kern" 42 -30 "kern" 33 -102 "kern"
+Kerns2: 377 -144 "kern" 90 -16 "kern" 86 -36 "kern" 82 16 "kern" 80 16 "kern" 78 -12 "kern" 76 32 "kern" 74 -144 "kern" 71 -24 "kern" 70 63 "kern" 69 -24 "kern" 67 -24 "kern" 65 -24 "kern" 50 -30 "kern" 49 -24 "kern" 47 -36 "kern" 46 -18 "kern" 42 -30 "kern" 33 -102 "kern"
 EndChar
 
 StartChar: v
@@ -4359,7 +4360,7 @@ SplineSet
  254 0 l 1,6,-1
  1 468 l 1,0,-1
 EndSplineSet
-Kerns2: 0 -48 "kern" 12 -78 "kern" 14 -78 "kern" 33 -233 "kern" 34 -24 "kern" 36 -11 "kern" 44 -24 "kern" 47 -138 "kern" 65 -96 "kern" 68 -80 "kern" 69 -88 "kern" 73 -24 "kern" 74 -185 "kern" 79 -96 "kern" 83 -24 "kern" 84 -24 "kern" 85 -16 "kern" 86 -24 "kern" 89 -32 "kern" 378 -185 "kern" 255 -24 "kern"
+Kerns2: 0 -48 "kern" 12 -78 "kern" 14 -78 "kern" 33 -233 "kern" 34 -24 "kern" 36 -11 "kern" 44 -24 "kern" 47 -138 "kern" 65 -96 "kern" 68 -80 "kern" 69 -88 "kern" 73 -24 "kern" 74 -185 "kern" 79 -96 "kern" 83 -24 "kern" 84 -24 "kern" 85 -16 "kern" 86 -24 "kern" 89 -32 "kern" 377 -185 "kern" 255 -24 "kern"
 EndChar
 
 StartChar: w
@@ -4477,17 +4478,17 @@ AnchorPoint: "top" 210 532 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-410 483 m 1,0,-1
- 411 442 l 1,1,-1
- 133 62 l 1,2,-1
- 427 63 l 1,3,-1
- 424 -3 l 1,4,-1
- 34 8 l 1,5,-1
- 32 49 l 1,6,-1
- 319 431 l 1,7,-1
- 8 428 l 1,8,-1
- 10 492 l 1,9,-1
- 410 483 l 1,0,-1
+410 483 m 5,0,-1
+ 411 442 l 5,1,-1
+ 133 62 l 5,2,-1
+ 427 63 l 5,3,-1
+ 424 -3 l 5,4,-1
+ 34 8 l 5,5,-1
+ 32 49 l 5,6,-1
+ 319 431 l 5,7,-1
+ 8 428 l 5,8,-1
+ 10 492 l 5,9,-1
+ 410 483 l 5,0,-1
 EndSplineSet
 Kerns2: 137 32 "kern" 90 -24 "kern" 89 -32 "kern" 85 -16 "kern" 84 -8 "kern" 83 -24 "kern" 79 -54 "kern" 69 -56 "kern" 67 -48 "kern" 65 -56 "kern" 48 -30 "kern" 47 -96 "kern" 33 -24 "kern"
 EndChar
@@ -5021,7 +5022,7 @@ AnchorPoint: "bottomattside" 561 19 basechar 0
 AnchorPoint: "top" 242 861 basechar 0
 LayerCount: 2
 Fore
-Refer: 379 768 N 1 0 0 1 283 93 2
+Refer: 378 768 N 1 0 0 1 283 93 2
 Refer: 33 65 N 1 0 0 1 0 0 2
 EndChar
 
@@ -5036,7 +5037,7 @@ AnchorPoint: "bottom" 297 -10 basechar 0
 AnchorPoint: "bottomattside" 561 19 basechar 0
 LayerCount: 2
 Fore
-Refer: 380 769 N 1 0 0 1 379 100 2
+Refer: 379 769 N 1 0 0 1 379 100 2
 Refer: 33 65 N 1 0 0 1 0 0 2
 EndChar
 
@@ -5051,7 +5052,7 @@ AnchorPoint: "bottom" 297 -10 basechar 0
 AnchorPoint: "bottomattside" 561 19 basechar 0
 LayerCount: 2
 Fore
-Refer: 381 770 S 1 0 0 1 365 103 2
+Refer: 380 770 S 1 0 0 1 365 103 2
 Refer: 33 65 N 1 0 0 1 0 0 2
 EndChar
 
@@ -5066,7 +5067,7 @@ AnchorPoint: "bottom" 297 -10 basechar 0
 AnchorPoint: "bottomattside" 561 19 basechar 0
 LayerCount: 2
 Fore
-Refer: 382 771 N 1 0 0 1 373 94 2
+Refer: 381 771 N 1 0 0 1 373 94 2
 Refer: 33 65 N 1 0 0 1 0 0 2
 EndChar
 
@@ -5096,7 +5097,7 @@ AnchorPoint: "bottom" 297 -10 basechar 0
 AnchorPoint: "bottomattside" 561 19 basechar 0
 LayerCount: 2
 Fore
-Refer: 386 778 N 1 0 0 1 326 60 2
+Refer: 385 778 N 1 0 0 1 326 60 2
 Refer: 33 65 N 1 0 0 1 0 0 2
 EndChar
 
@@ -5144,7 +5145,7 @@ AnchorPoint: "bottom" 353 -20 basechar 0
 AnchorPoint: "bottomattside" 545 12 basechar 0
 LayerCount: 2
 Fore
-Refer: 443 807 N 1 0 0 1 428 32 2
+Refer: 442 807 N 1 0 0 1 428 32 2
 Refer: 35 67 N 1 0 0 1 0 0 2
 EndChar
 
@@ -5159,7 +5160,7 @@ AnchorPoint: "bottomatt" 236 7 basechar 0
 AnchorPoint: "top" 218 864 basechar 0
 LayerCount: 2
 Fore
-Refer: 379 768 S 1 0 0 1 259 96 2
+Refer: 378 768 S 1 0 0 1 259 96 2
 Refer: 37 69 N 1 0 0 1 0 0 2
 EndChar
 
@@ -5174,7 +5175,7 @@ AnchorPoint: "bottomatt" 236 7 basechar 0
 AnchorPoint: "top" 237 868 basechar 0
 LayerCount: 2
 Fore
-Refer: 380 769 S 1 0 0 1 326 100 2
+Refer: 379 769 S 1 0 0 1 326 100 2
 Refer: 37 69 N 1 0 0 1 0 0 2
 EndChar
 
@@ -5189,7 +5190,7 @@ AnchorPoint: "bottomatt" 236 7 basechar 0
 AnchorPoint: "top" 205 927 basechar 0
 LayerCount: 2
 Fore
-Refer: 381 770 S 1 0 0 1 311 127 2
+Refer: 380 770 S 1 0 0 1 311 127 2
 Refer: 37 69 N 1 0 0 1 0 0 2
 EndChar
 
@@ -5220,7 +5221,7 @@ AnchorPoint: "bottomatt" 113 7 basechar 0
 AnchorPoint: "top" 92 872 basechar 0
 LayerCount: 2
 Fore
-Refer: 379 768 S 1 0 0 1 133 104 2
+Refer: 378 768 S 1 0 0 1 133 104 2
 Refer: 41 73 N 1 0 0 1 0 0 2
 EndChar
 
@@ -5235,7 +5236,7 @@ AnchorPoint: "bottomatt" 113 7 basechar 0
 AnchorPoint: "top" 104 877 basechar 0
 LayerCount: 2
 Fore
-Refer: 380 769 S 1 0 0 1 194 109 2
+Refer: 379 769 S 1 0 0 1 194 109 2
 Refer: 41 73 N 1 0 0 1 0 0 2
 EndChar
 
@@ -5250,13 +5251,13 @@ AnchorPoint: "bottomattside" 89 5 basechar 0
 AnchorPoint: "bottomatt" 113 7 basechar 0
 LayerCount: 2
 Fore
-Refer: 381 770 N 0.901367 0 0 0.902466 189 176 2
+Refer: 380 770 N 0.901367 0 0 0.902466 189 176 2
 Refer: 41 73 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: Idieresis
 Encoding: 207 207 121
-AltUni2: 0003aa.ffffffff.0 000407.ffffffff.0
+AltUni2: 000407.ffffffff.0 0003aa.ffffffff.0
 Width: 245
 GlyphClass: 2
 Flags: W
@@ -5272,7 +5273,7 @@ EndChar
 
 StartChar: Eth
 Encoding: 208 208 122
-AltUni2: 000189.ffffffff.0 000110.ffffffff.0
+AltUni2: 000110.ffffffff.0 000189.ffffffff.0
 Width: 825
 GlyphClass: 2
 Flags: W
@@ -5303,7 +5304,7 @@ AnchorPoint: "bottomatt" 399 20 basechar 0
 AnchorPoint: "top" 329 856 basechar 0
 LayerCount: 2
 Fore
-Refer: 382 771 S 1 0 0 1 453 81 2
+Refer: 381 771 S 1 0 0 1 453 81 2
 Refer: 46 78 N 1 0 0 1 0 0 2
 EndChar
 
@@ -5318,7 +5319,7 @@ AnchorPoint: "bottomatt" 443 7 basechar 0
 AnchorPoint: "top" 393 877 basechar 0
 LayerCount: 2
 Fore
-Refer: 379 768 S 1 0 0 1 434 109 2
+Refer: 378 768 S 1 0 0 1 434 109 2
 Refer: 47 79 N 1 0 0 1 0 0 2
 EndChar
 
@@ -5333,7 +5334,7 @@ AnchorPoint: "bottomatt" 443 7 basechar 0
 AnchorPoint: "top" 407 881 basechar 0
 LayerCount: 2
 Fore
-Refer: 380 769 S 1 0 0 1 496 113 2
+Refer: 379 769 S 1 0 0 1 496 113 2
 Refer: 47 79 N 1 0 0 1 0 0 2
 EndChar
 
@@ -5348,7 +5349,7 @@ AnchorPoint: "bottomatt" 443 7 basechar 0
 AnchorPoint: "top" 384 934 basechar 0
 LayerCount: 2
 Fore
-Refer: 381 770 N 1 0 0 1 490 134 2
+Refer: 380 770 N 1 0 0 1 490 134 2
 Refer: 47 79 S 1 0 0 1 0 0 2
 EndChar
 
@@ -5363,7 +5364,7 @@ AnchorPoint: "bottomatt" 443 7 basechar 0
 AnchorPoint: "top" 389 886 basechar 0
 LayerCount: 2
 Fore
-Refer: 382 771 S 1 0 0 1 513 111 2
+Refer: 381 771 S 1 0 0 1 513 111 2
 Refer: 47 79 N 1 0 0 1 0 0 2
 EndChar
 
@@ -5437,7 +5438,7 @@ AnchorPoint: "bottomatt" 382 13 basechar 0
 AnchorPoint: "top" 338 851 basechar 0
 LayerCount: 2
 Fore
-Refer: 379 768 S 1 0 0 1 379 83 2
+Refer: 378 768 S 1 0 0 1 379 83 2
 Refer: 53 85 N 1 0 0 1 0 0 2
 EndChar
 
@@ -5452,7 +5453,7 @@ AnchorPoint: "bottomatt" 382 13 basechar 0
 AnchorPoint: "top" 342 854 basechar 0
 LayerCount: 2
 Fore
-Refer: 380 769 S 1 0 0 1 431 86 2
+Refer: 379 769 S 1 0 0 1 431 86 2
 Refer: 53 85 N 1 0 0 1 0 0 2
 EndChar
 
@@ -5467,7 +5468,7 @@ AnchorPoint: "bottomatt" 382 13 basechar 0
 AnchorPoint: "top" 326 914 basechar 0
 LayerCount: 2
 Fore
-Refer: 381 770 S 1 0 0 1 432 115 2
+Refer: 380 770 S 1 0 0 1 432 115 2
 Refer: 53 85 N 1 0 0 1 0 0 2
 EndChar
 
@@ -5497,7 +5498,7 @@ AnchorPoint: "bottomatt" 341 17 basechar 0
 AnchorPoint: "top" 339 853 basechar 0
 LayerCount: 2
 Fore
-Refer: 380 769 S 1 0 0 1 428 85 2
+Refer: 379 769 S 1 0 0 1 428 85 2
 Refer: 57 89 N 1 0 0 1 0 0 2
 EndChar
 
@@ -5612,7 +5613,7 @@ AnchorPoint: "bottomattside" 526 9 basechar 0
 AnchorPoint: "top" 247 660 basechar 0
 LayerCount: 2
 Fore
-Refer: 379 768 N 1 0 0 1 288 -108 2
+Refer: 378 768 N 1 0 0 1 288 -108 2
 Refer: 65 97 N 1 0 0 1 0 0 2
 EndChar
 
@@ -5627,7 +5628,7 @@ AnchorPoint: "bottom" 312 -31 basechar 0
 AnchorPoint: "bottomattside" 526 9 basechar 0
 LayerCount: 2
 Fore
-Refer: 380 769 N 1 0 0 1 338 -116 2
+Refer: 379 769 N 1 0 0 1 338 -116 2
 Refer: 65 97 N 1 0 0 1 0 0 2
 EndChar
 
@@ -5642,7 +5643,7 @@ AnchorPoint: "bottom" 312 -31 basechar 0
 AnchorPoint: "bottomattside" 526 9 basechar 0
 LayerCount: 2
 Fore
-Refer: 381 770 N 1 0 0 1 327 -92 2
+Refer: 380 770 N 1 0 0 1 327 -92 2
 Refer: 65 97 N 1 0 0 1 0 0 2
 EndChar
 
@@ -5657,7 +5658,7 @@ AnchorPoint: "bottom" 312 -31 basechar 0
 AnchorPoint: "bottomattside" 526 9 basechar 0
 LayerCount: 2
 Fore
-Refer: 382 771 N 1 0 0 1 368 -110 2
+Refer: 381 771 N 1 0 0 1 368 -110 2
 Refer: 65 97 N 1 0 0 1 0 0 2
 EndChar
 
@@ -5687,7 +5688,7 @@ AnchorPoint: "bottom" 312 -31 basechar 0
 AnchorPoint: "bottomattside" 526 9 basechar 0
 LayerCount: 2
 Fore
-Refer: 386 778 N 1 0 0 1 350 -127 2
+Refer: 385 778 N 1 0 0 1 350 -127 2
 Refer: 65 97 N 1 0 0 1 0 0 2
 EndChar
 
@@ -5794,7 +5795,7 @@ AnchorPoint: "bottomattside" 412 11 basechar 0
 AnchorPoint: "bottomatt" 237 -112 basechar 0
 LayerCount: 2
 Fore
-Refer: 443 807 N 1 0 0 1 321 24 2
+Refer: 442 807 N 1 0 0 1 321 24 2
 Refer: 67 99 N 1 0 0 1 0 0 2
 EndChar
 
@@ -5809,7 +5810,7 @@ AnchorPoint: "bottomatt" 325 3 basechar 0
 AnchorPoint: "top" 280 634 basechar 0
 LayerCount: 2
 Fore
-Refer: 379 768 S 1 0 0 1 321 -134 2
+Refer: 378 768 S 1 0 0 1 321 -134 2
 Refer: 69 101 N 1 0 0 1 0 0 2
 EndChar
 
@@ -5824,7 +5825,7 @@ AnchorPoint: "bottomatt" 325 3 basechar 0
 AnchorPoint: "top" 286 643 basechar 0
 LayerCount: 2
 Fore
-Refer: 380 769 S 1 0 0 1 375 -125 2
+Refer: 379 769 S 1 0 0 1 375 -125 2
 Refer: 69 101 N 1 0 0 1 0 0 2
 EndChar
 
@@ -5839,7 +5840,7 @@ AnchorPoint: "bottomatt" 325 3 basechar 0
 AnchorPoint: "top" 251 696 basechar 0
 LayerCount: 2
 Fore
-Refer: 381 770 S 1 0 0 1 357 -103 2
+Refer: 380 770 S 1 0 0 1 357 -103 2
 Refer: 69 101 N 1 0 0 1 0 0 2
 EndChar
 
@@ -5870,7 +5871,7 @@ AnchorPoint: "bottomatt" 123 13 basechar 0
 AnchorPoint: "top" 108 625 basechar 0
 LayerCount: 2
 Fore
-Refer: 379 768 N 1 0 0 1 148 -143 2
+Refer: 378 768 N 1 0 0 1 148 -143 2
 Refer: 255 305 N 1 0 0 1 0 0 3
 EndChar
 
@@ -5886,7 +5887,7 @@ AnchorPoint: "bottomatt" 123 13 basechar 0
 AnchorPoint: "top" 127 618 basechar 0
 LayerCount: 2
 Fore
-Refer: 380 769 S 1 0 0 1 216 -150 2
+Refer: 379 769 S 1 0 0 1 216 -150 2
 Refer: 255 305 N 1 0 0 1 0 0 3
 EndChar
 
@@ -5901,13 +5902,13 @@ AnchorPoint: "bottomatt" 123 13 basechar 0
 AnchorPoint: "top" 108 696 basechar 0
 LayerCount: 2
 Fore
-Refer: 381 770 N 1 0 0 1 214 -103 2
+Refer: 380 770 N 1 0 0 1 214 -103 2
 Refer: 255 305 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: idieresis
 Encoding: 239 239 153
-AltUni2: 0003ca.ffffffff.0 000457.ffffffff.0
+AltUni2: 000457.ffffffff.0 0003ca.ffffffff.0
 Width: 244
 GlyphClass: 2
 Flags: W
@@ -5994,7 +5995,7 @@ AnchorPoint: "bottomatt" 310 24 basechar 0
 AnchorPoint: "top" 159 680 basechar 0
 LayerCount: 2
 Fore
-Refer: 382 771 N 1 0 0 1 283 -95 2
+Refer: 381 771 N 1 0 0 1 283 -95 2
 Refer: 78 110 N 1 0 0 1 0 0 2
 EndChar
 
@@ -6025,7 +6026,7 @@ AnchorPoint: "bottomatt" 317 -3 basechar 0
 AnchorPoint: "top" 229 665 basechar 0
 LayerCount: 2
 Fore
-Refer: 380 769 S 1 0 0 1 318 -103 2
+Refer: 379 769 S 1 0 0 1 318 -103 2
 Refer: 79 111 N 1 0 0 1 0 0 2
 EndChar
 
@@ -6040,7 +6041,7 @@ AnchorPoint: "bottomatt" 317 -3 basechar 0
 AnchorPoint: "top" 224 716 basechar 0
 LayerCount: 2
 Fore
-Refer: 381 770 S 1 0 0 1 331 -84 2
+Refer: 380 770 S 1 0 0 1 331 -84 2
 Refer: 79 111 N 1 0 0 1 0 0 2
 EndChar
 
@@ -6055,7 +6056,7 @@ AnchorPoint: "bottomatt" 317 -3 basechar 0
 AnchorPoint: "top" 227 663 basechar 0
 LayerCount: 2
 Fore
-Refer: 382 771 S 1 0 0 1 351 -113 2
+Refer: 381 771 S 1 0 0 1 351 -113 2
 Refer: 79 111 N 1 0 0 1 0 0 2
 EndChar
 
@@ -6117,7 +6118,7 @@ AnchorPoint: "bottomatt" 276 7 basechar 0
 AnchorPoint: "top" 245 650 basechar 0
 LayerCount: 2
 Fore
-Refer: 379 768 S 1 0 0 1 286 -118 2
+Refer: 378 768 S 1 0 0 1 286 -118 2
 Refer: 85 117 N 1 0 0 1 0 0 2
 EndChar
 
@@ -6132,7 +6133,7 @@ AnchorPoint: "bottomatt" 276 7 basechar 0
 AnchorPoint: "top" 294 644 basechar 0
 LayerCount: 2
 Fore
-Refer: 380 769 S 1 0 0 1 383 -124 2
+Refer: 379 769 S 1 0 0 1 383 -124 2
 Refer: 85 117 N 1 0 0 1 0 0 2
 EndChar
 
@@ -6147,7 +6148,7 @@ AnchorPoint: "bottomatt" 276 7 basechar 0
 AnchorPoint: "top" 253 697 basechar 0
 LayerCount: 2
 Fore
-Refer: 381 770 S 1 0 0 1 359 -102 2
+Refer: 380 770 S 1 0 0 1 359 -102 2
 Refer: 85 117 N 1 0 0 1 0 0 2
 EndChar
 
@@ -6177,7 +6178,7 @@ AnchorPoint: "bottomatt" 174 -215 basechar 0
 AnchorPoint: "top" 307 646 basechar 0
 LayerCount: 2
 Fore
-Refer: 380 769 S 1 0 0 1 396 -122 2
+Refer: 379 769 S 1 0 0 1 396 -122 2
 Refer: 89 121 N 1 0 0 1 0 0 2
 EndChar
 
@@ -6258,7 +6259,7 @@ AnchorPoint: "top" 259 733 basechar 0
 AnchorPoint: "bottom" 297 -10 basechar 0
 LayerCount: 2
 Fore
-Refer: 444 808 N 1 0 0 1 612 15 2
+Refer: 443 808 N 1 0 0 1 612 15 2
 Refer: 33 65 N 1 0 0 1 0 0 2
 EndChar
 
@@ -6273,7 +6274,7 @@ AnchorPoint: "top" 297 527 basechar 0
 AnchorPoint: "bottom" 312 -31 basechar 0
 LayerCount: 2
 Fore
-Refer: 444 808 N 1 0 0 1 578 5 2
+Refer: 443 808 N 1 0 0 1 578 5 2
 Refer: 65 97 N 1 0 0 1 0 0 2
 EndChar
 
@@ -6288,7 +6289,7 @@ AnchorPoint: "bottomatt" 370 32 basechar 0
 AnchorPoint: "top" 350 879 basechar 0
 LayerCount: 2
 Fore
-Refer: 380 769 S 1 0 0 1 439 111 2
+Refer: 379 769 S 1 0 0 1 439 111 2
 Refer: 35 67 N 1 0 0 1 0 0 2
 EndChar
 
@@ -6303,7 +6304,7 @@ AnchorPoint: "bottomatt" 262 24 basechar 0
 AnchorPoint: "top" 274 683 basechar 0
 LayerCount: 2
 Fore
-Refer: 380 769 S 1 0 0 1 364 -85 2
+Refer: 379 769 S 1 0 0 1 364 -85 2
 Refer: 67 99 N 1 0 0 1 0 0 2
 EndChar
 
@@ -6318,7 +6319,7 @@ AnchorPoint: "bottomatt" 236 7 basechar 0
 AnchorPoint: "bottomattside" 411 -92 basechar 0
 LayerCount: 2
 Fore
-Refer: 444 808 S 1 0 0 1 460 0 2
+Refer: 443 808 S 1 0 0 1 460 0 2
 Refer: 37 69 N 1 0 0 1 0 0 2
 EndChar
 
@@ -6333,7 +6334,7 @@ AnchorPoint: "bottomatt" 325 3 basechar 0
 AnchorPoint: "bottomattside" 479 -74 basechar 0
 LayerCount: 2
 Fore
-Refer: 444 808 S 1 0 0 1 528 18 2
+Refer: 443 808 S 1 0 0 1 528 18 2
 Refer: 69 101 N 1 0 0 1 0 0 2
 EndChar
 
@@ -6390,7 +6391,7 @@ AnchorPoint: "bottomatt" 399 20 basechar 0
 AnchorPoint: "top" 433 835 basechar 0
 LayerCount: 2
 Fore
-Refer: 380 769 N 1 0 0 1 522 67 2
+Refer: 379 769 N 1 0 0 1 522 67 2
 Refer: 46 78 N 1 0 0 1 0 0 3
 EndChar
 
@@ -6405,7 +6406,7 @@ AnchorPoint: "bottomatt" 310 24 basechar 0
 AnchorPoint: "top" 326 690 basechar 0
 LayerCount: 2
 Fore
-Refer: 380 769 S 1 0 0 1 415 -78 2
+Refer: 379 769 S 1 0 0 1 415 -78 2
 Refer: 78 110 N 1 0 0 1 0 0 3
 EndChar
 
@@ -6550,7 +6551,7 @@ AnchorPoint: "bottomatt" 249 20 basechar 0
 AnchorPoint: "top" 211 893 basechar 0
 LayerCount: 2
 Fore
-Refer: 380 769 S 1 0 0 1 300 125 2
+Refer: 379 769 S 1 0 0 1 300 125 2
 Refer: 51 83 N 1 0 0 1 0 0 2
 EndChar
 
@@ -6565,7 +6566,7 @@ AnchorPoint: "bottomatt" 226 -6 basechar 0
 AnchorPoint: "top" 231 703 basechar 0
 LayerCount: 2
 Fore
-Refer: 380 769 S 1 0 0 1 321 -65 2
+Refer: 379 769 S 1 0 0 1 321 -65 2
 Refer: 83 115 N 1 0 0 1 0 0 2
 EndChar
 
@@ -6580,7 +6581,7 @@ AnchorPoint: "bottomatt" 249 20 basechar 0
 AnchorPoint: "top" 208 901 basechar 0
 LayerCount: 2
 Fore
-Refer: 388 780 S 1 0 0 1 332 133 2
+Refer: 387 780 S 1 0 0 1 332 133 2
 Refer: 51 83 N 1 0 0 1 0 0 3
 EndChar
 
@@ -6595,7 +6596,7 @@ AnchorPoint: "bottomatt" 226 -6 basechar 0
 AnchorPoint: "top" 175 715 basechar 0
 LayerCount: 2
 Fore
-Refer: 388 780 S 1 0 0 1 299 -53 2
+Refer: 387 780 S 1 0 0 1 299 -53 2
 Refer: 83 115 N 1 0 0 1 0 0 2
 EndChar
 
@@ -6626,7 +6627,7 @@ AnchorPoint: "bottomatt" 372 17 basechar 0
 AnchorPoint: "top" 370 909 basechar 0
 LayerCount: 2
 Fore
-Refer: 380 769 S 1 0 0 1 459 141 2
+Refer: 379 769 S 1 0 0 1 459 141 2
 Refer: 58 90 N 1 0 0 1 0 0 2
 EndChar
 
@@ -6641,7 +6642,7 @@ AnchorPoint: "bottomatt" 253 13 basechar 0
 AnchorPoint: "top" 222 678 basechar 0
 LayerCount: 2
 Fore
-Refer: 380 769 S 1 0 0 1 311 -90 2
+Refer: 379 769 S 1 0 0 1 311 -90 2
 Refer: 90 122 N 1 0 0 1 0 0 2
 EndChar
 
@@ -6656,7 +6657,7 @@ AnchorPoint: "bottomatt" 372 17 basechar 0
 AnchorPoint: "top" 353 874 basechar 0
 LayerCount: 2
 Fore
-Refer: 385 775 S 1 0 0 1 397 83 2
+Refer: 384 775 S 1 0 0 1 397 83 2
 Refer: 58 90 N 1 0 0 1 0 0 2
 EndChar
 
@@ -6671,7 +6672,7 @@ AnchorPoint: "bottomatt" 253 13 basechar 0
 AnchorPoint: "top" 224 641 basechar 0
 LayerCount: 2
 Fore
-Refer: 385 775 S 1 0 0 1 268 -151 2
+Refer: 384 775 S 1 0 0 1 268 -151 2
 Refer: 90 122 N 1 0 0 1 0 0 2
 EndChar
 
@@ -6838,7 +6839,7 @@ SplineSet
  0 701 l 1,34,35
  0 702 0 702 420 712 c 1,15,-1
 EndSplineSet
-Kerns2: 33 -79 "kern" 35 -18 "kern" 42 -90 "kern" 47 -36 "kern" 52 -109 "kern" 53 -66 "kern" 54 -144 "kern" 55 -143 "kern" 57 -156 "kern" 58 -132 "kern" 71 -24 "kern" 74 -176 "kern" 76 -6 "kern" 77 -18 "kern" 78 -30 "kern" 84 -32 "kern" 85 -59 "kern" 86 -63 "kern" 378 -176 "kern"
+Kerns2: 33 -79 "kern" 35 -18 "kern" 42 -90 "kern" 47 -36 "kern" 52 -109 "kern" 53 -66 "kern" 54 -144 "kern" 55 -143 "kern" 57 -156 "kern" 58 -132 "kern" 71 -24 "kern" 74 -176 "kern" 76 -6 "kern" 77 -18 "kern" 78 -30 "kern" 84 -32 "kern" 85 -59 "kern" 86 -63 "kern" 377 -176 "kern"
 EndChar
 
 StartChar: afii10020
@@ -6858,7 +6859,7 @@ SplineSet
  0 701 l 5,5,6
  0 702 0 702 420 712 c 5,0,-1
 EndSplineSet
-Kerns2: 255 -16 "kern" 378 -176 "kern" 89 -63 "kern" 82 -32 "kern" 79 -96 "kern" 78 18 "kern" 77 -32 "kern" 74 -176 "kern" 73 -16 "kern" 69 -80 "kern" 68 24 "kern" 65 -80 "kern" 51 15 "kern" 44 16 "kern" 42 -191 "kern" 39 -42 "kern" 37 36 "kern" 36 25 "kern" 33 -88 "kern"
+Kerns2: 255 -16 "kern" 377 -176 "kern" 89 -63 "kern" 82 -32 "kern" 79 -96 "kern" 78 18 "kern" 77 -32 "kern" 74 -176 "kern" 73 -16 "kern" 69 -80 "kern" 68 24 "kern" 65 -80 "kern" 51 15 "kern" 44 16 "kern" 42 -191 "kern" 39 -42 "kern" 37 36 "kern" 36 25 "kern" 33 -88 "kern"
 EndChar
 
 StartChar: afii10021
@@ -7006,7 +7007,7 @@ GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
-Refer: 358 728 N 1 0 0 1 204 80 2
+Refer: 357 728 N 1 0 0 1 204 80 2
 Refer: 200 1048 N 1 0 0 1 0 0 2
 Kerns2: 85 6 "kern" 72 12 "kern" 71 -11 "kern" 69 -16 "kern" 48 11 "kern" 45 25 "kern" 44 12 "kern" 43 31 "kern" 40 31 "kern" 38 42 "kern" 37 42 "kern" 36 30 "kern" 34 17 "kern"
 EndChar
@@ -7055,7 +7056,7 @@ SplineSet
  87 0 l 1,9,-1
  19 0 l 1,0,-1
 EndSplineSet
-Kerns2: 33 -36 "kern" 35 -48 "kern" 41 -17 "kern" 44 -6 "kern" 45 -17 "kern" 46 -25 "kern" 47 -30 "kern" 50 -31 "kern" 52 -67 "kern" 54 -66 "kern" 69 -48 "kern" 70 32 "kern" 71 -42 "kern" 74 -48 "kern" 78 -18 "kern" 84 -32 "kern" 378 -48 "kern" 254 -17 "kern"
+Kerns2: 33 -36 "kern" 35 -48 "kern" 41 -17 "kern" 44 -6 "kern" 45 -17 "kern" 46 -25 "kern" 47 -30 "kern" 50 -31 "kern" 52 -67 "kern" 54 -66 "kern" 69 -48 "kern" 70 32 "kern" 71 -42 "kern" 74 -48 "kern" 78 -18 "kern" 84 -32 "kern" 377 -48 "kern" 254 -17 "kern"
 EndChar
 
 StartChar: afii10037
@@ -7143,7 +7144,7 @@ SplineSet
  521 611 521 611 457 616 c 1,83,-1
  430 99 l 1,65,66
 EndSplineSet
-Kerns2: 255 -32 "kern" 378 -176 "kern" 205 -18 "kern" 89 -16 "kern" 88 -16 "kern" 87 -16 "kern" 86 -32 "kern" 84 -16 "kern" 81 -16 "kern" 79 -16 "kern" 77 -16 "kern" 74 -176 "kern" 73 -32 "kern" 71 -16 "kern" 70 48 "kern" 69 -32 "kern" 68 -16 "kern" 66 -16 "kern" 65 -16 "kern" 58 -138 "kern" 57 -180 "kern" 56 -137 "kern" 55 -144 "kern" 54 -138 "kern" 53 -54 "kern" 52 -162 "kern" 50 -30 "kern" 48 -24 "kern" 46 -18 "kern" 42 -72 "kern" 40 -18 "kern" 34 -18 "kern" 33 -96 "kern" 14 -54 "kern"
+Kerns2: 255 -32 "kern" 377 -176 "kern" 205 -18 "kern" 89 -16 "kern" 88 -16 "kern" 87 -16 "kern" 86 -32 "kern" 84 -16 "kern" 81 -16 "kern" 79 -16 "kern" 77 -16 "kern" 74 -176 "kern" 73 -32 "kern" 71 -16 "kern" 70 48 "kern" 69 -32 "kern" 68 -16 "kern" 66 -16 "kern" 65 -16 "kern" 58 -138 "kern" 57 -180 "kern" 56 -137 "kern" 55 -144 "kern" 54 -138 "kern" 53 -54 "kern" 52 -162 "kern" 50 -30 "kern" 48 -24 "kern" 46 -18 "kern" 42 -72 "kern" 40 -18 "kern" 34 -18 "kern" 33 -96 "kern" 14 -54 "kern"
 EndChar
 
 StartChar: afii10040
@@ -7168,7 +7169,7 @@ SplineSet
  729 3 l 1,11,-1
  24 5 l 1,0,-1
 EndSplineSet
-Kerns2: 378 -25 "kern" 89 -32 "kern" 85 -25 "kern" 78 25 "kern" 74 -25 "kern" 72 12 "kern" 71 -11 "kern" 69 -32 "kern" 44 5 "kern" 43 12 "kern" 38 24 "kern" 37 24 "kern" 36 12 "kern" 34 12 "kern"
+Kerns2: 377 -25 "kern" 89 -32 "kern" 85 -25 "kern" 78 25 "kern" 74 -25 "kern" 72 12 "kern" 71 -11 "kern" 69 -32 "kern" 44 5 "kern" 43 12 "kern" 38 24 "kern" 37 24 "kern" 36 12 "kern" 34 12 "kern"
 EndChar
 
 StartChar: afii10041
@@ -7193,7 +7194,7 @@ SplineSet
  5 218 5 218 5 443 c 2,13,-1
  5 721 l 1,0,-1
 EndSplineSet
-Kerns2: 255 -24 "kern" 378 -144 "kern" 89 -96 "kern" 87 -16 "kern" 86 -32 "kern" 84 -16 "kern" 83 -32 "kern" 79 -112 "kern" 78 -30 "kern" 77 -25 "kern" 74 -144 "kern" 73 -24 "kern" 71 -36 "kern" 70 48 "kern" 69 -80 "kern" 68 -112 "kern" 65 -112 "kern" 58 -60 "kern" 57 -120 "kern" 42 -257 "kern" 33 -151 "kern" 14 -96 "kern" 12 -101 "kern"
+Kerns2: 255 -24 "kern" 377 -144 "kern" 89 -96 "kern" 87 -16 "kern" 86 -32 "kern" 84 -16 "kern" 83 -32 "kern" 79 -112 "kern" 78 -30 "kern" 77 -25 "kern" 74 -144 "kern" 73 -24 "kern" 71 -36 "kern" 70 48 "kern" 69 -80 "kern" 68 -112 "kern" 65 -112 "kern" 58 -60 "kern" 57 -120 "kern" 42 -257 "kern" 33 -151 "kern" 14 -96 "kern" 12 -101 "kern"
 EndChar
 
 StartChar: afii10042
@@ -7218,7 +7219,7 @@ SplineSet
  774 -6 l 1,11,-1
  10 -3 l 1,0,-1
 EndSplineSet
-Kerns2: 378 -25 "kern" 89 -32 "kern" 85 -25 "kern" 78 25 "kern" 74 -25 "kern" 72 12 "kern" 71 -11 "kern" 69 -32 "kern" 44 5 "kern" 43 12 "kern" 38 24 "kern" 37 24 "kern" 36 12 "kern" 34 12 "kern"
+Kerns2: 377 -25 "kern" 89 -32 "kern" 85 -25 "kern" 78 25 "kern" 74 -25 "kern" 72 12 "kern" 71 -11 "kern" 69 -32 "kern" 44 5 "kern" 43 12 "kern" 38 24 "kern" 37 24 "kern" 36 12 "kern" 34 12 "kern"
 EndChar
 
 StartChar: afii10043
@@ -7247,129 +7248,84 @@ SplineSet
  777 1 l 1,15,-1
  2 -3 l 1,0,-1
 EndSplineSet
-Kerns2: 378 -25 "kern" 89 -32 "kern" 85 -25 "kern" 78 25 "kern" 74 -25 "kern" 72 12 "kern" 71 -11 "kern" 69 -32 "kern" 44 5 "kern" 43 12 "kern" 38 24 "kern" 37 24 "kern" 36 12 "kern" 34 12 "kern"
+Kerns2: 377 -25 "kern" 89 -32 "kern" 85 -25 "kern" 78 25 "kern" 74 -25 "kern" 72 12 "kern" 71 -11 "kern" 69 -32 "kern" 44 5 "kern" 43 12 "kern" 38 24 "kern" 37 24 "kern" 36 12 "kern" 34 12 "kern"
 EndChar
 
 StartChar: afii10044
 Encoding: 1066 1066 210
-Width: 729
+Width: 644
 GlyphClass: 2
-Flags: W
+Flags: WO
 LayerCount: 2
 Fore
 SplineSet
-193 54 m 5,0,1
- 359 46 359 46 415 48 c 4,2,3
- 465 50 465 50 498.5 70 c 132,-1,4
- 532 90 532 90 551.5 120.5 c 132,-1,5
- 571 151 571 151 579 186.5 c 132,-1,6
- 587 222 587 222 586 256 c 4,7,8
- 583 304 583 304 563 339 c 132,-1,9
- 543 374 543 374 513 395.5 c 132,-1,10
- 483 417 483 417 449 426.5 c 132,-1,11
- 415 436 415 436 385 436 c 4,12,13
- 337 435 337 435 191 427 c 5,14,-1
- 193 54 l 5,0,1
-191 710 m 1,15,-1
- 193 481 l 1,16,-1
- 374 487 l 2,17,18
- 431 487 431 487 480.5 474 c 128,-1,19
- 530 461 530 461 568.5 433.5 c 128,-1,20
- 607 406 607 406 631 364.5 c 128,-1,21
- 655 323 655 323 662 267 c 0,22,23
- 667 211 667 211 649.5 161.5 c 128,-1,24
- 632 112 632 112 596.5 76 c 128,-1,25
- 561 40 561 40 510.5 19.5 c 128,-1,26
- 460 -1 460 -1 398 0 c 1,27,28
- 349 -10 349 -10 123 -3 c 1,29,-1
- 112 640 l 1,30,-1
- -13 643 l 1,31,-1
- -7 710 l 1,32,-1
- 117 710 l 1,33,-1
- 191 710 l 1,15,-1
+151 640 m 1
+ -13 643 l 1
+ -7 712 l 1
+ 180 709 l 1
+ 151 640 l 1
 EndSplineSet
-Kerns2: 255 -24 "kern" 378 -144 "kern" 89 -96 "kern" 87 -16 "kern" 86 -32 "kern" 84 -16 "kern" 83 -32 "kern" 79 -112 "kern" 78 -30 "kern" 77 -25 "kern" 74 -144 "kern" 73 -24 "kern" 71 -36 "kern" 70 48 "kern" 69 -80 "kern" 68 -112 "kern" 65 -112 "kern" 58 -60 "kern" 57 -120 "kern" 42 -257 "kern" 33 -151 "kern" 14 -96 "kern" 12 -101 "kern"
+Refer: 212 1068 S 1 0 0 1 117 0 2
+Kerns2: 255 -24 "kern" 377 -144 "kern" 89 -96 "kern" 87 -16 "kern" 86 -32 "kern" 84 -16 "kern" 83 -32 "kern" 79 -112 "kern" 78 -30 "kern" 77 -25 "kern" 74 -144 "kern" 73 -24 "kern" 71 -36 "kern" 70 48 "kern" 69 -80 "kern" 68 -112 "kern" 65 -112 "kern" 58 -60 "kern" 57 -120 "kern" 42 -257 "kern" 33 -151 "kern" 14 -96 "kern" 12 -101 "kern"
 EndChar
 
 StartChar: afii10045
 Encoding: 1067 1067 211
-Width: 741
+Width: 673
 GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
 SplineSet
-586 713 m 1,0,-1
- 669 715 l 1,1,-1
- 652 -2 l 1,2,-1
- 586 -3 l 1,3,-1
- 586 713 l 1,0,-1
-69 55 m 1,4,5
- 235 47 235 47 292 49 c 0,6,7
- 342 51 342 51 375.5 71.5 c 128,-1,8
- 409 92 409 92 429 122.5 c 128,-1,9
- 449 153 449 153 456 188.5 c 128,-1,10
- 463 224 463 224 462 258 c 0,11,12
- 459 306 459 306 439 341 c 128,-1,13
- 419 376 419 376 388.5 397.5 c 128,-1,14
- 358 419 358 419 324 428 c 128,-1,15
- 290 437 290 437 261 437 c 0,16,17
- 212 436 212 436 66 427 c 1,18,-1
- 69 55 l 1,4,5
-65 710 m 1,19,-1
- 67 482 l 1,20,-1
- 249 488 l 2,21,22
- 306 489 306 489 356 476 c 128,-1,23
- 406 463 406 463 444 435.5 c 128,-1,24
- 482 408 482 408 506.5 367 c 128,-1,25
- 531 326 531 326 539 270 c 0,26,27
- 544 214 544 214 526.5 164 c 128,-1,28
- 509 114 509 114 474 78.5 c 128,-1,29
- 439 43 439 43 388.5 21.5 c 128,-1,30
- 338 0 338 0 276 1 c 1,31,32
- 227 -8 227 -8 1 -3 c 1,33,-1
- -9 710 l 1,34,-1
- 65 710 l 1,19,-1
+518 713 m 5
+ 601 715 l 5
+ 584 -2 l 5
+ 518 -3 l 5
+ 518 713 l 5
 EndSplineSet
-Kerns2: 255 -24 "kern" 378 -144 "kern" 89 -96 "kern" 87 -16 "kern" 86 -32 "kern" 84 -16 "kern" 83 -32 "kern" 79 -112 "kern" 78 -30 "kern" 77 -25 "kern" 74 -144 "kern" 73 -24 "kern" 71 -36 "kern" 70 48 "kern" 69 -80 "kern" 68 -112 "kern" 65 -112 "kern" 58 -60 "kern" 57 -120 "kern" 42 -257 "kern" 33 -151 "kern" 14 -96 "kern" 12 -101 "kern"
+Refer: 212 1068 N 1 0 0 1 -9 0 2
+Kerns2: 255 -24 "kern" 377 -144 "kern" 89 -96 "kern" 87 -16 "kern" 86 -32 "kern" 84 -16 "kern" 83 -32 "kern" 79 -112 "kern" 78 -30 "kern" 77 -25 "kern" 74 -144 "kern" 73 -24 "kern" 71 -36 "kern" 70 48 "kern" 69 -80 "kern" 68 -112 "kern" 65 -112 "kern" 58 -60 "kern" 57 -120 "kern" 42 -257 "kern" 33 -151 "kern" 14 -96 "kern" 12 -101 "kern"
 EndChar
 
 StartChar: afii10046
 Encoding: 1068 1068 212
-Width: 587
+Width: 527
 GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
 SplineSet
-75 54 m 1,0,1
- 241 46 241 46 298 48 c 0,2,3
- 348 50 348 50 381.5 70 c 128,-1,4
- 415 90 415 90 435 120.5 c 128,-1,5
- 455 151 455 151 462.5 186.5 c 128,-1,6
- 470 222 470 222 469 256 c 0,7,8
- 466 304 466 304 446 339 c 128,-1,9
- 426 374 426 374 396.5 395.5 c 128,-1,10
- 367 417 367 417 332.5 426.5 c 128,-1,11
- 298 436 298 436 268 436 c 0,12,13
- 220 435 220 435 74 427 c 1,14,-1
- 75 54 l 1,0,1
-74 710 m 1,15,-1
- 75 481 l 1,16,-1
- 257 487 l 2,17,18
- 314 487 314 487 364 474 c 128,-1,19
- 414 461 414 461 452 433.5 c 128,-1,20
- 490 406 490 406 514.5 364.5 c 128,-1,21
- 539 323 539 323 545 267 c 0,22,23
- 550 211 550 211 532.5 161.5 c 128,-1,24
- 515 112 515 112 479.5 76 c 128,-1,25
- 444 40 444 40 393.5 19.5 c 128,-1,26
- 343 -1 343 -1 282 0 c 1,27,28
- 234 -10 234 -10 6 -3 c 1,29,-1
- 0 710 l 1,30,-1
- 74 710 l 1,15,-1
+68 97 m 1,0,1
+ 90 95 90 95 127.5 94.5 c 128,-1,2
+ 165 94 165 94 204 98.5 c 128,-1,3
+ 243 103 243 103 279.5 114.5 c 128,-1,4
+ 316 126 316 126 344 146.5 c 128,-1,5
+ 372 167 372 167 386 199 c 128,-1,6
+ 400 231 400 231 395 278 c 0,7,8
+ 389 315 389 315 363 336.5 c 128,-1,9
+ 337 358 337 358 299 369.5 c 128,-1,10
+ 261 381 261 381 218.5 384 c 128,-1,11
+ 176 387 176 387 139 386 c 128,-1,12
+ 102 385 102 385 82 383 c 2,13,-1
+ 61 380 l 1,14,-1
+ 68 97 l 1,0,1
+63 709 m 1,15,-1
+ 62 434 l 1,16,17
+ 208 443 208 443 272.5 428 c 128,-1,18
+ 337 413 337 413 377 390 c 0,19,20
+ 393 381 393 381 409.5 367 c 128,-1,21
+ 426 353 426 353 439.5 334 c 128,-1,22
+ 453 315 453 315 461 291 c 128,-1,23
+ 469 267 469 267 470 237 c 0,24,25
+ 471 189 471 189 452 154 c 128,-1,26
+ 433 119 433 119 400.5 94.5 c 128,-1,27
+ 368 70 368 70 325.5 53.5 c 128,-1,28
+ 283 37 283 37 239 28 c 0,29,30
+ 135 5 135 5 0 8 c 1,31,-1
+ 0 710 l 1,32,33
+ 63 709 l 1,15,-1
 EndSplineSet
-Kerns2: 255 -24 "kern" 378 -144 "kern" 89 -96 "kern" 87 -16 "kern" 86 -32 "kern" 84 -16 "kern" 83 -32 "kern" 79 -112 "kern" 78 -30 "kern" 77 -25 "kern" 74 -144 "kern" 73 -24 "kern" 71 -36 "kern" 70 48 "kern" 69 -80 "kern" 68 -112 "kern" 65 -112 "kern" 58 -60 "kern" 57 -120 "kern" 42 -257 "kern" 33 -151 "kern" 14 -96 "kern" 12 -101 "kern"
+Kerns2: 255 -24 "kern" 377 -144 "kern" 89 -96 "kern" 87 -16 "kern" 86 -32 "kern" 84 -16 "kern" 83 -32 "kern" 79 -112 "kern" 78 -30 "kern" 77 -25 "kern" 74 -144 "kern" 73 -24 "kern" 71 -36 "kern" 70 48 "kern" 69 -80 "kern" 68 -112 "kern" 65 -112 "kern" 58 -60 "kern" 57 -120 "kern" 42 -257 "kern" 33 -151 "kern" 14 -96 "kern" 12 -101 "kern"
 EndChar
 
 StartChar: afii10047
@@ -7469,7 +7425,7 @@ SplineSet
  406 714 406 714 442 719.5 c 128,-1,53
  478 725 478 725 510 724 c 0,21,22
 EndSplineSet
-Kerns2: 255 -32 "kern" 378 -176 "kern" 214 -18 "kern" 89 -16 "kern" 88 -16 "kern" 87 -16 "kern" 86 -32 "kern" 84 -16 "kern" 81 -16 "kern" 79 -16 "kern" 77 -16 "kern" 74 -176 "kern" 73 -32 "kern" 71 -16 "kern" 70 48 "kern" 69 -32 "kern" 68 -16 "kern" 66 -16 "kern" 65 -16 "kern" 58 -138 "kern" 57 -180 "kern" 56 -137 "kern" 55 -144 "kern" 54 -138 "kern" 53 -54 "kern" 52 -162 "kern" 50 -30 "kern" 48 -24 "kern" 46 -18 "kern" 42 -72 "kern" 40 -18 "kern" 34 -18 "kern" 33 -96 "kern" 14 -54 "kern"
+Kerns2: 255 -32 "kern" 377 -176 "kern" 214 -18 "kern" 89 -16 "kern" 88 -16 "kern" 87 -16 "kern" 86 -32 "kern" 84 -16 "kern" 81 -16 "kern" 79 -16 "kern" 77 -16 "kern" 74 -176 "kern" 73 -32 "kern" 71 -16 "kern" 70 48 "kern" 69 -32 "kern" 68 -16 "kern" 66 -16 "kern" 65 -16 "kern" 58 -138 "kern" 57 -180 "kern" 56 -137 "kern" 55 -144 "kern" 54 -138 "kern" 53 -54 "kern" 52 -162 "kern" 50 -30 "kern" 48 -24 "kern" 46 -18 "kern" 42 -72 "kern" 40 -18 "kern" 34 -18 "kern" 33 -96 "kern" 14 -54 "kern"
 EndChar
 
 StartChar: afii10049
@@ -7515,7 +7471,7 @@ SplineSet
  55 395 55 395 29.5 437 c 128,-1,36
  4 479 4 479 8 539 c 0,19,20
 EndSplineSet
-Kerns2: 255 -36 "kern" 378 -191 "kern" 89 -63 "kern" 87 -32 "kern" 85 -31 "kern" 79 -96 "kern" 77 -18 "kern" 76 -25 "kern" 74 -191 "kern" 73 -36 "kern" 69 -96 "kern" 68 -112 "kern" 65 -112 "kern" 58 -42 "kern" 57 -84 "kern" 55 -66 "kern" 53 -53 "kern" 52 -66 "kern" 47 -66 "kern" 39 -54 "kern" 33 -96 "kern"
+Kerns2: 255 -36 "kern" 377 -191 "kern" 89 -63 "kern" 87 -32 "kern" 85 -31 "kern" 79 -96 "kern" 77 -18 "kern" 76 -25 "kern" 74 -191 "kern" 73 -36 "kern" 69 -96 "kern" 68 -112 "kern" 65 -112 "kern" 58 -42 "kern" 57 -84 "kern" 55 -66 "kern" 53 -53 "kern" 52 -66 "kern" 47 -66 "kern" 39 -54 "kern" 33 -96 "kern"
 EndChar
 
 StartChar: afii10066
@@ -7570,7 +7526,7 @@ SplineSet
  164 78 164 78 199 57.5 c 128,-1,56
  234 37 234 37 283 35 c 0,35,36
 EndSplineSet
-Kerns2: 378 -144 "kern" 90 -9 "kern" 89 -32 "kern" 87 -32 "kern" 84 -24 "kern" 83 -8 "kern" 82 16 "kern" 81 -32 "kern" 79 -32 "kern" 78 -65 "kern" 77 -8 "kern" 76 8 "kern" 74 -144 "kern" 71 -32 "kern" 70 63 "kern" 69 -24 "kern" 68 -24 "kern" 66 12 "kern" 57 -227 "kern" 55 -269 "kern" 54 -264 "kern" 52 -144 "kern" 50 -30 "kern" 48 -30 "kern" 47 -102 "kern" 42 -24 "kern" 36 -5 "kern" 12 8 "kern"
+Kerns2: 377 -144 "kern" 90 -9 "kern" 89 -32 "kern" 87 -32 "kern" 84 -24 "kern" 83 -8 "kern" 82 16 "kern" 81 -32 "kern" 79 -32 "kern" 78 -65 "kern" 77 -8 "kern" 76 8 "kern" 74 -144 "kern" 71 -32 "kern" 70 63 "kern" 69 -24 "kern" 68 -24 "kern" 66 12 "kern" 57 -227 "kern" 55 -269 "kern" 54 -264 "kern" 52 -144 "kern" 50 -30 "kern" 48 -30 "kern" 47 -102 "kern" 42 -24 "kern" 36 -5 "kern" 12 8 "kern"
 EndChar
 
 StartChar: afii10067
@@ -7631,7 +7587,7 @@ SplineSet
  477 216 477 216 485.5 199.5 c 128,-1,64
  494 183 494 183 496 161 c 0,38,39
 EndSplineSet
-Kerns2: 12 8 "kern" 36 -5 "kern" 42 -24 "kern" 47 -102 "kern" 48 -30 "kern" 50 -30 "kern" 52 -144 "kern" 54 -264 "kern" 55 -269 "kern" 57 -227 "kern" 66 12 "kern" 68 -24 "kern" 69 -24 "kern" 70 63 "kern" 71 -32 "kern" 74 -144 "kern" 76 8 "kern" 77 -8 "kern" 78 -65 "kern" 79 -32 "kern" 81 -32 "kern" 82 16 "kern" 83 -8 "kern" 84 -24 "kern" 87 -32 "kern" 89 -32 "kern" 90 -9 "kern" 378 -144 "kern"
+Kerns2: 12 8 "kern" 36 -5 "kern" 42 -24 "kern" 47 -102 "kern" 48 -30 "kern" 50 -30 "kern" 52 -144 "kern" 54 -264 "kern" 55 -269 "kern" 57 -227 "kern" 66 12 "kern" 68 -24 "kern" 69 -24 "kern" 70 63 "kern" 71 -32 "kern" 74 -144 "kern" 76 8 "kern" 77 -8 "kern" 78 -65 "kern" 79 -32 "kern" 81 -32 "kern" 82 16 "kern" 83 -8 "kern" 84 -24 "kern" 87 -32 "kern" 89 -32 "kern" 90 -9 "kern" 377 -144 "kern"
 EndChar
 
 StartChar: afii10068
@@ -7779,7 +7735,7 @@ SplineSet
  459 475 l 1,9,-1
  512 476 l 1,0,-1
 EndSplineSet
-Kerns2: 378 -144 "kern" 90 -16 "kern" 86 -36 "kern" 82 16 "kern" 80 16 "kern" 78 -12 "kern" 76 32 "kern" 74 -144 "kern" 71 -24 "kern" 70 63 "kern" 69 -24 "kern" 65 -24 "kern" 50 -30 "kern" 49 -24 "kern" 47 -36 "kern" 46 -18 "kern" 42 -30 "kern" 33 -102 "kern"
+Kerns2: 377 -144 "kern" 90 -16 "kern" 86 -36 "kern" 82 16 "kern" 80 16 "kern" 78 -12 "kern" 76 32 "kern" 74 -144 "kern" 71 -24 "kern" 70 63 "kern" 69 -24 "kern" 65 -24 "kern" 50 -30 "kern" 49 -24 "kern" 47 -36 "kern" 46 -18 "kern" 42 -30 "kern" 33 -102 "kern"
 EndChar
 
 StartChar: afii10075
@@ -7789,9 +7745,9 @@ GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
-Refer: 358 728 N 0.809326 0 0 0.852112 128 -33 2
+Refer: 357 728 N 0.809326 0 0 0.852112 128 -33 2
 Refer: 222 1080 N 1 0 0 1 0 0 2
-Kerns2: 378 -144 "kern" 90 -16 "kern" 86 -36 "kern" 82 16 "kern" 80 16 "kern" 78 -12 "kern" 76 32 "kern" 74 -144 "kern" 71 -24 "kern" 70 63 "kern" 69 -24 "kern" 65 -24 "kern" 50 -30 "kern" 49 -24 "kern" 47 -36 "kern" 46 -18 "kern" 42 -30 "kern" 33 -102 "kern"
+Kerns2: 377 -144 "kern" 90 -16 "kern" 86 -36 "kern" 82 16 "kern" 80 16 "kern" 78 -12 "kern" 76 32 "kern" 74 -144 "kern" 71 -24 "kern" 70 63 "kern" 69 -24 "kern" 65 -24 "kern" 50 -30 "kern" 49 -24 "kern" 47 -36 "kern" 46 -18 "kern" 42 -30 "kern" 33 -102 "kern"
 EndChar
 
 StartChar: afii10076
@@ -7837,7 +7793,7 @@ SplineSet
  393 414 l 1,11,-1
  220 412 l 1,0,1
 EndSplineSet
-Kerns2: 255 -24 "kern" 378 -185 "kern" 225 -24 "kern" 89 -32 "kern" 85 -16 "kern" 84 -24 "kern" 83 -24 "kern" 79 -96 "kern" 74 -185 "kern" 73 -24 "kern" 69 -88 "kern" 68 -80 "kern" 65 -96 "kern" 47 -138 "kern" 44 -24 "kern" 36 -11 "kern" 34 -24 "kern" 33 -233 "kern" 14 -78 "kern" 12 -78 "kern" 0 -48 "kern"
+Kerns2: 255 -24 "kern" 377 -185 "kern" 225 -24 "kern" 89 -32 "kern" 85 -16 "kern" 84 -24 "kern" 83 -24 "kern" 79 -96 "kern" 74 -185 "kern" 73 -24 "kern" 69 -88 "kern" 68 -80 "kern" 65 -96 "kern" 47 -138 "kern" 44 -24 "kern" 36 -11 "kern" 34 -24 "kern" 33 -233 "kern" 14 -78 "kern" 12 -78 "kern" 0 -48 "kern"
 EndChar
 
 StartChar: afii10078
@@ -7890,7 +7846,7 @@ SplineSet
  427 0 l 1,11,-1
  342 3 l 1,0,-1
 EndSplineSet
-Kerns2: 0 -63 "kern" 37 31 "kern" 39 -11 "kern" 40 12 "kern" 53 6 "kern" 65 -32 "kern" 66 17 "kern" 68 -24 "kern" 69 -22 "kern" 70 42 "kern" 71 -85 "kern" 72 -16 "kern" 73 -22 "kern" 74 -128 "kern" 75 -16 "kern" 76 11 "kern" 77 24 "kern" 79 -32 "kern" 80 11 "kern" 83 -16 "kern" 84 -48 "kern" 85 -40 "kern" 89 -40 "kern" 227 -16 "kern" 378 -128 "kern" 255 -22 "kern"
+Kerns2: 0 -63 "kern" 37 31 "kern" 39 -11 "kern" 40 12 "kern" 53 6 "kern" 65 -32 "kern" 66 17 "kern" 68 -24 "kern" 69 -22 "kern" 70 42 "kern" 71 -85 "kern" 72 -16 "kern" 73 -22 "kern" 74 -128 "kern" 75 -16 "kern" 76 11 "kern" 77 24 "kern" 79 -32 "kern" 80 11 "kern" 83 -16 "kern" 84 -48 "kern" 85 -40 "kern" 89 -40 "kern" 227 -16 "kern" 377 -128 "kern" 255 -22 "kern"
 EndChar
 
 StartChar: afii10081
@@ -7911,7 +7867,7 @@ SplineSet
  427 0 l 1,7,-1
  342 3 l 1,0,-1
 EndSplineSet
-Kerns2: 255 -22 "kern" 378 -128 "kern" 228 -16 "kern" 89 -40 "kern" 85 -40 "kern" 84 -48 "kern" 83 -16 "kern" 80 11 "kern" 79 -32 "kern" 77 24 "kern" 76 11 "kern" 75 -16 "kern" 74 -128 "kern" 73 -22 "kern" 72 -16 "kern" 71 -85 "kern" 70 42 "kern" 69 -22 "kern" 68 -24 "kern" 66 17 "kern" 65 -32 "kern" 53 6 "kern" 40 12 "kern" 39 -11 "kern" 37 31 "kern" 0 -63 "kern"
+Kerns2: 255 -22 "kern" 377 -128 "kern" 228 -16 "kern" 89 -40 "kern" 85 -40 "kern" 84 -48 "kern" 83 -16 "kern" 80 11 "kern" 79 -32 "kern" 77 24 "kern" 76 11 "kern" 75 -16 "kern" 74 -128 "kern" 73 -22 "kern" 72 -16 "kern" 71 -85 "kern" 70 42 "kern" 69 -22 "kern" 68 -24 "kern" 66 17 "kern" 65 -32 "kern" 53 6 "kern" 40 12 "kern" 39 -11 "kern" 37 31 "kern" 0 -63 "kern"
 EndChar
 
 StartChar: afii10084
@@ -7990,7 +7946,7 @@ SplineSet
  506 399 506 399 530 357.5 c 128,-1,49
  554 316 554 316 553 265 c 0,24,25
 EndSplineSet
-Kerns2: 12 -102 "kern" 14 -32 "kern" 35 -25 "kern" 37 -8 "kern" 39 -36 "kern" 42 -144 "kern" 44 -11 "kern" 45 -25 "kern" 46 -30 "kern" 47 -36 "kern" 65 -16 "kern" 69 -16 "kern" 70 24 "kern" 71 -16 "kern" 72 -8 "kern" 73 -24 "kern" 74 -200 "kern" 77 -24 "kern" 78 -24 "kern" 79 -8 "kern" 81 -36 "kern" 84 -59 "kern" 89 -80 "kern" 90 -60 "kern" 378 -200 "kern" 255 -24 "kern"
+Kerns2: 12 -102 "kern" 14 -32 "kern" 35 -25 "kern" 37 -8 "kern" 39 -36 "kern" 42 -144 "kern" 44 -11 "kern" 45 -25 "kern" 46 -30 "kern" 47 -36 "kern" 65 -16 "kern" 69 -16 "kern" 70 24 "kern" 71 -16 "kern" 72 -8 "kern" 73 -24 "kern" 74 -200 "kern" 77 -24 "kern" 78 -24 "kern" 79 -8 "kern" 81 -36 "kern" 84 -59 "kern" 89 -80 "kern" 90 -60 "kern" 377 -200 "kern" 255 -24 "kern"
 EndChar
 
 StartChar: afii10088
@@ -8015,7 +7971,7 @@ SplineSet
  419 6 l 1,11,-1
  28 1 l 1,0,-1
 EndSplineSet
-Kerns2: 255 -22 "kern" 378 -128 "kern" 231 -16 "kern" 89 -40 "kern" 85 -40 "kern" 84 -48 "kern" 83 -16 "kern" 80 11 "kern" 79 -32 "kern" 77 24 "kern" 76 11 "kern" 75 -16 "kern" 74 -128 "kern" 73 -22 "kern" 72 -16 "kern" 71 -85 "kern" 70 42 "kern" 69 -22 "kern" 68 -24 "kern" 66 17 "kern" 65 -32 "kern" 53 6 "kern" 40 12 "kern" 39 -11 "kern" 37 31 "kern" 0 -63 "kern"
+Kerns2: 255 -22 "kern" 377 -128 "kern" 231 -16 "kern" 89 -40 "kern" 85 -40 "kern" 84 -48 "kern" 83 -16 "kern" 80 11 "kern" 79 -32 "kern" 77 24 "kern" 76 11 "kern" 75 -16 "kern" 74 -128 "kern" 73 -22 "kern" 72 -16 "kern" 71 -85 "kern" 70 42 "kern" 69 -22 "kern" 68 -24 "kern" 66 17 "kern" 65 -32 "kern" 53 6 "kern" 40 12 "kern" 39 -11 "kern" 37 31 "kern" 0 -63 "kern"
 EndChar
 
 StartChar: afii10089
@@ -8040,7 +7996,7 @@ SplineSet
  290 132 l 2,12,13
  23 145 23 145 23 322 c 2,0,-1
 EndSplineSet
-Kerns2: 378 -144 "kern" 90 -9 "kern" 89 -32 "kern" 87 -32 "kern" 84 -24 "kern" 83 -8 "kern" 82 16 "kern" 81 -32 "kern" 79 -32 "kern" 78 -65 "kern" 77 -8 "kern" 76 8 "kern" 74 -144 "kern" 71 -32 "kern" 70 63 "kern" 69 -24 "kern" 68 -24 "kern" 66 12 "kern" 57 -227 "kern" 55 -269 "kern" 54 -264 "kern" 52 -144 "kern" 50 -30 "kern" 48 -30 "kern" 47 -102 "kern" 42 -24 "kern" 36 -5 "kern" 12 8 "kern"
+Kerns2: 377 -144 "kern" 90 -9 "kern" 89 -32 "kern" 87 -32 "kern" 84 -24 "kern" 83 -8 "kern" 82 16 "kern" 81 -32 "kern" 79 -32 "kern" 78 -65 "kern" 77 -8 "kern" 76 8 "kern" 74 -144 "kern" 71 -32 "kern" 70 63 "kern" 69 -24 "kern" 68 -24 "kern" 66 12 "kern" 57 -227 "kern" 55 -269 "kern" 54 -264 "kern" 52 -144 "kern" 50 -30 "kern" 48 -30 "kern" 47 -102 "kern" 42 -24 "kern" 36 -5 "kern" 12 8 "kern"
 EndChar
 
 StartChar: afii10090
@@ -8065,7 +8021,7 @@ SplineSet
  573 6 l 1,11,-1
  28 1 l 1,0,-1
 EndSplineSet
-Kerns2: 255 -22 "kern" 378 -128 "kern" 233 -16 "kern" 89 -40 "kern" 85 -40 "kern" 84 -48 "kern" 83 -16 "kern" 80 11 "kern" 79 -32 "kern" 77 24 "kern" 76 11 "kern" 75 -16 "kern" 74 -128 "kern" 73 -22 "kern" 72 -16 "kern" 71 -85 "kern" 70 42 "kern" 69 -22 "kern" 68 -24 "kern" 66 17 "kern" 65 -32 "kern" 53 6 "kern" 40 12 "kern" 39 -11 "kern" 37 31 "kern" 0 -63 "kern"
+Kerns2: 255 -22 "kern" 377 -128 "kern" 233 -16 "kern" 89 -40 "kern" 85 -40 "kern" 84 -48 "kern" 83 -16 "kern" 80 11 "kern" 79 -32 "kern" 77 24 "kern" 76 11 "kern" 75 -16 "kern" 74 -128 "kern" 73 -22 "kern" 72 -16 "kern" 71 -85 "kern" 70 42 "kern" 69 -22 "kern" 68 -24 "kern" 66 17 "kern" 65 -32 "kern" 53 6 "kern" 40 12 "kern" 39 -11 "kern" 37 31 "kern" 0 -63 "kern"
 EndChar
 
 StartChar: afii10091
@@ -8095,7 +8051,7 @@ SplineSet
  580 2 l 1,16,-1
  39 1 l 1,0,-1
 EndSplineSet
-Kerns2: 255 -22 "kern" 378 -128 "kern" 234 -16 "kern" 89 -40 "kern" 85 -40 "kern" 84 -48 "kern" 83 -16 "kern" 80 11 "kern" 79 -32 "kern" 77 24 "kern" 76 11 "kern" 75 -16 "kern" 74 -128 "kern" 73 -22 "kern" 72 -16 "kern" 71 -85 "kern" 70 42 "kern" 69 -22 "kern" 68 -24 "kern" 66 17 "kern" 65 -32 "kern" 53 6 "kern" 40 12 "kern" 39 -11 "kern" 37 31 "kern" 0 -63 "kern"
+Kerns2: 255 -22 "kern" 377 -128 "kern" 234 -16 "kern" 89 -40 "kern" 85 -40 "kern" 84 -48 "kern" 83 -16 "kern" 80 11 "kern" 79 -32 "kern" 77 24 "kern" 76 11 "kern" 75 -16 "kern" 74 -128 "kern" 73 -22 "kern" 72 -16 "kern" 71 -85 "kern" 70 42 "kern" 69 -22 "kern" 68 -24 "kern" 66 17 "kern" 65 -32 "kern" 53 6 "kern" 40 12 "kern" 39 -11 "kern" 37 31 "kern" 0 -63 "kern"
 EndChar
 
 StartChar: afii10092
@@ -8137,7 +8093,7 @@ SplineSet
  328 -2 328 -2 281 -3 c 2,30,-1
  72 -4 l 1,14,-1
 EndSplineSet
-Kerns2: 378 -144 "kern" 90 -9 "kern" 89 -32 "kern" 87 -32 "kern" 84 -24 "kern" 83 -8 "kern" 82 16 "kern" 81 -32 "kern" 79 -32 "kern" 78 -65 "kern" 77 -8 "kern" 76 8 "kern" 74 -144 "kern" 71 -32 "kern" 70 63 "kern" 69 -24 "kern" 68 -24 "kern" 66 12 "kern" 57 -227 "kern" 55 -269 "kern" 54 -264 "kern" 52 -144 "kern" 50 -30 "kern" 48 -30 "kern" 47 -102 "kern" 42 -24 "kern" 36 -5 "kern" 12 8 "kern"
+Kerns2: 377 -144 "kern" 90 -9 "kern" 89 -32 "kern" 87 -32 "kern" 84 -24 "kern" 83 -8 "kern" 82 16 "kern" 81 -32 "kern" 79 -32 "kern" 78 -65 "kern" 77 -8 "kern" 76 8 "kern" 74 -144 "kern" 71 -32 "kern" 70 63 "kern" 69 -24 "kern" 68 -24 "kern" 66 12 "kern" 57 -227 "kern" 55 -269 "kern" 54 -264 "kern" 52 -144 "kern" 50 -30 "kern" 48 -30 "kern" 47 -102 "kern" 42 -24 "kern" 36 -5 "kern" 12 8 "kern"
 EndChar
 
 StartChar: afii10093
@@ -8181,7 +8137,7 @@ SplineSet
  256 -2 256 -2 209 -3 c 2,31,-1
  0 -4 l 1,18,-1
 EndSplineSet
-Kerns2: 378 -144 "kern" 90 -9 "kern" 89 -32 "kern" 87 -32 "kern" 84 -24 "kern" 83 -8 "kern" 82 16 "kern" 81 -32 "kern" 79 -32 "kern" 78 -65 "kern" 77 -8 "kern" 76 8 "kern" 74 -144 "kern" 71 -32 "kern" 70 63 "kern" 69 -24 "kern" 68 -24 "kern" 66 12 "kern" 57 -227 "kern" 55 -269 "kern" 54 -264 "kern" 52 -144 "kern" 50 -30 "kern" 48 -30 "kern" 47 -102 "kern" 42 -24 "kern" 36 -5 "kern" 12 8 "kern"
+Kerns2: 377 -144 "kern" 90 -9 "kern" 89 -32 "kern" 87 -32 "kern" 84 -24 "kern" 83 -8 "kern" 82 16 "kern" 81 -32 "kern" 79 -32 "kern" 78 -65 "kern" 77 -8 "kern" 76 8 "kern" 74 -144 "kern" 71 -32 "kern" 70 63 "kern" 69 -24 "kern" 68 -24 "kern" 66 12 "kern" 57 -227 "kern" 55 -269 "kern" 54 -264 "kern" 52 -144 "kern" 50 -30 "kern" 48 -30 "kern" 47 -102 "kern" 42 -24 "kern" 36 -5 "kern" 12 8 "kern"
 EndChar
 
 StartChar: afii10094
@@ -8220,7 +8176,7 @@ SplineSet
  256 -2 256 -2 209 -3 c 2,27,-1
  0 -4 l 1,14,-1
 EndSplineSet
-Kerns2: 378 -144 "kern" 90 -9 "kern" 89 -32 "kern" 87 -32 "kern" 84 -24 "kern" 83 -8 "kern" 82 16 "kern" 81 -32 "kern" 79 -32 "kern" 78 -65 "kern" 77 -8 "kern" 76 8 "kern" 74 -144 "kern" 71 -32 "kern" 70 63 "kern" 69 -24 "kern" 68 -24 "kern" 66 12 "kern" 57 -227 "kern" 55 -269 "kern" 54 -264 "kern" 52 -144 "kern" 50 -30 "kern" 48 -30 "kern" 47 -102 "kern" 42 -24 "kern" 36 -5 "kern" 12 8 "kern"
+Kerns2: 377 -144 "kern" 90 -9 "kern" 89 -32 "kern" 87 -32 "kern" 84 -24 "kern" 83 -8 "kern" 82 16 "kern" 81 -32 "kern" 79 -32 "kern" 78 -65 "kern" 77 -8 "kern" 76 8 "kern" 74 -144 "kern" 71 -32 "kern" 70 63 "kern" 69 -24 "kern" 68 -24 "kern" 66 12 "kern" 57 -227 "kern" 55 -269 "kern" 54 -264 "kern" 52 -144 "kern" 50 -30 "kern" 48 -30 "kern" 47 -102 "kern" 42 -24 "kern" 36 -5 "kern" 12 8 "kern"
 EndChar
 
 StartChar: afii10095
@@ -8313,7 +8269,7 @@ SplineSet
  536 388 536 388 555 344 c 128,-1,48
  574 300 574 300 571 247 c 0,22,23
 EndSplineSet
-Kerns2: 255 -32 "kern" 378 -191 "kern" 239 -24 "kern" 90 -88 "kern" 89 -63 "kern" 88 -56 "kern" 87 -75 "kern" 86 -104 "kern" 85 -24 "kern" 84 -72 "kern" 83 -24 "kern" 82 -16 "kern" 81 -16 "kern" 80 -24 "kern" 78 -24 "kern" 77 -24 "kern" 76 -23 "kern" 74 -191 "kern" 73 -32 "kern" 72 -16 "kern" 71 -24 "kern" 69 -32 "kern" 68 -24 "kern" 66 -16 "kern" 65 -24 "kern" 58 -73 "kern" 57 -162 "kern" 55 -138 "kern" 54 -132 "kern" 53 -53 "kern" 52 -138 "kern" 51 -17 "kern" 50 -42 "kern" 35 -17 "kern" 33 -72 "kern" 14 -54 "kern"
+Kerns2: 255 -32 "kern" 377 -191 "kern" 239 -24 "kern" 90 -88 "kern" 89 -63 "kern" 88 -56 "kern" 87 -75 "kern" 86 -104 "kern" 85 -24 "kern" 84 -72 "kern" 83 -24 "kern" 82 -16 "kern" 81 -16 "kern" 80 -24 "kern" 78 -24 "kern" 77 -24 "kern" 76 -23 "kern" 74 -191 "kern" 73 -32 "kern" 72 -16 "kern" 71 -24 "kern" 69 -32 "kern" 68 -24 "kern" 66 -16 "kern" 65 -24 "kern" 58 -73 "kern" 57 -162 "kern" 55 -138 "kern" 54 -132 "kern" 53 -53 "kern" 52 -138 "kern" 51 -17 "kern" 50 -42 "kern" 35 -17 "kern" 33 -72 "kern" 14 -54 "kern"
 EndChar
 
 StartChar: afii10097
@@ -8352,7 +8308,7 @@ SplineSet
  227 217 227 217 142 238 c 0,37,38
  64 258 64 258 24 306 c 0,19,20
 EndSplineSet
-Kerns2: 378 -144 "kern" 90 -9 "kern" 89 -32 "kern" 87 -32 "kern" 84 -24 "kern" 83 -8 "kern" 82 16 "kern" 81 -32 "kern" 79 -32 "kern" 78 -65 "kern" 77 -8 "kern" 76 8 "kern" 74 -144 "kern" 71 -32 "kern" 70 63 "kern" 69 -24 "kern" 68 -24 "kern" 66 12 "kern" 57 -227 "kern" 55 -269 "kern" 54 -264 "kern" 52 -144 "kern" 50 -30 "kern" 48 -30 "kern" 47 -102 "kern" 42 -24 "kern" 36 -5 "kern" 12 8 "kern"
+Kerns2: 377 -144 "kern" 90 -9 "kern" 89 -32 "kern" 87 -32 "kern" 84 -24 "kern" 83 -8 "kern" 82 16 "kern" 81 -32 "kern" 79 -32 "kern" 78 -65 "kern" 77 -8 "kern" 76 8 "kern" 74 -144 "kern" 71 -32 "kern" 70 63 "kern" 69 -24 "kern" 68 -24 "kern" 66 12 "kern" 57 -227 "kern" 55 -269 "kern" 54 -264 "kern" 52 -144 "kern" 50 -30 "kern" 48 -30 "kern" 47 -102 "kern" 42 -24 "kern" 36 -5 "kern" 12 8 "kern"
 EndChar
 
 StartChar: endash
@@ -8373,15 +8329,16 @@ EndChar
 
 StartChar: emdash
 Encoding: 8212 8212 242
-Width: 327
+AltUni2: 002015.ffffffff.0
+Width: 821
 GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
 SplineSet
 0 332 m 1,0,-1
- 272 349 l 1,1,-1
- 270 294 l 1,2,-1
+ 768 340 l 5,1,-1
+ 766 285 l 5,2,-1
  3 300 l 1,3,-1
  0 332 l 1,0,-1
 EndSplineSet
@@ -8389,115 +8346,83 @@ EndChar
 
 StartChar: quoteleft
 Encoding: 8216 8216 243
-Width: 119
+AltUni2: 002035.ffffffff.0 00201b.ffffffff.0
+Width: 137
 GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
 SplineSet
-0 763 m 1,0,-1
- 65 766 l 1,1,-1
- 65 605 l 1,2,-1
- 31 605 l 1,3,-1
- 0 763 l 1,0,-1
+67 554 m 1,0,-1
+ 26 767 l 1,1,-1
+ 112 770 l 1,2,-1
+ 112 554 l 1,3,-1
+ 67 554 l 1,0,-1
 EndSplineSet
 EndChar
 
 StartChar: quoteright
 Encoding: 8217 8217 244
 AltUni2: 0002bc.ffffffff.0
-Width: 118
+Width: 137
 GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
-SplineSet
-40 560 m 1,0,-1
- 2 560 l 1,1,-1
- 2 719 l 1,2,-1
- 74 715 l 1,3,-1
- 40 560 l 1,0,-1
-EndSplineSet
+Refer: 7 39 S 1 0 0 1 0 0 2
 Kerns2: 68 -56 "kern" 83 -32 "kern" 86 -24 "kern"
 EndChar
 
 StartChar: quotesinglbase
 Encoding: 8218 8218 245
-Width: 112
+Width: 137
 GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
-SplineSet
-34 -53 m 1,0,-1
- 1 -53 l 1,1,-1
- 1 100 l 1,2,-1
- 62 96 l 1,3,-1
- 34 -53 l 1,0,-1
-EndSplineSet
+Refer: 244 8217 S 1 0 0 1 1 -643 2
 EndChar
 
 StartChar: quotedblleft
 Encoding: 8220 8220 246
-Width: 175
+AltUni2: 00201f.ffffffff.0
+Width: 229
 GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
-SplineSet
-69 766 m 1,0,-1
- 122 754 l 1,1,-1
- 108 641 l 1,2,-1
- 78 641 l 1,3,-1
- 69 766 l 1,0,-1
-26 615 m 1,4,-1
- 0 751 l 1,5,-1
- 55 754 l 1,6,-1
- 55 615 l 1,7,-1
- 26 615 l 1,4,-1
-EndSplineSet
+Refer: 2 34 S 1 0 0 1 0 0 2
 EndChar
 
 StartChar: quotedblright
 Encoding: 8221 8221 247
-Width: 173
+Width: 229
 GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
 SplineSet
-120 754 m 1,0,-1
- 105 643 l 1,1,-1
- 77 643 l 1,2,-1
- 68 766 l 1,3,-1
- 120 754 l 1,0,-1
-0 751 m 1,4,-1
- 54 754 l 1,5,-1
- 54 617 l 1,6,-1
- 26 617 l 1,7,-1
- 0 751 l 1,4,-1
+4 699 m 1,0,-1
+ 78 718 l 1,1,-1
+ 65 544 l 1,2,-1
+ 24 544 l 1,3,-1
+ 4 699 l 1,0,-1
+173 695 m 1,4,-1
+ 137 508 l 1,5,-1
+ 96 508 l 1,6,-1
+ 96 699 l 1,7,-1
+ 173 695 l 1,4,-1
 EndSplineSet
 EndChar
 
 StartChar: quotedblbase
 Encoding: 8222 8222 248
-Width: 153
+Width: 229
 GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
-SplineSet
-102 84 m 1,0,-1
- 89 -8 l 1,1,-1
- 66 -8 l 1,2,-1
- 56 95 l 1,3,-1
- 102 84 l 1,0,-1
-1 82 m 1,4,-1
- 47 84 l 1,5,-1
- 47 -30 l 1,6,-1
- 23 -30 l 1,7,-1
- 1 82 l 1,4,-1
-EndSplineSet
+Refer: 246 8220 S -1 0 0 -1 177 628 2
 EndChar
 
 StartChar: Euro
@@ -8610,7 +8535,7 @@ AnchorPoint: "bottomatt" 423 10 basechar 0
 AnchorPoint: "top" 371 842 basechar 0
 LayerCount: 2
 Fore
-Refer: 384 774 S 1 0 0 1 514 74 2
+Refer: 383 774 S 1 0 0 1 514 74 2
 Refer: 39 71 N 1 0 0 1 0 0 2
 EndChar
 
@@ -8624,7 +8549,7 @@ AnchorPoint: "bottomatt" 369 -228 basechar 0
 AnchorPoint: "top" 261 650 basechar 0
 LayerCount: 2
 Fore
-Refer: 384 774 N 1 0 0 1 404 -118 2
+Refer: 383 774 N 1 0 0 1 404 -118 2
 Refer: 71 103 N 1 0 0 1 0 0 3
 EndChar
 
@@ -8636,9 +8561,9 @@ AnchorPoint: "bottom" 82 -31 basechar 0
 AnchorPoint: "bottomattside" 89 5 basechar 0
 LayerCount: 2
 Fore
-Refer: 385 775 S 1 0 0 1 174 88 2
+Refer: 384 775 S 1 0 0 1 174 88 2
 Refer: 41 73 N 1 0 0 1 0 0 2
-Kerns2: 36 24 "kern" 37 25 "kern" 38 30 "kern" 40 42 "kern" 43 25 "kern" 44 24 "kern" 45 18 "kern" 46 17 "kern" 50 11 "kern" 51 18 "kern" 53 17 "kern" 65 -32 "kern" 67 -32 "kern" 68 -32 "kern" 70 32 "kern" 71 -63 "kern" 74 -191 "kern" 76 -16 "kern" 77 -16 "kern" 78 -16 "kern" 79 -48 "kern" 81 -48 "kern" 85 -16 "kern" 86 -32 "kern" 87 -32 "kern" 89 -32 "kern" 378 -191 "kern"
+Kerns2: 36 24 "kern" 37 25 "kern" 38 30 "kern" 40 42 "kern" 43 25 "kern" 44 24 "kern" 45 18 "kern" 46 17 "kern" 50 11 "kern" 51 18 "kern" 53 17 "kern" 65 -32 "kern" 67 -32 "kern" 68 -32 "kern" 70 32 "kern" 71 -63 "kern" 74 -191 "kern" 76 -16 "kern" 77 -16 "kern" 78 -16 "kern" 79 -48 "kern" 81 -48 "kern" 85 -16 "kern" 86 -32 "kern" 87 -32 "kern" 89 -32 "kern" 377 -191 "kern"
 EndChar
 
 StartChar: dotlessi
@@ -8659,7 +8584,7 @@ SplineSet
  60 460 l 1,3,-1
  163 461 l 1,0,-1
 EndSplineSet
-Kerns2: 378 -136 "kern" 85 18 "kern" 83 17 "kern" 82 32 "kern" 78 -10 "kern" 77 18 "kern" 76 30 "kern" 75 24 "kern" 74 -136 "kern" 72 42 "kern" 71 -16 "kern" 70 72 "kern" 68 -16 "kern" 67 -22 "kern" 66 24 "kern" 53 17 "kern" 46 31 "kern" 45 31 "kern" 44 31 "kern" 42 -25 "kern" 40 53 "kern"
+Kerns2: 377 -136 "kern" 85 18 "kern" 83 17 "kern" 82 32 "kern" 78 -10 "kern" 77 18 "kern" 76 30 "kern" 75 24 "kern" 74 -136 "kern" 72 42 "kern" 71 -16 "kern" 70 72 "kern" 68 -16 "kern" 67 -22 "kern" 66 24 "kern" 53 17 "kern" 46 31 "kern" 45 31 "kern" 44 31 "kern" 42 -25 "kern" 40 53 "kern"
 EndChar
 
 StartChar: Scedilla
@@ -8672,7 +8597,7 @@ AnchorPoint: "bottomattside" 299 26 basechar 0
 AnchorPoint: "bottomatt" 223 -115 basechar 0
 LayerCount: 2
 Fore
-Refer: 443 807 N 1 0 0 1 307 20 2
+Refer: 442 807 N 1 0 0 1 307 20 2
 Refer: 51 83 N 1 0 0 1 0 0 2
 EndChar
 
@@ -8686,7 +8611,7 @@ AnchorPoint: "bottomattside" 263 0 basechar 0
 AnchorPoint: "bottomatt" 201 -141 basechar 0
 LayerCount: 2
 Fore
-Refer: 443 807 N 1 0 0 1 285 -6 2
+Refer: 442 807 N 1 0 0 1 285 -6 2
 Refer: 83 115 N 1 0 0 1 0 0 2
 EndChar
 
@@ -8769,7 +8694,7 @@ AnchorPoint: "bottom" 297 -10 basechar 0
 AnchorPoint: "bottomattside" 561 19 basechar 0
 LayerCount: 2
 Fore
-Refer: 384 774 N 1 0 0 1 408 77 2
+Refer: 383 774 N 1 0 0 1 408 77 2
 Refer: 33 65 N 1 0 0 1 0 0 2
 EndChar
 
@@ -8783,7 +8708,7 @@ AnchorPoint: "bottom" 312 -31 basechar 0
 AnchorPoint: "bottomattside" 526 9 basechar 0
 LayerCount: 2
 Fore
-Refer: 384 774 N 1 0 0 1 440 -118 2
+Refer: 383 774 N 1 0 0 1 440 -118 2
 Refer: 65 97 N 1 0 0 1 0 0 3
 EndChar
 
@@ -8853,7 +8778,7 @@ AnchorPoint: "bottomattside" 307 4 basechar 0
 AnchorPoint: "bottomatt" 319 -128 basechar 0
 LayerCount: 2
 Fore
-Refer: 443 807 N 1 0 0 1 403 7 2
+Refer: 442 807 N 1 0 0 1 403 7 2
 Refer: 52 84 N 1 0 0 1 0 0 2
 EndChar
 
@@ -8867,7 +8792,7 @@ AnchorPoint: "bottomattside" 136 6 basechar 0
 AnchorPoint: "bottomatt" 143 -130 basechar 0
 LayerCount: 2
 Fore
-Refer: 443 807 N 1 0 0 1 227 5 2
+Refer: 442 807 N 1 0 0 1 227 5 2
 Refer: 84 116 N 1 0 0 1 0 0 2
 EndChar
 
@@ -10134,8 +10059,8 @@ Fore
 SplineSet
 353 646 m 1,0,1
  353 646 353 646 260 662 c 0,2,3
- 132 686 132 686 104 633 c 0,4,5
- 80 588 80 588 90 539 c 0,6,7
+ 132 686 132 686 104 633 c 4,4,5
+ 80 588 80 588 90 539 c 4,6,7
  105 458 105 458 229 435 c 0,8,9
  353 413 353 413 386 319 c 0,10,11
  412 245 412 245 396 183 c 0,12,13
@@ -10145,8 +10070,8 @@ SplineSet
  308 -130 308 -130 204 -135 c 0,20,21
  161 -137 161 -137 127 -129 c 0,22,23
  76 -117 76 -117 38 -55 c 1,24,-1
- 73 -22 l 5,25,26
- 109 -65 109 -65 165 -80 c 4,27,28
+ 73 -22 l 1,25,26
+ 109 -65 109 -65 165 -80 c 0,27,28
  208 -90 208 -90 246 -70 c 0,29,30
  276 -54 276 -54 294 0 c 0,31,32
  308 41 308 41 258 53 c 0,33,34
@@ -10228,17 +10153,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni00AD
-Encoding: 173 173 321
-Width: 292
-Flags: W
-LayerCount: 2
-Fore
-Refer: 13 45 N 1 0 0 1 0 0 2
-EndChar
-
 StartChar: macron
-Encoding: 175 175 322
+Encoding: 175 175 321
 Width: 238
 Flags: W
 LayerCount: 2
@@ -10247,7 +10163,7 @@ Refer: 13 45 N 1 0 0 1 0 366 2
 EndChar
 
 StartChar: degree
-Encoding: 176 176 323
+Encoding: 176 176 322
 Width: 143
 Flags: W
 LayerCount: 2
@@ -10256,7 +10172,7 @@ Refer: 193 730 N 1 0 0 1 0 -57 2
 EndChar
 
 StartChar: plusminus
-Encoding: 177 177 324
+Encoding: 177 177 323
 Width: 303
 Flags: W
 LayerCount: 2
@@ -10284,7 +10200,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni00B2
-Encoding: 178 178 325
+Encoding: 178 178 324
 Width: 259
 Flags: W
 LayerCount: 2
@@ -10293,7 +10209,7 @@ Refer: 18 50 N 0.5 0 0 0.5 0 383 2
 EndChar
 
 StartChar: uni00B3
-Encoding: 179 179 326
+Encoding: 179 179 325
 Width: 238
 Flags: W
 LayerCount: 2
@@ -10302,7 +10218,7 @@ Refer: 19 51 N 0.5 0 0 0.5 0 384 2
 EndChar
 
 StartChar: paragraph
-Encoding: 182 182 327
+Encoding: 182 182 326
 Width: 573
 Flags: W
 LayerCount: 2
@@ -10330,16 +10246,17 @@ EndSplineSet
 EndChar
 
 StartChar: periodcentered
-Encoding: 183 183 328
+Encoding: 183 183 327
+AltUni2: 002027.ffffffff.0
 Width: 153
 Flags: W
 LayerCount: 2
 Fore
-Refer: 14 46 N 1 0 0 1 0 303 2
+Refer: 14 46 S 1 0 0 1 0 303 2
 EndChar
 
 StartChar: uni00B9
-Encoding: 185 185 329
+Encoding: 185 185 328
 Width: 91
 Flags: W
 LayerCount: 2
@@ -10348,7 +10265,7 @@ Refer: 17 49 N 0.5 0 0 0.5 -1 384 2
 EndChar
 
 StartChar: ordmasculine
-Encoding: 186 186 330
+Encoding: 186 186 329
 Width: 143
 Flags: W
 LayerCount: 2
@@ -10404,7 +10321,7 @@ EndSplineSet
 EndChar
 
 StartChar: onequarter
-Encoding: 188 188 331
+Encoding: 188 188 330
 Width: 514
 Flags: W
 LayerCount: 2
@@ -10440,7 +10357,7 @@ EndSplineSet
 EndChar
 
 StartChar: onehalf
-Encoding: 189 189 332
+Encoding: 189 189 331
 Width: 513
 Flags: W
 LayerCount: 2
@@ -10493,7 +10410,7 @@ EndSplineSet
 EndChar
 
 StartChar: threequarters
-Encoding: 190 190 333
+Encoding: 190 190 332
 Width: 514
 Flags: W
 LayerCount: 2
@@ -10570,7 +10487,7 @@ EndSplineSet
 EndChar
 
 StartChar: Amacron
-Encoding: 256 256 334
+Encoding: 256 256 333
 Width: 645
 Flags: W
 AnchorPoint: "bottomatt" 314 -10 basechar 0
@@ -10579,12 +10496,12 @@ AnchorPoint: "bottom" 297 -10 basechar 0
 AnchorPoint: "bottomattside" 561 19 basechar 0
 LayerCount: 2
 Fore
-Refer: 383 772 N 1 0 0 1 379 39 2
+Refer: 382 772 N 1 0 0 1 379 39 2
 Refer: 33 65 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: amacron
-Encoding: 257 257 335
+Encoding: 257 257 334
 Width: 652
 Flags: W
 AnchorPoint: "bottomatt" 331 17 basechar 0
@@ -10593,12 +10510,12 @@ AnchorPoint: "bottom" 312 -31 basechar 0
 AnchorPoint: "bottomattside" 526 9 basechar 0
 LayerCount: 2
 Fore
-Refer: 383 772 N 1 0 0 1 374 -179 2
+Refer: 382 772 N 1 0 0 1 374 -179 2
 Refer: 65 97 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: Ccaron
-Encoding: 268 268 336
+Encoding: 268 268 335
 Width: 633
 Flags: W
 AnchorPoint: "bottom" 353 -20 basechar 0
@@ -10607,12 +10524,12 @@ AnchorPoint: "bottomatt" 370 32 basechar 0
 AnchorPoint: "top" 315 908 basechar 0
 LayerCount: 2
 Fore
-Refer: 388 780 S 1 0 0 1 439 140 2
+Refer: 387 780 S 1 0 0 1 439 140 2
 Refer: 35 67 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: ccaron
-Encoding: 269 269 337
+Encoding: 269 269 336
 Width: 482
 Flags: W
 AnchorPoint: "bottom" 276 -31 basechar 0
@@ -10621,12 +10538,12 @@ AnchorPoint: "bottomatt" 262 24 basechar 0
 AnchorPoint: "top" 241 715 basechar 0
 LayerCount: 2
 Fore
-Refer: 388 780 S 1 0 0 1 365 -53 2
+Refer: 387 780 S 1 0 0 1 365 -53 2
 Refer: 67 99 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: Dcaron
-Encoding: 270 270 338
+Encoding: 270 270 337
 Width: 746
 Flags: W
 AnchorPoint: "bottom" 343 -31 basechar 0
@@ -10635,12 +10552,12 @@ AnchorPoint: "bottomatt" 351 13 basechar 0
 AnchorPoint: "top" 348 865 basechar 0
 LayerCount: 2
 Fore
-Refer: 388 780 S 1 0 0 1 472 97 2
+Refer: 387 780 S 1 0 0 1 472 97 2
 Refer: 36 68 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: dcaron
-Encoding: 271 271 339
+Encoding: 271 271 338
 Width: 769
 Flags: W
 AnchorPoint: "top" 307 717 basechar 0
@@ -10654,7 +10571,7 @@ Refer: 68 100 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: Ecaron
-Encoding: 282 282 340
+Encoding: 282 282 339
 Width: 447
 Flags: W
 AnchorPoint: "bottom" 200 -31 basechar 0
@@ -10663,12 +10580,12 @@ AnchorPoint: "bottomatt" 236 7 basechar 0
 AnchorPoint: "top" 204 899 basechar 0
 LayerCount: 2
 Fore
-Refer: 388 780 S 1 0 0 1 328 131 2
+Refer: 387 780 S 1 0 0 1 328 131 2
 Refer: 37 69 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: ecaron
-Encoding: 283 283 341
+Encoding: 283 283 340
 Width: 612
 Flags: W
 AnchorPoint: "bottom" 312 -36 basechar 0
@@ -10677,12 +10594,12 @@ AnchorPoint: "bottomatt" 325 3 basechar 0
 AnchorPoint: "top" 253 676 basechar 0
 LayerCount: 2
 Fore
-Refer: 388 780 S 1 0 0 1 377 -92 2
+Refer: 387 780 S 1 0 0 1 377 -92 2
 Refer: 69 101 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: Ncaron
-Encoding: 327 327 342
+Encoding: 327 327 341
 Width: 766
 Flags: W
 AnchorPoint: "bottom" 358 5 basechar 0
@@ -10691,12 +10608,12 @@ AnchorPoint: "bottomatt" 399 20 basechar 0
 AnchorPoint: "top" 400 865 basechar 0
 LayerCount: 2
 Fore
-Refer: 388 780 S 1 0 0 1 524 97 2
+Refer: 387 780 S 1 0 0 1 524 97 2
 Refer: 46 78 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: ncaron
-Encoding: 328 328 343
+Encoding: 328 328 342
 Width: 617
 Flags: W
 AnchorPoint: "bottom" 297 -5 basechar 0
@@ -10705,12 +10622,12 @@ AnchorPoint: "bottomatt" 310 24 basechar 0
 AnchorPoint: "top" 293 701 basechar 0
 LayerCount: 2
 Fore
-Refer: 388 780 S 1 0 0 1 417 -67 2
+Refer: 387 780 S 1 0 0 1 417 -67 2
 Refer: 78 110 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Omacron
-Encoding: 332 332 344
+Encoding: 332 332 343
 Width: 870
 Flags: W
 AnchorPoint: "bottom" 420 -31 basechar 0
@@ -10719,12 +10636,12 @@ AnchorPoint: "bottomatt" 443 7 basechar 0
 AnchorPoint: "top" 368 851 basechar 0
 LayerCount: 2
 Fore
-Refer: 383 772 S 1 0 0 1 498 49 2
+Refer: 382 772 S 1 0 0 1 498 49 2
 Refer: 47 79 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: omacron
-Encoding: 333 333 345
+Encoding: 333 333 344
 Width: 622
 Flags: W
 AnchorPoint: "bottom" 292 -36 basechar 0
@@ -10733,12 +10650,12 @@ AnchorPoint: "bottomatt" 317 -3 basechar 0
 AnchorPoint: "top" 244 623 basechar 0
 LayerCount: 2
 Fore
-Refer: 383 772 S 1 0 0 1 374 -179 2
+Refer: 382 772 S 1 0 0 1 374 -179 2
 Refer: 79 111 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: Ohungarumlaut
-Encoding: 336 336 346
+Encoding: 336 336 345
 Width: 870
 Flags: W
 AnchorPoint: "bottom" 420 -31 basechar 0
@@ -10747,12 +10664,12 @@ AnchorPoint: "bottomatt" 443 7 basechar 0
 AnchorPoint: "top" 425 892 basechar 0
 LayerCount: 2
 Fore
-Refer: 387 779 N 1 0 0 1 569 117 2
+Refer: 386 779 N 1 0 0 1 569 117 2
 Refer: 47 79 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: ohungarumlaut
-Encoding: 337 337 347
+Encoding: 337 337 346
 Width: 622
 Flags: W
 AnchorPoint: "bottom" 292 -36 basechar 0
@@ -10761,12 +10678,12 @@ AnchorPoint: "bottomatt" 317 -3 basechar 0
 AnchorPoint: "top" 276 656 basechar 0
 LayerCount: 2
 Fore
-Refer: 387 779 N 1 0 0 1 421 -119 2
+Refer: 386 779 N 1 0 0 1 421 -119 2
 Refer: 79 111 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Rcaron
-Encoding: 344 344 348
+Encoding: 344 344 347
 Width: 563
 Flags: W
 AnchorPoint: "bottom" 200 -20 basechar 0
@@ -10775,12 +10692,12 @@ AnchorPoint: "bottomatt" 351 38 basechar 0
 AnchorPoint: "top" 272 905 basechar 0
 LayerCount: 2
 Fore
-Refer: 388 780 S 1 0 0 1 396 137 2
+Refer: 387 780 S 1 0 0 1 396 137 2
 Refer: 50 82 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: rcaron
-Encoding: 345 345 349
+Encoding: 345 345 348
 Width: 410
 Flags: W
 AnchorPoint: "bottom" 72 -31 basechar 0
@@ -10789,12 +10706,12 @@ AnchorPoint: "bottomatt" 95 10 basechar 0
 AnchorPoint: "top" 196 671 basechar 0
 LayerCount: 2
 Fore
-Refer: 388 780 S 1 0 0 1 319 -97 2
+Refer: 387 780 S 1 0 0 1 319 -97 2
 Refer: 82 114 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: Tcaron
-Encoding: 356 356 350
+Encoding: 356 356 349
 Width: 644
 Flags: W
 AnchorPoint: "bottom" 326 -34 basechar 0
@@ -10803,12 +10720,12 @@ AnchorPoint: "bottomatt" 345 7 basechar 0
 AnchorPoint: "top" 295 918 basechar 0
 LayerCount: 2
 Fore
-Refer: 388 780 S 1 0 0 1 419 150 2
+Refer: 387 780 S 1 0 0 1 419 150 2
 Refer: 52 84 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: tcaron
-Encoding: 357 357 351
+Encoding: 357 357 350
 Width: 358
 Flags: W
 AnchorPoint: "top" 133 681 basechar 0
@@ -10822,7 +10739,7 @@ Refer: 84 116 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: Uring
-Encoding: 366 366 352
+Encoding: 366 366 351
 Width: 746
 Flags: W
 AnchorPoint: "bottom" 348 -36 basechar 0
@@ -10831,12 +10748,12 @@ AnchorPoint: "bottomatt" 382 13 basechar 0
 AnchorPoint: "top" 328 858 basechar 0
 LayerCount: 2
 Fore
-Refer: 386 778 S 1 0 0 1 391 71 2
+Refer: 385 778 S 1 0 0 1 391 71 2
 Refer: 53 85 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uring
-Encoding: 367 367 353
+Encoding: 367 367 352
 Width: 568
 Flags: W
 AnchorPoint: "bottom" 256 -31 basechar 0
@@ -10845,12 +10762,12 @@ AnchorPoint: "bottomatt" 276 7 basechar 0
 AnchorPoint: "top" 266 660 basechar 0
 LayerCount: 2
 Fore
-Refer: 386 778 S 1 0 0 1 330 -127 2
+Refer: 385 778 S 1 0 0 1 330 -127 2
 Refer: 85 117 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: Uhungarumlaut
-Encoding: 368 368 354
+Encoding: 368 368 353
 Width: 746
 Flags: W
 AnchorPoint: "bottom" 348 -36 basechar 0
@@ -10859,12 +10776,12 @@ AnchorPoint: "bottomatt" 382 13 basechar 0
 AnchorPoint: "top" 333 856 basechar 0
 LayerCount: 2
 Fore
-Refer: 387 779 N 1 0 0 1 477 81 2
+Refer: 386 779 N 1 0 0 1 477 81 2
 Refer: 53 85 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uhungarumlaut
-Encoding: 369 369 355
+Encoding: 369 369 354
 Width: 568
 Flags: W
 AnchorPoint: "bottom" 256 -31 basechar 0
@@ -10873,12 +10790,12 @@ AnchorPoint: "bottomatt" 276 7 basechar 0
 AnchorPoint: "top" 266 646 basechar 0
 LayerCount: 2
 Fore
-Refer: 387 779 N 1 0 0 1 411 -129 2
+Refer: 386 779 N 1 0 0 1 411 -129 2
 Refer: 85 117 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Zcaron
-Encoding: 381 381 356
+Encoding: 381 381 355
 Width: 653
 Flags: W
 AnchorPoint: "bottom" 364 -26 basechar 0
@@ -10887,12 +10804,12 @@ AnchorPoint: "bottomatt" 372 17 basechar 0
 AnchorPoint: "top" 323 933 basechar 0
 LayerCount: 2
 Fore
-Refer: 388 780 S 1 0 0 1 446 165 2
+Refer: 387 780 S 1 0 0 1 446 165 2
 Refer: 58 90 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: zcaron
-Encoding: 382 382 357
+Encoding: 382 382 356
 Width: 484
 Flags: W
 AnchorPoint: "bottom" 225 -20 basechar 0
@@ -10901,12 +10818,12 @@ AnchorPoint: "bottomatt" 253 13 basechar 0
 AnchorPoint: "top" 224 706 basechar 0
 LayerCount: 2
 Fore
-Refer: 388 780 S 1 0 0 1 348 -62 2
+Refer: 387 780 S 1 0 0 1 348 -62 2
 Refer: 90 122 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: breve
-Encoding: 728 728 358
+Encoding: 728 728 357
 Width: 327
 Flags: W
 LayerCount: 2
@@ -10931,7 +10848,7 @@ EndSplineSet
 EndChar
 
 StartChar: dotaccent
-Encoding: 729 729 359
+Encoding: 729 729 358
 Width: 89
 Flags: W
 LayerCount: 2
@@ -10954,7 +10871,7 @@ EndSplineSet
 EndChar
 
 StartChar: ogonek
-Encoding: 731 731 360
+Encoding: 731 731 359
 Width: 92
 Flags: W
 LayerCount: 2
@@ -10978,7 +10895,7 @@ EndSplineSet
 EndChar
 
 StartChar: hungarumlaut
-Encoding: 733 733 361
+Encoding: 733 733 360
 Width: 258
 Flags: W
 LayerCount: 2
@@ -10988,7 +10905,7 @@ Refer: 103 180 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni0404
-Encoding: 1028 1028 362
+Encoding: 1028 1028 361
 Width: 631
 Flags: W
 LayerCount: 2
@@ -11026,7 +10943,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni040D
-Encoding: 1037 1037 363
+Encoding: 1037 1037 362
 Width: 764
 Flags: W
 LayerCount: 2
@@ -11036,7 +10953,7 @@ Refer: 200 1048 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni0454
-Encoding: 1108 1108 364
+Encoding: 1108 1108 363
 Width: 483
 Flags: W
 LayerCount: 2
@@ -11072,7 +10989,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni045D
-Encoding: 1117 1117 365
+Encoding: 1117 1117 364
 Width: 568
 Flags: W
 LayerCount: 2
@@ -11082,7 +10999,7 @@ Refer: 222 1080 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni0490
-Encoding: 1168 1168 366
+Encoding: 1168 1168 365
 Width: 485
 Flags: W
 LayerCount: 2
@@ -11098,7 +11015,7 @@ Refer: 196 1043 S 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni0491
-Encoding: 1169 1169 367
+Encoding: 1169 1169 366
 Width: 400
 Flags: W
 LayerCount: 2
@@ -11114,7 +11031,7 @@ Refer: 218 1075 S 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni04F0
-Encoding: 1264 1264 368
+Encoding: 1264 1264 367
 Width: 634
 Flags: W
 LayerCount: 2
@@ -11124,7 +11041,7 @@ Refer: 204 1059 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni1E9E
-Encoding: 7838 7838 369
+Encoding: 7838 7838 368
 Width: 581
 Flags: W
 LayerCount: 2
@@ -11162,7 +11079,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni2070
-Encoding: 8304 8304 370
+Encoding: 8304 8304 369
 Width: 269
 Flags: W
 LayerCount: 2
@@ -11171,7 +11088,7 @@ Refer: 16 48 N 0.5 0 0 0.5 0 383 2
 EndChar
 
 StartChar: uni2074
-Encoding: 8308 8308 371
+Encoding: 8308 8308 370
 Width: 265
 Flags: W
 LayerCount: 2
@@ -11180,7 +11097,7 @@ Refer: 20 52 N 0.5 0 0 0.5 0 384 2
 EndChar
 
 StartChar: uni2075
-Encoding: 8309 8309 372
+Encoding: 8309 8309 371
 Width: 212
 Flags: W
 LayerCount: 2
@@ -11189,7 +11106,7 @@ Refer: 21 53 N 0.5 0 0 0.5 0 383 2
 EndChar
 
 StartChar: uni2076
-Encoding: 8310 8310 373
+Encoding: 8310 8310 372
 Width: 196
 Flags: W
 LayerCount: 2
@@ -11198,7 +11115,7 @@ Refer: 22 54 N 0.5 0 0 0.5 0 384 2
 EndChar
 
 StartChar: uni2077
-Encoding: 8311 8311 374
+Encoding: 8311 8311 373
 Width: 243
 Flags: W
 LayerCount: 2
@@ -11207,7 +11124,7 @@ Refer: 23 55 N 0.5 0 0 0.5 0 384 2
 EndChar
 
 StartChar: uni2078
-Encoding: 8312 8312 375
+Encoding: 8312 8312 374
 Width: 250
 Flags: W
 LayerCount: 2
@@ -11216,7 +11133,7 @@ Refer: 24 56 N 0.5 0 0 0.5 0 384 2
 EndChar
 
 StartChar: uni2079
-Encoding: 8313 8313 376
+Encoding: 8313 8313 375
 Width: 202
 Flags: W
 LayerCount: 2
@@ -11225,17 +11142,17 @@ Refer: 25 57 N 0.5 0 0 0.5 0 384 2
 EndChar
 
 StartChar: uni2116
-Encoding: 8470 8470 377
+Encoding: 8470 8470 376
 Width: 910
 Flags: W
 LayerCount: 2
 Fore
-Refer: 330 186 N 1 0 0 1 767 0 2
+Refer: 329 186 N 1 0 0 1 767 0 2
 Refer: 46 78 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni0237
-Encoding: 567 567 378
+Encoding: 567 567 377
 Width: 370
 Flags: W
 AnchorPoint: "bottomatt" 146 -232 basechar 0
@@ -11268,11 +11185,11 @@ SplineSet
  221 -13 221 -13 222.5 13.5 c 132,-1,24
  224 40 224 40 224 62 c 6,0,-1
 EndSplineSet
-Kerns2: 378 -63 "kern" 38 32 "kern" 42 -84 "kern" 47 -6 "kern" 54 -11 "kern" 66 32 "kern" 70 24 "kern" 72 24 "kern" 74 -63 "kern" 75 48 "kern" 79 -8 "kern" 80 24 "kern" 83 16 "kern"
+Kerns2: 377 -63 "kern" 38 32 "kern" 42 -84 "kern" 47 -6 "kern" 54 -11 "kern" 66 32 "kern" 70 24 "kern" 72 24 "kern" 74 -63 "kern" 75 48 "kern" 79 -8 "kern" 80 24 "kern" 83 16 "kern"
 EndChar
 
 StartChar: gravecomb
-Encoding: 768 768 379
+Encoding: 768 768 378
 Width: 0
 Flags: W
 AnchorPoint: "mkmktop" -41 768 basemark 0
@@ -11284,7 +11201,7 @@ Refer: 64 96 N 1 0 0 1 -134 0 2
 EndChar
 
 StartChar: acutecomb
-Encoding: 769 769 380
+Encoding: 769 769 379
 Width: 0
 Flags: W
 AnchorPoint: "mkmktop" -89 768 basemark 0
@@ -11296,7 +11213,7 @@ Refer: 103 180 S 1 0 0 1 -140 1 2
 EndChar
 
 StartChar: uni0302
-Encoding: 770 770 381
+Encoding: 770 770 380
 Width: 0
 Flags: W
 AnchorPoint: "mkmktop" -106 800 basemark 0
@@ -11308,7 +11225,7 @@ Refer: 191 710 N 1 0 0 1 -208 0 2
 EndChar
 
 StartChar: tildecomb
-Encoding: 771 771 382
+Encoding: 771 771 381
 Width: 0
 Flags: W
 AnchorPoint: "mkmktop" -124 775 basemark 0
@@ -11320,7 +11237,7 @@ Refer: 194 732 N 1 0 0 1 -250 1 2
 EndChar
 
 StartChar: uni0304
-Encoding: 772 772 383
+Encoding: 772 772 382
 Width: 0
 Flags: W
 AnchorPoint: "mkmktop" -130 802 basemark 0
@@ -11328,11 +11245,11 @@ AnchorPoint: "mkmktop" -130 702 mark 0
 AnchorPoint: "top" -130 702 mark 0
 LayerCount: 2
 Fore
-Refer: 322 175 N 1 0 0 1 -238 0 2
+Refer: 321 175 N 1 0 0 1 -238 0 2
 EndChar
 
 StartChar: uni0306
-Encoding: 774 774 384
+Encoding: 774 774 383
 Width: 0
 Flags: W
 AnchorPoint: "mkmktop" -143 768 basemark 0
@@ -11340,11 +11257,11 @@ AnchorPoint: "mkmktop" -143 645 mark 0
 AnchorPoint: "top" -143 645 mark 0
 LayerCount: 2
 Fore
-Refer: 358 728 N 0.840576 0 0 0.838013 -275 124 2
+Refer: 357 728 N 0.840576 0 0 0.838013 -275 124 2
 EndChar
 
 StartChar: uni0307
-Encoding: 775 775 385
+Encoding: 775 775 384
 Width: 0
 Flags: W
 AnchorPoint: "mkmktop" -44 792 basemark 0
@@ -11352,11 +11269,11 @@ AnchorPoint: "mkmktop" -44 680 mark 0
 AnchorPoint: "top" -44 680 mark 0
 LayerCount: 2
 Fore
-Refer: 359 729 N 1 0 0 1 -89 0 2
+Refer: 358 729 N 1 0 0 1 -89 0 2
 EndChar
 
 StartChar: uni030A
-Encoding: 778 778 386
+Encoding: 778 778 385
 Width: 0
 Flags: W
 AnchorPoint: "mkmktop" -63 787 basemark 0
@@ -11368,7 +11285,7 @@ Refer: 193 730 N 1 0 0 1 -137 -57 2
 EndChar
 
 StartChar: uni030B
-Encoding: 779 779 387
+Encoding: 779 779 386
 Width: 0
 Flags: W
 AnchorPoint: "mkmktop" -144 775 basemark 0
@@ -11376,11 +11293,11 @@ AnchorPoint: "mkmktop" -144 631 mark 0
 AnchorPoint: "top" -144 631 mark 0
 LayerCount: 2
 Fore
-Refer: 361 733 N 1 0 0 1 -255 1 2
+Refer: 360 733 N 1 0 0 1 -255 1 2
 EndChar
 
 StartChar: uni030C
-Encoding: 780 780 388
+Encoding: 780 780 387
 Width: 0
 Flags: W
 AnchorPoint: "mkmktop" -124 768 basemark 0
@@ -11392,7 +11309,7 @@ Refer: 192 711 N 1 0 0 1 -208 0 2
 EndChar
 
 StartChar: Ccircumflex
-Encoding: 264 264 389
+Encoding: 264 264 388
 Width: 633
 Flags: W
 AnchorPoint: "bottom" 353 -20 basechar 0
@@ -11401,12 +11318,12 @@ AnchorPoint: "bottomatt" 370 32 basechar 0
 AnchorPoint: "top" 319 943 basechar 0
 LayerCount: 2
 Fore
-Refer: 381 770 S 1 0 0 1 426 143 2
+Refer: 380 770 S 1 0 0 1 426 143 2
 Refer: 35 67 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: ccircumflex
-Encoding: 265 265 390
+Encoding: 265 265 389
 Width: 482
 Flags: W
 AnchorPoint: "bottom" 276 -31 basechar 0
@@ -11415,12 +11332,12 @@ AnchorPoint: "bottomatt" 262 24 basechar 0
 AnchorPoint: "top" 244 748 basechar 0
 LayerCount: 2
 Fore
-Refer: 381 770 S 1 0 0 1 350 -52 2
+Refer: 380 770 S 1 0 0 1 350 -52 2
 Refer: 67 99 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Cdotaccent
-Encoding: 266 266 391
+Encoding: 266 266 390
 Width: 633
 Flags: W
 AnchorPoint: "bottom" 353 -20 basechar 0
@@ -11429,12 +11346,12 @@ AnchorPoint: "bottomatt" 370 32 basechar 0
 AnchorPoint: "top" 319 855 basechar 0
 LayerCount: 2
 Fore
-Refer: 385 775 N 1 0 0 1 364 63 2
+Refer: 384 775 N 1 0 0 1 364 63 2
 Refer: 35 67 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: cdotaccent
-Encoding: 267 267 392
+Encoding: 267 267 391
 Width: 482
 Flags: W
 AnchorPoint: "bottom" 276 -31 basechar 0
@@ -11443,12 +11360,12 @@ AnchorPoint: "bottomatt" 262 24 basechar 0
 AnchorPoint: "top" 244 659 basechar 0
 LayerCount: 2
 Fore
-Refer: 385 775 N 1 0 0 1 288 -132 2
+Refer: 384 775 N 1 0 0 1 288 -132 2
 Refer: 67 99 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Emacron
-Encoding: 274 274 393
+Encoding: 274 274 392
 Width: 447
 Flags: W
 AnchorPoint: "bottom" 200 -31 basechar 0
@@ -11457,12 +11374,12 @@ AnchorPoint: "bottomatt" 236 7 basechar 0
 AnchorPoint: "top" 203 836 basechar 0
 LayerCount: 2
 Fore
-Refer: 383 772 S 1 0 0 1 333 34 2
+Refer: 382 772 S 1 0 0 1 333 34 2
 Refer: 37 69 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: emacron
-Encoding: 275 275 394
+Encoding: 275 275 393
 Width: 612
 Flags: W
 AnchorPoint: "bottom" 312 -36 basechar 0
@@ -11471,12 +11388,12 @@ AnchorPoint: "bottomatt" 325 3 basechar 0
 AnchorPoint: "top" 287 635 basechar 0
 LayerCount: 2
 Fore
-Refer: 383 772 S 1 0 0 1 417 -167 2
+Refer: 382 772 S 1 0 0 1 417 -167 2
 Refer: 69 101 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Ebreve
-Encoding: 276 276 395
+Encoding: 276 276 394
 Width: 447
 Flags: W
 AnchorPoint: "bottom" 200 -31 basechar 0
@@ -11485,12 +11402,12 @@ AnchorPoint: "bottomatt" 236 7 basechar 0
 AnchorPoint: "top" 236 859 basechar 0
 LayerCount: 2
 Fore
-Refer: 384 774 S 1 0 0 1 379 91 2
+Refer: 383 774 S 1 0 0 1 379 91 2
 Refer: 37 69 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: ebreve
-Encoding: 277 277 396
+Encoding: 277 277 395
 Width: 612
 Flags: W
 AnchorPoint: "bottom" 312 -36 basechar 0
@@ -11499,12 +11416,12 @@ AnchorPoint: "bottomatt" 325 3 basechar 0
 AnchorPoint: "top" 287 630 basechar 0
 LayerCount: 2
 Fore
-Refer: 384 774 N 1 0 0 1 430 -138 2
+Refer: 383 774 N 1 0 0 1 430 -138 2
 Refer: 69 101 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Edotaccent
-Encoding: 278 278 397
+Encoding: 278 278 396
 Width: 447
 Flags: W
 AnchorPoint: "bottom" 200 -31 basechar 0
@@ -11513,12 +11430,12 @@ AnchorPoint: "bottomatt" 236 7 basechar 0
 AnchorPoint: "top" 236 848 basechar 0
 LayerCount: 2
 Fore
-Refer: 385 775 N 1 0 0 1 280 56 2
+Refer: 384 775 N 1 0 0 1 280 56 2
 Refer: 37 69 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: edotaccent
-Encoding: 279 279 398
+Encoding: 279 279 397
 Width: 612
 Flags: W
 AnchorPoint: "bottom" 312 -36 basechar 0
@@ -11527,12 +11444,12 @@ AnchorPoint: "bottomatt" 325 3 basechar 0
 AnchorPoint: "top" 287 618 basechar 0
 LayerCount: 2
 Fore
-Refer: 385 775 N 1 0 0 1 331 -173 2
+Refer: 384 775 N 1 0 0 1 331 -173 2
 Refer: 69 101 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Gcircumflex
-Encoding: 284 284 399
+Encoding: 284 284 398
 Width: 656
 Flags: W
 AnchorPoint: "bottom" 384 -31 basechar 0
@@ -11541,12 +11458,12 @@ AnchorPoint: "bottomatt" 423 10 basechar 0
 AnchorPoint: "top" 399 957 basechar 0
 LayerCount: 2
 Fore
-Refer: 381 770 N 1 0 0 1 506 158 2
+Refer: 380 770 N 1 0 0 1 506 158 2
 Refer: 39 71 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: gcircumflex
-Encoding: 285 285 400
+Encoding: 285 285 399
 Width: 612
 Flags: W
 AnchorPoint: "bottom" 333 -276 basechar 0
@@ -11555,12 +11472,12 @@ AnchorPoint: "bottomatt" 369 -228 basechar 0
 AnchorPoint: "top" 261 727 basechar 0
 LayerCount: 2
 Fore
-Refer: 381 770 N 1 0 0 1 368 -73 2
+Refer: 380 770 N 1 0 0 1 368 -73 2
 Refer: 71 103 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Gdotaccent
-Encoding: 288 288 401
+Encoding: 288 288 400
 Width: 656
 Flags: W
 AnchorPoint: "bottom" 384 -31 basechar 0
@@ -11569,12 +11486,12 @@ AnchorPoint: "bottomatt" 423 10 basechar 0
 AnchorPoint: "top" 399 869 basechar 0
 LayerCount: 2
 Fore
-Refer: 385 775 N 1 0 0 1 443 78 2
+Refer: 384 775 N 1 0 0 1 443 78 2
 Refer: 39 71 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: gdotaccent
-Encoding: 289 289 402
+Encoding: 289 289 401
 Width: 612
 Flags: W
 AnchorPoint: "bottom" 333 -276 basechar 0
@@ -11583,12 +11500,12 @@ AnchorPoint: "bottomatt" 369 -228 basechar 0
 AnchorPoint: "top" 261 639 basechar 0
 LayerCount: 2
 Fore
-Refer: 385 775 N 1 0 0 1 305 -153 2
+Refer: 384 775 N 1 0 0 1 305 -153 2
 Refer: 71 103 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Hcircumflex
-Encoding: 292 292 403
+Encoding: 292 292 402
 Width: 696
 Flags: W
 AnchorPoint: "bottom" 307 -31 basechar 0
@@ -11597,12 +11514,12 @@ AnchorPoint: "bottomatt" 338 17 basechar 0
 AnchorPoint: "top" 317 916 basechar 0
 LayerCount: 2
 Fore
-Refer: 381 770 N 1 0 0 1 424 117 2
+Refer: 380 770 N 1 0 0 1 424 117 2
 Refer: 40 72 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: hcircumflex
-Encoding: 293 293 404
+Encoding: 293 293 403
 Width: 535
 Flags: W
 AnchorPoint: "bottom" 246 -31 basechar 0
@@ -11611,12 +11528,12 @@ AnchorPoint: "bottomatt" 266 20 basechar 0
 AnchorPoint: "top" 30 936 basechar 0
 LayerCount: 2
 Fore
-Refer: 381 770 N 1 0 0 1 136 136 2
+Refer: 380 770 N 1 0 0 1 136 136 2
 Refer: 72 104 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Itilde
-Encoding: 296 296 405
+Encoding: 296 296 404
 Width: 245
 Flags: W
 AnchorPoint: "bottom" 82 -31 basechar 0
@@ -11625,12 +11542,12 @@ AnchorPoint: "bottomatt" 113 7 basechar 0
 AnchorPoint: "top" 114 895 basechar 0
 LayerCount: 2
 Fore
-Refer: 382 771 N 1 0 0 1 238 120 2
+Refer: 381 771 N 1 0 0 1 238 120 2
 Refer: 41 73 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: itilde
-Encoding: 297 297 406
+Encoding: 297 297 405
 Width: 244
 Flags: W
 AnchorPoint: "bottomattside" 79 5 basechar 0
@@ -11639,12 +11556,12 @@ AnchorPoint: "bottomatt" 123 13 basechar 0
 AnchorPoint: "top" 108 639 basechar 0
 LayerCount: 2
 Fore
-Refer: 382 771 N 1 0 0 1 231 -136 2
+Refer: 381 771 N 1 0 0 1 231 -136 2
 Refer: 255 305 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Imacron
-Encoding: 298 298 407
+Encoding: 298 298 406
 Width: 245
 Flags: W
 AnchorPoint: "bottom" 82 -31 basechar 0
@@ -11653,12 +11570,12 @@ AnchorPoint: "bottomatt" 113 7 basechar 0
 AnchorPoint: "top" 114 852 basechar 0
 LayerCount: 2
 Fore
-Refer: 383 772 N 1 0 0 1 244 50 2
+Refer: 382 772 N 1 0 0 1 244 50 2
 Refer: 41 73 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: imacron
-Encoding: 299 299 408
+Encoding: 299 299 407
 Width: 244
 Flags: W
 AnchorPoint: "bottomattside" 79 5 basechar 0
@@ -11667,12 +11584,12 @@ AnchorPoint: "bottomatt" 123 13 basechar 0
 AnchorPoint: "top" 108 596 basechar 0
 LayerCount: 2
 Fore
-Refer: 383 772 N 1 0 0 1 238 -206 2
+Refer: 382 772 N 1 0 0 1 238 -206 2
 Refer: 255 305 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Ibreve
-Encoding: 300 300 409
+Encoding: 300 300 408
 Width: 245
 Flags: W
 AnchorPoint: "bottom" 82 -31 basechar 0
@@ -11681,12 +11598,12 @@ AnchorPoint: "bottomatt" 113 7 basechar 0
 AnchorPoint: "top" 114 876 basechar 0
 LayerCount: 2
 Fore
-Refer: 384 774 N 1 0 0 1 257 108 2
+Refer: 383 774 N 1 0 0 1 257 108 2
 Refer: 41 73 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: ibreve
-Encoding: 301 301 410
+Encoding: 301 301 409
 Width: 244
 Flags: W
 AnchorPoint: "bottomattside" 79 5 basechar 0
@@ -11695,12 +11612,12 @@ AnchorPoint: "bottomatt" 123 13 basechar 0
 AnchorPoint: "top" 108 620 basechar 0
 LayerCount: 2
 Fore
-Refer: 384 774 N 1 0 0 1 251 -148 2
+Refer: 383 774 N 1 0 0 1 251 -148 2
 Refer: 255 305 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Jcircumflex
-Encoding: 308 308 411
+Encoding: 308 308 410
 Width: 522
 Flags: W
 AnchorPoint: "bottom" 215 -31 basechar 0
@@ -11709,12 +11626,12 @@ AnchorPoint: "bottomatt" 256 10 basechar 0
 AnchorPoint: "top" 392 936 basechar 0
 LayerCount: 2
 Fore
-Refer: 381 770 N 1 0 0 1 499 136 2
+Refer: 380 770 N 1 0 0 1 499 136 2
 Refer: 42 74 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: jcircumflex
-Encoding: 309 309 412
+Encoding: 309 309 411
 Width: 370
 Flags: W
 AnchorPoint: "bottomattside" 93 -229 basechar 0
@@ -11723,12 +11640,12 @@ AnchorPoint: "bottomatt" 146 -232 basechar 0
 AnchorPoint: "top" 269 728 basechar 0
 LayerCount: 2
 Fore
-Refer: 381 770 N 1 0 0 1 376 -72 2
-Refer: 378 567 N 1 0 0 1 0 0 3
+Refer: 380 770 N 1 0 0 1 376 -72 2
+Refer: 377 567 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Lacute
-Encoding: 313 313 413
+Encoding: 313 313 412
 Width: 565
 Flags: W
 AnchorPoint: "bottom" 256 -31 basechar 0
@@ -11737,12 +11654,12 @@ AnchorPoint: "bottomatt" 294 10 basechar 0
 AnchorPoint: "top" 59 874 basechar 0
 LayerCount: 2
 Fore
-Refer: 380 769 N 1 0 0 1 148 106 2
+Refer: 379 769 N 1 0 0 1 148 106 2
 Refer: 44 76 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: lacute
-Encoding: 314 314 414
+Encoding: 314 314 413
 Width: 171
 Flags: W
 AnchorPoint: "bottom" 82 -26 basechar 0
@@ -11751,12 +11668,12 @@ AnchorPoint: "bottomatt" 110 13 basechar 0
 AnchorPoint: "top" 77 893 basechar 0
 LayerCount: 2
 Fore
-Refer: 380 769 N 1 0 0 1 166 125 2
+Refer: 379 769 N 1 0 0 1 166 125 2
 Refer: 76 108 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Lcaron
-Encoding: 317 317 415
+Encoding: 317 317 414
 Width: 565
 Flags: W
 AnchorPoint: "top" 59 739 basechar 0
@@ -11770,7 +11687,7 @@ Refer: 44 76 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: Ldot
-Encoding: 319 319 416
+Encoding: 319 319 415
 Width: 565
 Flags: W
 AnchorPoint: "top" 59 739 basechar 0
@@ -11779,12 +11696,12 @@ AnchorPoint: "bottomattside" 505 7 basechar 0
 AnchorPoint: "bottomatt" 294 10 basechar 0
 LayerCount: 2
 Fore
-Refer: 328 183 S 1 0 0 1 226 -3 2
+Refer: 327 183 S 1 0 0 1 226 -3 2
 Refer: 44 76 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: ldot
-Encoding: 320 320 417
+Encoding: 320 320 416
 Width: 324
 Flags: W
 AnchorPoint: "top" 77 758 basechar 0
@@ -11793,12 +11710,12 @@ AnchorPoint: "bottomattside" 72 4 basechar 0
 AnchorPoint: "bottomatt" 110 13 basechar 0
 LayerCount: 2
 Fore
-Refer: 328 183 N 1 0 0 1 171 0 2
+Refer: 327 183 N 1 0 0 1 171 0 2
 Refer: 76 108 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: Obreve
-Encoding: 334 334 418
+Encoding: 334 334 417
 Width: 870
 Flags: W
 AnchorPoint: "bottom" 420 -31 basechar 0
@@ -11807,12 +11724,12 @@ AnchorPoint: "bottomatt" 443 7 basechar 0
 AnchorPoint: "top" 425 870 basechar 0
 LayerCount: 2
 Fore
-Refer: 384 774 N 1 0 0 1 568 102 2
+Refer: 383 774 N 1 0 0 1 568 102 2
 Refer: 47 79 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: obreve
-Encoding: 335 335 419
+Encoding: 335 335 418
 Width: 622
 Flags: W
 AnchorPoint: "bottom" 292 -36 basechar 0
@@ -11821,12 +11738,12 @@ AnchorPoint: "bottomatt" 317 -3 basechar 0
 AnchorPoint: "top" 276 635 basechar 0
 LayerCount: 2
 Fore
-Refer: 384 774 N 1 0 0 1 420 -133 2
+Refer: 383 774 N 1 0 0 1 420 -133 2
 Refer: 79 111 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Racute
-Encoding: 340 340 420
+Encoding: 340 340 419
 Width: 563
 Flags: W
 AnchorPoint: "bottom" 200 -20 basechar 0
@@ -11835,12 +11752,12 @@ AnchorPoint: "bottomatt" 351 38 basechar 0
 AnchorPoint: "top" 282 888 basechar 0
 LayerCount: 2
 Fore
-Refer: 380 769 N 1 0 0 1 371 120 2
+Refer: 379 769 N 1 0 0 1 371 120 2
 Refer: 50 82 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: racute
-Encoding: 341 341 421
+Encoding: 341 341 420
 Width: 410
 Flags: W
 AnchorPoint: "bottom" 72 -31 basechar 0
@@ -11849,12 +11766,12 @@ AnchorPoint: "bottomatt" 95 10 basechar 0
 AnchorPoint: "top" 220 647 basechar 0
 LayerCount: 2
 Fore
-Refer: 380 769 N 1 0 0 1 309 -121 2
+Refer: 379 769 N 1 0 0 1 309 -121 2
 Refer: 82 114 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Scircumflex
-Encoding: 348 348 422
+Encoding: 348 348 421
 Width: 441
 Flags: W
 AnchorPoint: "bottom" 211 -30 basechar 0
@@ -11863,12 +11780,12 @@ AnchorPoint: "bottomatt" 249 20 basechar 0
 AnchorPoint: "top" 225 957 basechar 0
 LayerCount: 2
 Fore
-Refer: 381 770 N 1 0 0 1 332 158 2
+Refer: 380 770 N 1 0 0 1 332 158 2
 Refer: 51 83 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: scircumflex
-Encoding: 349 349 423
+Encoding: 349 349 422
 Width: 445
 Flags: W
 AnchorPoint: "bottom" 211 -30 basechar 0
@@ -11877,12 +11794,12 @@ AnchorPoint: "bottomatt" 226 -6 basechar 0
 AnchorPoint: "top" 210 737 basechar 0
 LayerCount: 2
 Fore
-Refer: 381 770 N 1 0 0 1 316 -62 2
+Refer: 380 770 N 1 0 0 1 316 -62 2
 Refer: 83 115 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Utilde
-Encoding: 360 360 424
+Encoding: 360 360 423
 Width: 746
 Flags: W
 AnchorPoint: "bottom" 348 -36 basechar 0
@@ -11891,12 +11808,12 @@ AnchorPoint: "bottomatt" 382 13 basechar 0
 AnchorPoint: "top" 333 854 basechar 0
 LayerCount: 2
 Fore
-Refer: 382 771 N 1 0 0 1 457 79 2
+Refer: 381 771 N 1 0 0 1 457 79 2
 Refer: 53 85 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: utilde
-Encoding: 361 361 425
+Encoding: 361 361 424
 Width: 568
 Flags: W
 AnchorPoint: "bottom" 256 -31 basechar 0
@@ -11905,12 +11822,12 @@ AnchorPoint: "bottomatt" 276 7 basechar 0
 AnchorPoint: "top" 266 644 basechar 0
 LayerCount: 2
 Fore
-Refer: 382 771 N 1 0 0 1 390 -131 2
+Refer: 381 771 N 1 0 0 1 390 -131 2
 Refer: 85 117 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Umacron
-Encoding: 362 362 426
+Encoding: 362 362 425
 Width: 746
 Flags: W
 AnchorPoint: "bottom" 348 -36 basechar 0
@@ -11919,12 +11836,12 @@ AnchorPoint: "bottomatt" 382 13 basechar 0
 AnchorPoint: "top" 333 811 basechar 0
 LayerCount: 2
 Fore
-Refer: 383 772 N 1 0 0 1 463 9 2
+Refer: 382 772 N 1 0 0 1 463 9 2
 Refer: 53 85 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: umacron
-Encoding: 363 363 427
+Encoding: 363 363 426
 Width: 568
 Flags: W
 AnchorPoint: "bottom" 256 -31 basechar 0
@@ -11933,12 +11850,12 @@ AnchorPoint: "bottomatt" 276 7 basechar 0
 AnchorPoint: "top" 266 601 basechar 0
 LayerCount: 2
 Fore
-Refer: 383 772 N 1 0 0 1 396 -201 2
+Refer: 382 772 N 1 0 0 1 396 -201 2
 Refer: 85 117 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Ubreve
-Encoding: 364 364 428
+Encoding: 364 364 427
 Width: 746
 Flags: W
 AnchorPoint: "bottom" 348 -36 basechar 0
@@ -11947,12 +11864,12 @@ AnchorPoint: "bottomatt" 382 13 basechar 0
 AnchorPoint: "top" 333 835 basechar 0
 LayerCount: 2
 Fore
-Refer: 384 774 N 1 0 0 1 476 67 2
+Refer: 383 774 N 1 0 0 1 476 67 2
 Refer: 53 85 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: ubreve
-Encoding: 365 365 429
+Encoding: 365 365 428
 Width: 568
 Flags: W
 AnchorPoint: "bottom" 256 -31 basechar 0
@@ -11961,12 +11878,12 @@ AnchorPoint: "bottomatt" 276 7 basechar 0
 AnchorPoint: "top" 266 625 basechar 0
 LayerCount: 2
 Fore
-Refer: 384 774 N 1 0 0 1 410 -143 2
+Refer: 383 774 N 1 0 0 1 410 -143 2
 Refer: 85 117 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Wcircumflex
-Encoding: 372 372 430
+Encoding: 372 372 429
 Width: 961
 Flags: W
 AnchorPoint: "bottom" 538 -15 basechar 0
@@ -11975,12 +11892,12 @@ AnchorPoint: "bottomatt" 577 38 basechar 0
 AnchorPoint: "top" 538 911 basechar 0
 LayerCount: 2
 Fore
-Refer: 381 770 N 1 0 0 1 644 112 2
+Refer: 380 770 N 1 0 0 1 644 112 2
 Refer: 55 87 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: wcircumflex
-Encoding: 373 373 431
+Encoding: 373 373 430
 Width: 839
 Flags: W
 AnchorPoint: "bottom" 425 10 basechar 0
@@ -11989,12 +11906,12 @@ AnchorPoint: "bottomatt" 443 34 basechar 0
 AnchorPoint: "top" 420 773 basechar 0
 LayerCount: 2
 Fore
-Refer: 381 770 N 1 0 0 1 526 -27 2
+Refer: 380 770 N 1 0 0 1 526 -27 2
 Refer: 87 119 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Ycircumflex
-Encoding: 374 374 432
+Encoding: 374 374 431
 Width: 634
 Flags: W
 AnchorPoint: "bottom" 323 -31 basechar 0
@@ -12003,12 +11920,12 @@ AnchorPoint: "bottomatt" 341 17 basechar 0
 AnchorPoint: "top" 297 922 basechar 0
 LayerCount: 2
 Fore
-Refer: 381 770 N 1 0 0 1 403 122 2
+Refer: 380 770 N 1 0 0 1 403 122 2
 Refer: 57 89 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: ycircumflex
-Encoding: 375 375 433
+Encoding: 375 375 432
 Width: 562
 Flags: W
 AnchorPoint: "bottom" 148 -266 basechar 0
@@ -12017,12 +11934,12 @@ AnchorPoint: "bottomatt" 174 -215 basechar 0
 AnchorPoint: "top" 276 727 basechar 0
 LayerCount: 2
 Fore
-Refer: 381 770 N 1 0 0 1 383 -73 2
+Refer: 380 770 N 1 0 0 1 383 -73 2
 Refer: 89 121 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: lcaron
-Encoding: 318 318 434
+Encoding: 318 318 433
 Width: 310
 Flags: W
 AnchorPoint: "top" 77 758 basechar 0
@@ -12036,7 +11953,7 @@ Refer: 76 108 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: longs
-Encoding: 383 383 435
+Encoding: 383 383 434
 Width: 316
 Flags: W
 AnchorPoint: "bottomattside" 41 6 basechar 0
@@ -12072,7 +11989,7 @@ EndSplineSet
 EndChar
 
 StartChar: Tbar
-Encoding: 358 358 436
+Encoding: 358 358 435
 Width: 644
 Flags: W
 AnchorPoint: "top" 297 753 basechar 0
@@ -12092,7 +12009,7 @@ Refer: 52 84 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: tbar
-Encoding: 359 359 437
+Encoding: 359 359 436
 Width: 358
 Flags: W
 AnchorPoint: "top" 133 681 basechar 0
@@ -12112,7 +12029,7 @@ Refer: 84 116 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: IJ
-Encoding: 306 306 438
+Encoding: 306 306 437
 Width: 673
 Flags: W
 LayerCount: 2
@@ -12122,7 +12039,7 @@ Refer: 41 73 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: ij
-Encoding: 307 307 439
+Encoding: 307 307 438
 Width: 479
 Flags: W
 LayerCount: 2
@@ -12132,7 +12049,7 @@ Refer: 73 105 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: Hbar
-Encoding: 294 294 440
+Encoding: 294 294 439
 Width: 825
 Flags: W
 AnchorPoint: "top" 381 717 basechar 0
@@ -12152,7 +12069,7 @@ Refer: 40 72 N 1 0 0 1 63 0 2
 EndChar
 
 StartChar: hbar
-Encoding: 295 295 441
+Encoding: 295 295 440
 Width: 592
 Flags: W
 AnchorPoint: "top" 87 736 basechar 0
@@ -12172,7 +12089,7 @@ Refer: 72 104 N 1 0 0 1 57 0 2
 EndChar
 
 StartChar: dcroat
-Encoding: 273 273 442
+Encoding: 273 273 441
 Width: 631
 Flags: W
 AnchorPoint: "top" 307 717 basechar 0
@@ -12192,7 +12109,7 @@ Refer: 68 100 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni0327
-Encoding: 807 807 443
+Encoding: 807 807 442
 Width: 0
 Flags: W
 AnchorPoint: "mkmkbottomatt" -84 -135 basemark 0
@@ -12204,7 +12121,7 @@ Refer: 104 184 N 1 0 0 1 -136 -60 2
 EndChar
 
 StartChar: uni0328
-Encoding: 808 808 444
+Encoding: 808 808 443
 Width: 0
 Flags: W
 AnchorPoint: "mkmkbottomattside" -49 -92 basemark 0
@@ -12212,11 +12129,11 @@ AnchorPoint: "mkmkbottomattside" -51 4 mark 0
 AnchorPoint: "bottomattside" -51 4 mark 0
 LayerCount: 2
 Fore
-Refer: 360 731 N 1 0 0 1 -92 0 2
+Refer: 359 731 N 1 0 0 1 -92 0 2
 EndChar
 
 StartChar: uni0326
-Encoding: 806 806 445
+Encoding: 806 806 444
 Width: 0
 Flags: W
 AnchorPoint: "mkmkbottom" -44 -256 basemark 0
@@ -12228,7 +12145,7 @@ Refer: 12 44 N 1 0 0 1 -92 -128 2
 EndChar
 
 StartChar: uni0325
-Encoding: 805 805 446
+Encoding: 805 805 445
 Width: 0
 Flags: W
 AnchorPoint: "mkmkbottom" -66 -141 basemark 0
@@ -12240,7 +12157,7 @@ Refer: 193 730 N 1 0 0 1 -137 -825 2
 EndChar
 
 StartChar: dotbelowcomb
-Encoding: 803 803 447
+Encoding: 803 803 446
 Width: 0
 Flags: W
 AnchorPoint: "mkmkbottom" -45 0 mark 0
@@ -12248,11 +12165,11 @@ AnchorPoint: "mkmkbottom" -45 -121 basemark 0
 AnchorPoint: "bottom" -45 0 mark 0
 LayerCount: 2
 Fore
-Refer: 359 729 N 1 0 0 1 -89 -768 2
+Refer: 358 729 N 1 0 0 1 -89 -768 2
 EndChar
 
 StartChar: uni0324
-Encoding: 804 804 448
+Encoding: 804 804 447
 Width: 0
 Flags: W
 AnchorPoint: "mkmkbottom" -81 -85 basemark 0
@@ -12264,7 +12181,7 @@ Refer: 99 168 N 1 0 0 1 -177 -764 2
 EndChar
 
 StartChar: uni0122
-Encoding: 290 290 449
+Encoding: 290 290 448
 Width: 656
 Flags: W
 AnchorPoint: "top" 399 758 basechar 0
@@ -12273,12 +12190,12 @@ AnchorPoint: "bottomatt" 423 10 basechar 0
 AnchorPoint: "bottom" 384 -285 basechar 0
 LayerCount: 2
 Fore
-Refer: 445 806 N 1 0 0 1 428 -29 2
+Refer: 444 806 N 1 0 0 1 428 -29 2
 Refer: 39 71 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni0136
-Encoding: 310 310 450
+Encoding: 310 310 449
 Width: 541
 Flags: W
 AnchorPoint: "top" 236 717 basechar 0
@@ -12287,12 +12204,12 @@ AnchorPoint: "bottomatt" 263 17 basechar 0
 AnchorPoint: "bottom" 251 -259 basechar 0
 LayerCount: 2
 Fore
-Refer: 445 806 N 1 0 0 1 295 -3 2
+Refer: 444 806 N 1 0 0 1 295 -3 2
 Refer: 43 75 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni0137
-Encoding: 311 311 451
+Encoding: 311 311 450
 Width: 513
 Flags: W
 AnchorPoint: "top" 225 722 basechar 0
@@ -12301,12 +12218,12 @@ AnchorPoint: "bottomatt" 232 13 basechar 0
 AnchorPoint: "bottom" 236 -259 basechar 0
 LayerCount: 2
 Fore
-Refer: 445 806 N 1 0 0 1 280 -3 2
+Refer: 444 806 N 1 0 0 1 280 -3 2
 Refer: 75 107 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni013B
-Encoding: 315 315 452
+Encoding: 315 315 451
 Width: 565
 Flags: W
 AnchorPoint: "top" 59 739 basechar 0
@@ -12315,12 +12232,12 @@ AnchorPoint: "bottomatt" 294 10 basechar 0
 AnchorPoint: "bottom" 256 -285 basechar 0
 LayerCount: 2
 Fore
-Refer: 445 806 N 1 0 0 1 300 -29 2
+Refer: 444 806 N 1 0 0 1 300 -29 2
 Refer: 44 76 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni013C
-Encoding: 316 316 453
+Encoding: 316 316 452
 Width: 171
 Flags: W
 AnchorPoint: "top" 77 758 basechar 0
@@ -12329,12 +12246,12 @@ AnchorPoint: "bottomatt" 110 13 basechar 0
 AnchorPoint: "bottom" 82 -280 basechar 0
 LayerCount: 2
 Fore
-Refer: 445 806 N 1 0 0 1 126 -24 2
+Refer: 444 806 N 1 0 0 1 126 -24 2
 Refer: 76 108 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni0145
-Encoding: 325 325 454
+Encoding: 325 325 453
 Width: 766
 Flags: W
 AnchorPoint: "top" 374 712 basechar 0
@@ -12343,12 +12260,12 @@ AnchorPoint: "bottomatt" 399 20 basechar 0
 AnchorPoint: "bottom" 358 -249 basechar 0
 LayerCount: 2
 Fore
-Refer: 445 806 N 1 0 0 1 402 7 2
+Refer: 444 806 N 1 0 0 1 402 7 2
 Refer: 46 78 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni0146
-Encoding: 326 326 455
+Encoding: 326 326 454
 Width: 617
 Flags: W
 AnchorPoint: "top" 282 527 basechar 0
@@ -12357,12 +12274,12 @@ AnchorPoint: "bottomatt" 310 24 basechar 0
 AnchorPoint: "bottom" 297 -259 basechar 0
 LayerCount: 2
 Fore
-Refer: 445 806 N 1 0 0 1 341 -3 2
+Refer: 444 806 N 1 0 0 1 341 -3 2
 Refer: 78 110 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni0156
-Encoding: 342 342 456
+Encoding: 342 342 455
 Width: 563
 Flags: W
 AnchorPoint: "top" 282 753 basechar 0
@@ -12371,12 +12288,12 @@ AnchorPoint: "bottomatt" 351 38 basechar 0
 AnchorPoint: "bottom" 200 -274 basechar 0
 LayerCount: 2
 Fore
-Refer: 445 806 N 1 0 0 1 244 -18 2
+Refer: 444 806 N 1 0 0 1 244 -18 2
 Refer: 50 82 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni0157
-Encoding: 343 343 457
+Encoding: 343 343 456
 Width: 410
 Flags: W
 AnchorPoint: "top" 220 512 basechar 0
@@ -12385,12 +12302,12 @@ AnchorPoint: "bottomatt" 95 10 basechar 0
 AnchorPoint: "bottom" 72 -285 basechar 0
 LayerCount: 2
 Fore
-Refer: 445 806 N 1 0 0 1 116 -29 2
+Refer: 444 806 N 1 0 0 1 116 -29 2
 Refer: 82 114 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni0123
-Encoding: 291 291 458
+Encoding: 291 291 457
 Width: 612
 Flags: W
 AnchorPoint: "bottom" 333 -276 basechar 0
@@ -12399,12 +12316,12 @@ AnchorPoint: "bottomatt" 369 -228 basechar 0
 AnchorPoint: "top" 261 777 basechar 0
 LayerCount: 2
 Fore
-Refer: 461 786 N 1 0 0 1 304 -14 2
+Refer: 460 786 N 1 0 0 1 304 -14 2
 Refer: 71 103 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni0313
-Encoding: 787 787 459
+Encoding: 787 787 458
 Width: 0
 Flags: W
 AnchorPoint: "mkmktop" -63 792 basemark 0
@@ -12416,7 +12333,7 @@ Refer: 12 44 N 1 0 0 1 -92 640 2
 EndChar
 
 StartChar: uni2E32
-Encoding: 11826 11826 460
+Encoding: 11826 11826 459
 Width: 121
 Flags: W
 LayerCount: 2
@@ -12431,7 +12348,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0312
-Encoding: 786 786 461
+Encoding: 786 786 460
 Width: 0
 Flags: W
 AnchorPoint: "mkmktop" -43 792 basemark 0
@@ -12439,11 +12356,11 @@ AnchorPoint: "mkmktop" -43 542 mark 0
 AnchorPoint: "top" -43 542 mark 0
 LayerCount: 2
 Fore
-Refer: 460 11826 N 1 0 0 1 -90 670 2
+Refer: 459 11826 N 1 0 0 1 -90 670 2
 EndChar
 
 StartChar: napostrophe
-Encoding: 329 329 462
+Encoding: 329 329 461
 Width: 670
 Flags: W
 AnchorPoint: "top" 335 527 basechar 0
@@ -12457,7 +12374,7 @@ Refer: 7 39 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: Eng
-Encoding: 330 330 463
+Encoding: 330 330 462
 Width: 766
 Flags: W
 AnchorPoint: "bottom" 529 -265 basechar 0
@@ -12485,7 +12402,7 @@ EndSplineSet
 EndChar
 
 StartChar: Iogonek
-Encoding: 302 302 464
+Encoding: 302 302 463
 Width: 245
 Flags: W
 AnchorPoint: "top" 114 753 basechar 0
@@ -12494,12 +12411,12 @@ AnchorPoint: "bottomatt" 113 7 basechar 0
 AnchorPoint: "bottomattside" 91 -91 basechar 0
 LayerCount: 2
 Fore
-Refer: 444 808 N 1 0 0 1 140 1 2
+Refer: 443 808 N 1 0 0 1 140 1 2
 Refer: 41 73 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: iogonek
-Encoding: 303 303 465
+Encoding: 303 303 464
 Width: 234
 Flags: W
 AnchorPoint: "bottom" 97 -31 basechar 0
@@ -12507,12 +12424,12 @@ AnchorPoint: "bottomatt" 123 13 basechar 0
 AnchorPoint: "bottomattside" 81 -91 basechar 0
 LayerCount: 2
 Fore
-Refer: 444 808 N 1 0 0 1 130 1 2
+Refer: 443 808 N 1 0 0 1 130 1 2
 Refer: 73 105 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Uogonek
-Encoding: 370 370 466
+Encoding: 370 370 465
 Width: 746
 Flags: W
 AnchorPoint: "top" 333 712 basechar 0
@@ -12521,12 +12438,12 @@ AnchorPoint: "bottomatt" 382 13 basechar 0
 AnchorPoint: "bottomattside" 483 -72 basechar 0
 LayerCount: 2
 Fore
-Refer: 444 808 N 1 0 0 1 532 20 2
+Refer: 443 808 N 1 0 0 1 532 20 2
 Refer: 53 85 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uogonek
-Encoding: 371 371 467
+Encoding: 371 371 466
 Width: 568
 Flags: W
 AnchorPoint: "top" 266 502 basechar 0
@@ -12535,12 +12452,12 @@ AnchorPoint: "bottomatt" 276 7 basechar 0
 AnchorPoint: "bottomattside" 467 -81 basechar 0
 LayerCount: 2
 Fore
-Refer: 444 808 N 1 0 0 1 516 11 2
+Refer: 443 808 N 1 0 0 1 516 11 2
 Refer: 85 117 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: eng
-Encoding: 331 331 468
+Encoding: 331 331 467
 Width: 617
 Flags: W
 AnchorPoint: "bottomattside" 451 -210 basechar 0
@@ -12583,7 +12500,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0344
-Encoding: 836 836 469
+Encoding: 836 836 468
 Width: 0
 Flags: W
 AnchorPoint: "mkmktop" -81 768 basemark 0
@@ -12595,7 +12512,7 @@ Refer: 314 901 N 1 0 0 1 -174 1 2
 EndChar
 
 StartChar: uni0183
-Encoding: 387 387 470
+Encoding: 387 387 469
 Width: 589
 Flags: W
 LayerCount: 2
@@ -12611,7 +12528,7 @@ Refer: 66 98 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni0180
-Encoding: 384 384 471
+Encoding: 384 384 470
 Width: 642
 Flags: W
 AnchorPoint: "top" 329 701 basechar 0
@@ -12631,7 +12548,7 @@ Refer: 66 98 S 1 0 0 1 52 0 2
 EndChar
 
 StartChar: uni018B
-Encoding: 395 395 472
+Encoding: 395 395 471
 Width: 520
 Flags: W
 LayerCount: 2
@@ -12672,7 +12589,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni018C
-Encoding: 396 396 473
+Encoding: 396 396 472
 Width: 631
 Flags: W
 LayerCount: 2
@@ -12688,7 +12605,7 @@ Refer: 68 100 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni018D
-Encoding: 397 397 474
+Encoding: 397 397 473
 Width: 622
 Flags: W
 LayerCount: 2
@@ -12697,7 +12614,7 @@ Refer: 278 948 S -1 0 0 -1 595 469 2
 EndChar
 
 StartChar: uni018E
-Encoding: 398 398 475
+Encoding: 398 398 474
 Width: 447
 Flags: W
 AnchorPoint: "bottom" 221 -31 basechar 0
@@ -12722,7 +12639,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0186
-Encoding: 390 390 476
+Encoding: 390 390 475
 Width: 633
 Flags: W
 AnchorPoint: "bottom" 254 -20 basechar 0
@@ -12761,7 +12678,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0190
-Encoding: 400 400 477
+Encoding: 400 400 476
 Width: 508
 VWidth: 1000
 Flags: W
@@ -12775,8 +12692,8 @@ SplineSet
  72.154296875 372 72.154296875 372 88.154296875 381 c 0,5,6
  127.154296875 403 127.154296875 403 175.154296875 411 c 1,7,8
  147.087890625 414.62109375 147.087890625 414.62109375 119.154296875 432 c 0,9,10
- 89.154296875 449 89.154296875 449 74.154296875 471 c 4,11,12
- 49.9111328125 507.727539062 49.9111328125 507.727539062 47.154296875 550 c 5,13,14
+ 89.154296875 449 89.154296875 449 74.154296875 471 c 0,11,12
+ 49.9111328125 507.727539062 49.9111328125 507.727539062 47.154296875 550 c 1,13,14
  38.154296875 591 38.154296875 591 65.654296875 630 c 128,-1,15
  93.154296875 669 93.154296875 669 139.154296875 684.5 c 128,-1,16
  185.154296875 700 185.154296875 700 231.154296875 701 c 128,-1,17
@@ -12806,7 +12723,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0190
-Encoding: 400 400 478
+Encoding: 400 400 477
 Width: 520
 Flags: W
 LayerCount: 2
@@ -12851,7 +12768,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni018F
-Encoding: 399 399 479
+Encoding: 399 399 478
 Width: 825
 Flags: W
 AnchorPoint: "top" 364 758 basechar 0
@@ -12885,7 +12802,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0185
-Encoding: 389 389 480
+Encoding: 389 389 479
 Width: 589
 Flags: W
 LayerCount: 2
@@ -12900,8 +12817,8 @@ Refer: 66 98 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni0184
-Encoding: 388 388 481
-Width: 587
+Encoding: 388 388 480
+Width: 527
 Flags: W
 LayerCount: 2
 Fore
@@ -12915,7 +12832,7 @@ Refer: 212 1068 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni0181
-Encoding: 385 385 482
+Encoding: 385 385 481
 Width: 633
 Flags: W
 AnchorPoint: "top" 275 748 basechar 0
@@ -12935,7 +12852,7 @@ Refer: 34 66 N 1 0 0 1 112 0 2
 EndChar
 
 StartChar: uni018A
-Encoding: 394 394 483
+Encoding: 394 394 482
 Width: 850
 Flags: W
 LayerCount: 2
@@ -12951,7 +12868,7 @@ Refer: 36 68 N 1 0 0 1 104 0 2
 EndChar
 
 StartChar: uni0187
-Encoding: 391 391 484
+Encoding: 391 391 483
 Width: 633
 Flags: W
 LayerCount: 2
@@ -12967,7 +12884,7 @@ Refer: 35 67 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni0188
-Encoding: 392 392 485
+Encoding: 392 392 484
 Width: 561
 Flags: W
 LayerCount: 2
@@ -12983,7 +12900,7 @@ Refer: 67 99 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni0191
-Encoding: 401 401 486
+Encoding: 401 401 485
 Width: 410
 Flags: W
 LayerCount: 2
@@ -13003,7 +12920,7 @@ Refer: 38 70 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: florin
-Encoding: 402 402 487
+Encoding: 402 402 486
 Width: 365
 Flags: W
 LayerCount: 2
@@ -13019,7 +12936,7 @@ Refer: 70 102 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni0193
-Encoding: 403 403 488
+Encoding: 403 403 487
 Width: 656
 Flags: W
 LayerCount: 2
@@ -13036,7 +12953,7 @@ Refer: 39 71 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni01A7
-Encoding: 423 423 489
+Encoding: 423 423 488
 Width: 441
 Flags: W
 LayerCount: 2
@@ -13089,7 +13006,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni01A8
-Encoding: 424 424 490
+Encoding: 424 424 489
 Width: 445
 Flags: W
 LayerCount: 2
@@ -13124,37 +13041,37 @@ EndSplineSet
 EndChar
 
 StartChar: uni01C4
-Encoding: 452 452 491
+Encoding: 452 452 490
 Width: 1338
 Flags: W
 LayerCount: 2
 Fore
-Refer: 356 381 S 1 0 0 1 685 0 2
+Refer: 355 381 S 1 0 0 1 685 0 2
 Refer: 36 68 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni01C5
-Encoding: 453 453 492
+Encoding: 453 453 491
 Width: 1230
 Flags: W
 LayerCount: 2
 Fore
-Refer: 357 382 N 1 0 0 1 746 0 2
+Refer: 356 382 N 1 0 0 1 746 0 2
 Refer: 36 68 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni01C6
-Encoding: 454 454 493
+Encoding: 454 454 492
 Width: 1116
 Flags: W
 LayerCount: 2
 Fore
-Refer: 357 382 N 1 0 0 1 632 0 2
+Refer: 356 382 N 1 0 0 1 632 0 2
 Refer: 68 100 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni01C7
-Encoding: 455 455 494
+Encoding: 455 455 493
 Width: 1087
 Flags: W
 LayerCount: 2
@@ -13164,7 +13081,7 @@ Refer: 44 76 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni01C8
-Encoding: 456 456 495
+Encoding: 456 456 494
 Width: 737
 Flags: W
 LayerCount: 2
@@ -13174,7 +13091,7 @@ Refer: 44 76 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni01C9
-Encoding: 457 457 496
+Encoding: 457 457 495
 Width: 429
 Flags: W
 LayerCount: 2
@@ -13184,7 +13101,7 @@ Refer: 76 108 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni01CA
-Encoding: 458 458 497
+Encoding: 458 458 496
 Width: 1289
 Flags: W
 LayerCount: 2
@@ -13194,7 +13111,7 @@ Refer: 46 78 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni01CB
-Encoding: 459 459 498
+Encoding: 459 459 497
 Width: 947
 Flags: W
 LayerCount: 2
@@ -13204,7 +13121,7 @@ Refer: 46 78 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni01CC
-Encoding: 460 460 499
+Encoding: 460 460 498
 Width: 801
 Flags: W
 LayerCount: 2
@@ -13214,7 +13131,7 @@ Refer: 78 110 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni01D0
-Encoding: 464 464 500
+Encoding: 464 464 499
 Width: 244
 Flags: W
 AnchorPoint: "bottomattside" 79 5 basechar 0
@@ -13223,12 +13140,12 @@ AnchorPoint: "bottomatt" 123 13 basechar 0
 AnchorPoint: "top" 108 665 basechar 0
 LayerCount: 2
 Fore
-Refer: 388 780 N 1 0 0 1 231 -103 2
+Refer: 387 780 N 1 0 0 1 231 -103 2
 Refer: 255 305 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni01CD
-Encoding: 461 461 501
+Encoding: 461 461 500
 Width: 645
 Flags: W
 AnchorPoint: "bottom" 297 -10 basechar 0
@@ -13237,12 +13154,12 @@ AnchorPoint: "bottomatt" 314 -10 basechar 0
 AnchorPoint: "top" 259 901 basechar 0
 LayerCount: 2
 Fore
-Refer: 388 780 N 1 0 0 1 383 133 2
+Refer: 387 780 N 1 0 0 1 383 133 2
 Refer: 33 65 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni01CE
-Encoding: 462 462 502
+Encoding: 462 462 501
 Width: 652
 Flags: W
 AnchorPoint: "bottom" 312 -31 basechar 0
@@ -13251,12 +13168,12 @@ AnchorPoint: "bottomatt" 331 17 basechar 0
 AnchorPoint: "top" 297 695 basechar 0
 LayerCount: 2
 Fore
-Refer: 388 780 N 1 0 0 1 421 -73 2
+Refer: 387 780 N 1 0 0 1 421 -73 2
 Refer: 65 97 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni01CF
-Encoding: 463 463 503
+Encoding: 463 463 502
 Width: 245
 Flags: W
 AnchorPoint: "bottom" 82 -31 basechar 0
@@ -13265,12 +13182,12 @@ AnchorPoint: "bottomatt" 113 7 basechar 0
 AnchorPoint: "top" 114 921 basechar 0
 LayerCount: 2
 Fore
-Refer: 388 780 N 1 0 0 1 238 153 2
+Refer: 387 780 N 1 0 0 1 238 153 2
 Refer: 41 73 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni01D1
-Encoding: 465 465 504
+Encoding: 465 465 503
 Width: 870
 Flags: W
 AnchorPoint: "bottom" 420 -31 basechar 0
@@ -13279,12 +13196,12 @@ AnchorPoint: "bottomatt" 443 7 basechar 0
 AnchorPoint: "top" 425 915 basechar 0
 LayerCount: 2
 Fore
-Refer: 388 780 N 1 0 0 1 549 147 2
+Refer: 387 780 N 1 0 0 1 549 147 2
 Refer: 47 79 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni01D2
-Encoding: 466 466 505
+Encoding: 466 466 504
 Width: 622
 Flags: W
 AnchorPoint: "bottom" 292 -36 basechar 0
@@ -13293,12 +13210,12 @@ AnchorPoint: "bottomatt" 317 -3 basechar 0
 AnchorPoint: "top" 276 680 basechar 0
 LayerCount: 2
 Fore
-Refer: 388 780 N 1 0 0 1 400 -88 2
+Refer: 387 780 N 1 0 0 1 400 -88 2
 Refer: 79 111 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni01D3
-Encoding: 467 467 506
+Encoding: 467 467 505
 Width: 746
 Flags: W
 AnchorPoint: "bottom" 348 -36 basechar 0
@@ -13307,12 +13224,12 @@ AnchorPoint: "bottomatt" 382 13 basechar 0
 AnchorPoint: "top" 333 880 basechar 0
 LayerCount: 2
 Fore
-Refer: 388 780 N 1 0 0 1 457 112 2
+Refer: 387 780 N 1 0 0 1 457 112 2
 Refer: 53 85 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni01D4
-Encoding: 468 468 507
+Encoding: 468 468 506
 Width: 568
 Flags: W
 AnchorPoint: "bottom" 256 -31 basechar 0
@@ -13321,12 +13238,12 @@ AnchorPoint: "bottomatt" 276 7 basechar 0
 AnchorPoint: "top" 266 670 basechar 0
 LayerCount: 2
 Fore
-Refer: 388 780 N 1 0 0 1 390 -98 2
+Refer: 387 780 N 1 0 0 1 390 -98 2
 Refer: 85 117 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni01DD
-Encoding: 477 477 508
+Encoding: 477 477 507
 AltUni2: 000259.ffffffff.0
 Width: 612
 Flags: W
@@ -13337,7 +13254,7 @@ Refer: 69 101 N -1 0 0 -1 608 494 2
 EndChar
 
 StartChar: Gcaron
-Encoding: 486 486 509
+Encoding: 486 486 508
 Width: 656
 Flags: W
 AnchorPoint: "bottom" 384 -31 basechar 0
@@ -13346,12 +13263,12 @@ AnchorPoint: "bottomatt" 423 10 basechar 0
 AnchorPoint: "top" 399 926 basechar 0
 LayerCount: 2
 Fore
-Refer: 388 780 N 1 0 0 1 523 158 2
+Refer: 387 780 N 1 0 0 1 523 158 2
 Refer: 39 71 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: gcaron
-Encoding: 487 487 510
+Encoding: 487 487 509
 Width: 612
 Flags: W
 AnchorPoint: "bottom" 333 -276 basechar 0
@@ -13360,12 +13277,12 @@ AnchorPoint: "bottomatt" 369 -228 basechar 0
 AnchorPoint: "top" 261 695 basechar 0
 LayerCount: 2
 Fore
-Refer: 388 780 N 1 0 0 1 385 -73 2
+Refer: 387 780 N 1 0 0 1 385 -73 2
 Refer: 71 103 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni01EA
-Encoding: 490 490 511
+Encoding: 490 490 510
 Width: 870
 Flags: W
 AnchorPoint: "top" 425 748 basechar 0
@@ -13374,12 +13291,12 @@ AnchorPoint: "bottomatt" 443 7 basechar 0
 AnchorPoint: "bottomattside" 551 -86 basechar 0
 LayerCount: 2
 Fore
-Refer: 444 808 S 1 0 0 1 600 6 2
+Refer: 443 808 S 1 0 0 1 600 6 2
 Refer: 47 79 S 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni01E8
-Encoding: 488 488 512
+Encoding: 488 488 511
 Width: 541
 Flags: W
 AnchorPoint: "bottom" 251 -5 basechar 0
@@ -13388,12 +13305,12 @@ AnchorPoint: "bottomatt" 263 17 basechar 0
 AnchorPoint: "top" 236 885 basechar 0
 LayerCount: 2
 Fore
-Refer: 388 780 N 1 0 0 1 359 117 2
+Refer: 387 780 N 1 0 0 1 359 117 2
 Refer: 43 75 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni01E9
-Encoding: 489 489 513
+Encoding: 489 489 512
 Width: 513
 Flags: W
 AnchorPoint: "bottom" 236 -5 basechar 0
@@ -13402,12 +13319,12 @@ AnchorPoint: "bottomatt" 232 13 basechar 0
 AnchorPoint: "top" 225 890 basechar 0
 LayerCount: 2
 Fore
-Refer: 388 780 N 1 0 0 1 349 122 2
+Refer: 387 780 N 1 0 0 1 349 122 2
 Refer: 75 107 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni01EB
-Encoding: 491 491 514
+Encoding: 491 491 513
 Width: 622
 Flags: W
 AnchorPoint: "top" 276 512 basechar 0
@@ -13416,12 +13333,12 @@ AnchorPoint: "bottomatt" 317 -3 basechar 0
 AnchorPoint: "bottomattside" 392 -92 basechar 0
 LayerCount: 2
 Fore
-Refer: 444 808 N 1 0 0 1 441 0 2
+Refer: 443 808 N 1 0 0 1 441 0 2
 Refer: 79 111 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni01F1
-Encoding: 497 497 515
+Encoding: 497 497 514
 Width: 1338
 Flags: W
 LayerCount: 2
@@ -13431,7 +13348,7 @@ Refer: 36 68 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni01F2
-Encoding: 498 498 516
+Encoding: 498 498 515
 Width: 1230
 Flags: W
 LayerCount: 2
@@ -13441,7 +13358,7 @@ Refer: 36 68 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni01F3
-Encoding: 499 499 517
+Encoding: 499 499 516
 Width: 1116
 Flags: W
 LayerCount: 2
@@ -13451,7 +13368,7 @@ Refer: 68 100 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni01F5
-Encoding: 501 501 518
+Encoding: 501 501 517
 Width: 612
 Flags: W
 AnchorPoint: "bottom" 333 -276 basechar 0
@@ -13460,12 +13377,12 @@ AnchorPoint: "bottomatt" 369 -228 basechar 0
 AnchorPoint: "top" 261 663 basechar 0
 LayerCount: 2
 Fore
-Refer: 380 769 N 1 0 0 1 350 -105 2
+Refer: 379 769 N 1 0 0 1 350 -105 2
 Refer: 71 103 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni01F4
-Encoding: 500 500 519
+Encoding: 500 500 518
 Width: 656
 Flags: W
 AnchorPoint: "bottom" 384 -31 basechar 0
@@ -13474,12 +13391,12 @@ AnchorPoint: "bottomatt" 423 10 basechar 0
 AnchorPoint: "top" 399 893 basechar 0
 LayerCount: 2
 Fore
-Refer: 380 769 N 1 0 0 1 488 125 2
+Refer: 379 769 N 1 0 0 1 488 125 2
 Refer: 39 71 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni01F8
-Encoding: 504 504 520
+Encoding: 504 504 519
 Width: 766
 Flags: W
 AnchorPoint: "bottom" 358 5 basechar 0
@@ -13488,12 +13405,12 @@ AnchorPoint: "bottomatt" 399 20 basechar 0
 AnchorPoint: "top" 374 840 basechar 0
 LayerCount: 2
 Fore
-Refer: 379 768 N 1 0 0 1 415 72 2
+Refer: 378 768 N 1 0 0 1 415 72 2
 Refer: 46 78 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni01F9
-Encoding: 505 505 521
+Encoding: 505 505 520
 Width: 617
 Flags: W
 AnchorPoint: "bottom" 297 -5 basechar 0
@@ -13502,12 +13419,12 @@ AnchorPoint: "bottomatt" 310 24 basechar 0
 AnchorPoint: "top" 282 655 basechar 0
 LayerCount: 2
 Fore
-Refer: 379 768 N 1 0 0 1 323 -113 2
+Refer: 378 768 N 1 0 0 1 323 -113 2
 Refer: 78 110 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Oslashacute
-Encoding: 510 510 522
+Encoding: 510 510 521
 Width: 870
 Flags: W
 AnchorPoint: "bottomattside" 549 10 basechar 0
@@ -13515,12 +13432,12 @@ AnchorPoint: "bottom" 420 -31 basechar 0
 AnchorPoint: "top" 425 883 basechar 0
 LayerCount: 2
 Fore
-Refer: 380 769 N 1 0 0 1 514 115 2
+Refer: 379 769 N 1 0 0 1 514 115 2
 Refer: 130 216 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: oslashacute
-Encoding: 511 511 523
+Encoding: 511 511 522
 Width: 622
 Flags: W
 AnchorPoint: "bottomattside" 390 4 basechar 0
@@ -13529,12 +13446,12 @@ AnchorPoint: "bottomatt" 317 -3 basechar 0
 AnchorPoint: "top" 276 647 basechar 0
 LayerCount: 2
 Fore
-Refer: 380 769 N 1 0 0 1 366 -121 2
+Refer: 379 769 N 1 0 0 1 366 -121 2
 Refer: 162 248 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni021E
-Encoding: 542 542 524
+Encoding: 542 542 523
 Width: 696
 Flags: W
 AnchorPoint: "bottom" 307 -31 basechar 0
@@ -13543,12 +13460,12 @@ AnchorPoint: "bottomatt" 338 17 basechar 0
 AnchorPoint: "top" 317 885 basechar 0
 LayerCount: 2
 Fore
-Refer: 388 780 N 1 0 0 1 441 117 2
+Refer: 387 780 N 1 0 0 1 441 117 2
 Refer: 40 72 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni021F
-Encoding: 543 543 525
+Encoding: 543 543 524
 Width: 535
 Flags: W
 AnchorPoint: "bottom" 246 -31 basechar 0
@@ -13557,12 +13474,12 @@ AnchorPoint: "bottomatt" 266 20 basechar 0
 AnchorPoint: "top" 241 900 basechar 0
 LayerCount: 2
 Fore
-Refer: 388 780 N 1 0 0 1 365 132 2
+Refer: 387 780 N 1 0 0 1 365 132 2
 Refer: 72 104 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni0226
-Encoding: 550 550 526
+Encoding: 550 550 525
 Width: 645
 Flags: W
 AnchorPoint: "bottomatt" 314 -10 basechar 0
@@ -13571,12 +13488,12 @@ AnchorPoint: "bottom" 297 -10 basechar 0
 AnchorPoint: "bottomattside" 561 19 basechar 0
 LayerCount: 2
 Fore
-Refer: 385 775 N 1 0 0 1 303 53 2
+Refer: 384 775 N 1 0 0 1 303 53 2
 Refer: 33 65 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni0227
-Encoding: 551 551 527
+Encoding: 551 551 526
 Width: 652
 Flags: W
 AnchorPoint: "bottomatt" 331 17 basechar 0
@@ -13585,12 +13502,12 @@ AnchorPoint: "bottom" 312 -31 basechar 0
 AnchorPoint: "bottomattside" 526 9 basechar 0
 LayerCount: 2
 Fore
-Refer: 385 775 N 1 0 0 1 341 -153 2
+Refer: 384 775 N 1 0 0 1 341 -153 2
 Refer: 65 97 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni0228
-Encoding: 552 552 528
+Encoding: 552 552 527
 Width: 447
 Flags: W
 AnchorPoint: "top" 236 736 basechar 0
@@ -13599,12 +13516,12 @@ AnchorPoint: "bottomattside" 409 4 basechar 0
 AnchorPoint: "bottomatt" 210 -128 basechar 0
 LayerCount: 2
 Fore
-Refer: 443 807 N 1 0 0 1 294 7 2
+Refer: 442 807 N 1 0 0 1 294 7 2
 Refer: 37 69 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni0229
-Encoding: 553 553 529
+Encoding: 553 553 528
 Width: 612
 Flags: W
 AnchorPoint: "top" 287 507 basechar 0
@@ -13613,12 +13530,12 @@ AnchorPoint: "bottomattside" 477 23 basechar 0
 AnchorPoint: "bottomatt" 299 -132 basechar 0
 LayerCount: 2
 Fore
-Refer: 443 807 N 1 0 0 1 383 3 2
+Refer: 442 807 N 1 0 0 1 383 3 2
 Refer: 69 101 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni022E
-Encoding: 558 558 530
+Encoding: 558 558 529
 Width: 870
 Flags: W
 AnchorPoint: "bottom" 420 -31 basechar 0
@@ -13627,12 +13544,12 @@ AnchorPoint: "bottomatt" 443 7 basechar 0
 AnchorPoint: "top" 425 859 basechar 0
 LayerCount: 2
 Fore
-Refer: 385 775 N 1 0 0 1 469 68 2
+Refer: 384 775 N 1 0 0 1 469 68 2
 Refer: 47 79 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni022F
-Encoding: 559 559 531
+Encoding: 559 559 530
 Width: 622
 Flags: W
 AnchorPoint: "bottom" 292 -36 basechar 0
@@ -13641,12 +13558,12 @@ AnchorPoint: "bottomatt" 317 -3 basechar 0
 AnchorPoint: "top" 276 624 basechar 0
 LayerCount: 2
 Fore
-Refer: 385 775 N 1 0 0 1 321 -168 2
+Refer: 384 775 N 1 0 0 1 321 -168 2
 Refer: 79 111 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni0232
-Encoding: 562 562 532
+Encoding: 562 562 531
 Width: 634
 Flags: W
 AnchorPoint: "bottom" 323 -31 basechar 0
@@ -13655,12 +13572,12 @@ AnchorPoint: "bottomatt" 341 17 basechar 0
 AnchorPoint: "top" 297 821 basechar 0
 LayerCount: 2
 Fore
-Refer: 383 772 N 1 0 0 1 427 19 2
+Refer: 382 772 N 1 0 0 1 427 19 2
 Refer: 57 89 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni0233
-Encoding: 563 563 533
+Encoding: 563 563 532
 Width: 562
 Flags: W
 AnchorPoint: "bottom" 148 -266 basechar 0
@@ -13669,12 +13586,12 @@ AnchorPoint: "bottomatt" 174 -215 basechar 0
 AnchorPoint: "top" 276 627 basechar 0
 LayerCount: 2
 Fore
-Refer: 383 772 N 1 0 0 1 407 -175 2
+Refer: 382 772 N 1 0 0 1 407 -175 2
 Refer: 89 121 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni01B1
-Encoding: 433 433 534
+Encoding: 433 433 533
 Width: 897
 Flags: W
 LayerCount: 2
@@ -13683,7 +13600,7 @@ Refer: 293 937 S -1 0 0 -1 878 708 2
 EndChar
 
 StartChar: uni01C1
-Encoding: 449 449 535
+Encoding: 449 449 534
 Width: 275
 Flags: W
 LayerCount: 2
@@ -13693,7 +13610,7 @@ Refer: 92 124 S 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni01C2
-Encoding: 450 450 536
+Encoding: 450 450 535
 Width: 265
 Flags: W
 LayerCount: 2
@@ -13714,7 +13631,7 @@ Refer: 92 124 N 1 0 0 1 66 0 2
 EndChar
 
 StartChar: uni01A4
-Encoding: 420 420 537
+Encoding: 420 420 536
 Width: 654
 Flags: W
 LayerCount: 2
@@ -13730,51 +13647,51 @@ Refer: 48 80 N 1 0 0 1 110 0 2
 EndChar
 
 StartChar: uni01E2
-Encoding: 482 482 538
+Encoding: 482 482 537
 Width: 681
 Flags: W
 AnchorPoint: "top" 369 837 basechar 0
 LayerCount: 2
 Fore
-Refer: 383 772 N 1 0 0 1 499 35 2
+Refer: 382 772 N 1 0 0 1 499 35 2
 Refer: 112 198 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni01E3
-Encoding: 483 483 539
+Encoding: 483 483 538
 Width: 1059
 Flags: W
 AnchorPoint: "top" 543 622 basechar 0
 LayerCount: 2
 Fore
-Refer: 383 772 N 1 0 0 1 673 -180 2
+Refer: 382 772 N 1 0 0 1 673 -180 2
 Refer: 144 230 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: AEacute
-Encoding: 508 508 540
+Encoding: 508 508 539
 Width: 681
 Flags: W
 AnchorPoint: "top" 369 872 basechar 0
 LayerCount: 2
 Fore
-Refer: 380 769 N 1 0 0 1 458 104 2
+Refer: 379 769 N 1 0 0 1 458 104 2
 Refer: 112 198 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: aeacute
-Encoding: 509 509 541
+Encoding: 509 509 540
 Width: 1059
 Flags: W
 AnchorPoint: "top" 543 657 basechar 0
 LayerCount: 2
 Fore
-Refer: 380 769 N 1 0 0 1 632 -111 2
+Refer: 379 769 N 1 0 0 1 632 -111 2
 Refer: 144 230 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni019F
-Encoding: 415 415 542
+Encoding: 415 415 541
 Width: 870
 Flags: W
 LayerCount: 2
@@ -13790,7 +13707,7 @@ Refer: 47 79 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni019C
-Encoding: 412 412 543
+Encoding: 412 412 542
 Width: 900
 Flags: W
 LayerCount: 2
@@ -13830,7 +13747,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0311
-Encoding: 785 785 544
+Encoding: 785 785 543
 Width: 0
 Flags: W
 AnchorPoint: "mkmktop" -143 787 basemark 0
@@ -13838,11 +13755,11 @@ AnchorPoint: "mkmktop" -143 645 mark 0
 AnchorPoint: "top" -143 645 mark 0
 LayerCount: 2
 Fore
-Refer: 358 728 N -0.840576 0 0 -0.838013 -0 1289 2
+Refer: 357 728 N -0.840576 0 0 -0.838013 -0 1289 2
 EndChar
 
 StartChar: uni01F0
-Encoding: 496 496 545
+Encoding: 496 496 544
 Width: 370
 Flags: W
 AnchorPoint: "bottomattside" 93 -229 basechar 0
@@ -13851,12 +13768,12 @@ AnchorPoint: "bottomatt" 146 -232 basechar 0
 AnchorPoint: "top" 269 696 basechar 0
 LayerCount: 2
 Fore
-Refer: 388 780 N 1 0 0 1 393 -72 2
-Refer: 378 567 N 1 0 0 1 0 0 3
+Refer: 387 780 N 1 0 0 1 393 -72 2
+Refer: 377 567 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni0202
-Encoding: 514 514 546
+Encoding: 514 514 545
 Width: 645
 Flags: W
 AnchorPoint: "bottomatt" 314 -10 basechar 0
@@ -13865,12 +13782,12 @@ AnchorPoint: "bottom" 297 -10 basechar 0
 AnchorPoint: "bottomattside" 561 19 basechar 0
 LayerCount: 2
 Fore
-Refer: 544 785 N 1 0 0 1 402 88 2
+Refer: 543 785 N 1 0 0 1 402 88 2
 Refer: 33 65 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni0203
-Encoding: 515 515 547
+Encoding: 515 515 546
 Width: 652
 Flags: W
 AnchorPoint: "bottomatt" 331 17 basechar 0
@@ -13879,12 +13796,12 @@ AnchorPoint: "bottom" 312 -31 basechar 0
 AnchorPoint: "bottomattside" 526 9 basechar 0
 LayerCount: 2
 Fore
-Refer: 544 785 N 1 0 0 1 440 -118 2
+Refer: 543 785 N 1 0 0 1 440 -118 2
 Refer: 65 97 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni0206
-Encoding: 518 518 548
+Encoding: 518 518 547
 Width: 447
 Flags: W
 AnchorPoint: "bottom" 200 -31 basechar 0
@@ -13893,12 +13810,12 @@ AnchorPoint: "bottomatt" 236 7 basechar 0
 AnchorPoint: "top" 236 879 basechar 0
 LayerCount: 2
 Fore
-Refer: 544 785 N 1 0 0 1 379 91 2
+Refer: 543 785 N 1 0 0 1 379 91 2
 Refer: 37 69 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni0207
-Encoding: 519 519 549
+Encoding: 519 519 548
 Width: 612
 Flags: W
 AnchorPoint: "bottom" 312 -36 basechar 0
@@ -13907,12 +13824,12 @@ AnchorPoint: "bottomatt" 325 3 basechar 0
 AnchorPoint: "top" 287 649 basechar 0
 LayerCount: 2
 Fore
-Refer: 544 785 N 1 0 0 1 430 -138 2
+Refer: 543 785 N 1 0 0 1 430 -138 2
 Refer: 69 101 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni020A
-Encoding: 522 522 550
+Encoding: 522 522 549
 Width: 245
 Flags: W
 AnchorPoint: "bottom" 82 -31 basechar 0
@@ -13921,12 +13838,12 @@ AnchorPoint: "bottomatt" 113 7 basechar 0
 AnchorPoint: "top" 114 895 basechar 0
 LayerCount: 2
 Fore
-Refer: 544 785 N 1 0 0 1 257 108 2
+Refer: 543 785 N 1 0 0 1 257 108 2
 Refer: 41 73 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni020B
-Encoding: 523 523 551
+Encoding: 523 523 550
 Width: 244
 Flags: W
 AnchorPoint: "bottomattside" 79 5 basechar 0
@@ -13935,12 +13852,12 @@ AnchorPoint: "bottomatt" 123 13 basechar 0
 AnchorPoint: "top" 108 639 basechar 0
 LayerCount: 2
 Fore
-Refer: 544 785 N 1 0 0 1 251 -148 2
+Refer: 543 785 N 1 0 0 1 251 -148 2
 Refer: 255 305 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni020E
-Encoding: 526 526 552
+Encoding: 526 526 551
 Width: 870
 Flags: W
 AnchorPoint: "bottom" 420 -31 basechar 0
@@ -13949,12 +13866,12 @@ AnchorPoint: "bottomatt" 443 7 basechar 0
 AnchorPoint: "top" 425 890 basechar 0
 LayerCount: 2
 Fore
-Refer: 544 785 N 1 0 0 1 568 102 2
+Refer: 543 785 N 1 0 0 1 568 102 2
 Refer: 47 79 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni020F
-Encoding: 527 527 553
+Encoding: 527 527 552
 Width: 622
 Flags: W
 AnchorPoint: "bottom" 292 -36 basechar 0
@@ -13963,12 +13880,12 @@ AnchorPoint: "bottomatt" 317 -3 basechar 0
 AnchorPoint: "top" 276 654 basechar 0
 LayerCount: 2
 Fore
-Refer: 544 785 N 1 0 0 1 420 -133 2
+Refer: 543 785 N 1 0 0 1 420 -133 2
 Refer: 79 111 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni0212
-Encoding: 530 530 554
+Encoding: 530 530 553
 Width: 563
 Flags: W
 AnchorPoint: "bottom" 200 -20 basechar 0
@@ -13977,12 +13894,12 @@ AnchorPoint: "bottomatt" 351 38 basechar 0
 AnchorPoint: "top" 282 895 basechar 0
 LayerCount: 2
 Fore
-Refer: 544 785 N 1 0 0 1 425 108 2
+Refer: 543 785 N 1 0 0 1 425 108 2
 Refer: 50 82 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni0213
-Encoding: 531 531 555
+Encoding: 531 531 554
 Width: 410
 Flags: W
 AnchorPoint: "bottom" 72 -31 basechar 0
@@ -13991,12 +13908,12 @@ AnchorPoint: "bottomatt" 95 10 basechar 0
 AnchorPoint: "top" 220 654 basechar 0
 LayerCount: 2
 Fore
-Refer: 544 785 N 1 0 0 1 364 -133 2
+Refer: 543 785 N 1 0 0 1 364 -133 2
 Refer: 82 114 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni0216
-Encoding: 534 534 556
+Encoding: 534 534 555
 Width: 746
 Flags: W
 AnchorPoint: "bottom" 348 -36 basechar 0
@@ -14005,12 +13922,12 @@ AnchorPoint: "bottomatt" 382 13 basechar 0
 AnchorPoint: "top" 333 854 basechar 0
 LayerCount: 2
 Fore
-Refer: 544 785 N 1 0 0 1 476 67 2
+Refer: 543 785 N 1 0 0 1 476 67 2
 Refer: 53 85 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni0217
-Encoding: 535 535 557
+Encoding: 535 535 556
 Width: 568
 Flags: W
 AnchorPoint: "bottom" 256 -31 basechar 0
@@ -14019,12 +13936,12 @@ AnchorPoint: "bottomatt" 276 7 basechar 0
 AnchorPoint: "top" 266 644 basechar 0
 LayerCount: 2
 Fore
-Refer: 544 785 N 1 0 0 1 410 -143 2
+Refer: 543 785 N 1 0 0 1 410 -143 2
 Refer: 85 117 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni0214
-Encoding: 532 532 558
+Encoding: 532 532 557
 Width: 746
 Flags: W
 AnchorPoint: "bottom" 348 -36 basechar 0
@@ -14033,12 +13950,12 @@ AnchorPoint: "bottomatt" 382 13 basechar 0
 AnchorPoint: "top" 333 856 basechar 0
 LayerCount: 2
 Fore
-Refer: 559 783 N 1 0 0 1 420 77 2
+Refer: 558 783 N 1 0 0 1 420 77 2
 Refer: 53 85 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni030F
-Encoding: 783 783 559
+Encoding: 783 783 558
 Width: 0
 Flags: W
 AnchorPoint: "mkmktop" -87 779 basemark 0
@@ -14051,7 +13968,7 @@ Refer: 64 96 N 1 0 0 1 -135 0 2
 EndChar
 
 StartChar: uni0200
-Encoding: 512 512 560
+Encoding: 512 512 559
 Width: 645
 Flags: W
 AnchorPoint: "bottomatt" 314 -10 basechar 0
@@ -14060,12 +13977,12 @@ AnchorPoint: "bottom" 297 -10 basechar 0
 AnchorPoint: "bottomattside" 561 19 basechar 0
 LayerCount: 2
 Fore
-Refer: 559 783 N 1 0 0 1 346 98 2
+Refer: 558 783 N 1 0 0 1 346 98 2
 Refer: 33 65 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni0201
-Encoding: 513 513 561
+Encoding: 513 513 560
 Width: 652
 Flags: W
 AnchorPoint: "bottomatt" 331 17 basechar 0
@@ -14074,12 +13991,12 @@ AnchorPoint: "bottom" 312 -31 basechar 0
 AnchorPoint: "bottomattside" 526 9 basechar 0
 LayerCount: 2
 Fore
-Refer: 559 783 N 1 0 0 1 384 -108 2
+Refer: 558 783 N 1 0 0 1 384 -108 2
 Refer: 65 97 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni0204
-Encoding: 516 516 562
+Encoding: 516 516 561
 Width: 447
 Flags: W
 AnchorPoint: "bottom" 200 -31 basechar 0
@@ -14088,12 +14005,12 @@ AnchorPoint: "bottomatt" 236 7 basechar 0
 AnchorPoint: "top" 236 881 basechar 0
 LayerCount: 2
 Fore
-Refer: 559 783 N 1 0 0 1 323 101 2
+Refer: 558 783 N 1 0 0 1 323 101 2
 Refer: 37 69 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni0205
-Encoding: 517 517 563
+Encoding: 517 517 562
 Width: 612
 Flags: W
 AnchorPoint: "bottom" 312 -36 basechar 0
@@ -14102,12 +14019,12 @@ AnchorPoint: "bottomatt" 325 3 basechar 0
 AnchorPoint: "top" 287 651 basechar 0
 LayerCount: 2
 Fore
-Refer: 559 783 N 1 0 0 1 374 -128 2
+Refer: 558 783 N 1 0 0 1 374 -128 2
 Refer: 69 101 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni0208
-Encoding: 520 520 564
+Encoding: 520 520 563
 Width: 245
 Flags: W
 AnchorPoint: "bottom" 82 -31 basechar 0
@@ -14116,12 +14033,12 @@ AnchorPoint: "bottomatt" 113 7 basechar 0
 AnchorPoint: "top" 114 897 basechar 0
 LayerCount: 2
 Fore
-Refer: 559 783 N 1 0 0 1 201 118 2
+Refer: 558 783 N 1 0 0 1 201 118 2
 Refer: 41 73 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni0209
-Encoding: 521 521 565
+Encoding: 521 521 564
 Width: 244
 Flags: W
 AnchorPoint: "bottomattside" 79 5 basechar 0
@@ -14130,12 +14047,12 @@ AnchorPoint: "bottomatt" 123 13 basechar 0
 AnchorPoint: "top" 108 641 basechar 0
 LayerCount: 2
 Fore
-Refer: 559 783 N 1 0 0 1 195 -138 2
+Refer: 558 783 N 1 0 0 1 195 -138 2
 Refer: 255 305 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni020C
-Encoding: 524 524 566
+Encoding: 524 524 565
 Width: 870
 Flags: W
 AnchorPoint: "bottom" 420 -31 basechar 0
@@ -14144,12 +14061,12 @@ AnchorPoint: "bottomatt" 443 7 basechar 0
 AnchorPoint: "top" 425 892 basechar 0
 LayerCount: 2
 Fore
-Refer: 559 783 N 1 0 0 1 512 113 2
+Refer: 558 783 N 1 0 0 1 512 113 2
 Refer: 47 79 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni020D
-Encoding: 525 525 567
+Encoding: 525 525 566
 Width: 622
 Flags: W
 AnchorPoint: "bottom" 292 -36 basechar 0
@@ -14158,12 +14075,12 @@ AnchorPoint: "bottomatt" 317 -3 basechar 0
 AnchorPoint: "top" 276 656 basechar 0
 LayerCount: 2
 Fore
-Refer: 559 783 N 1 0 0 1 364 -123 2
+Refer: 558 783 N 1 0 0 1 364 -123 2
 Refer: 79 111 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni0210
-Encoding: 528 528 568
+Encoding: 528 528 567
 Width: 563
 Flags: W
 AnchorPoint: "bottom" 200 -20 basechar 0
@@ -14172,12 +14089,12 @@ AnchorPoint: "bottomatt" 351 38 basechar 0
 AnchorPoint: "top" 282 897 basechar 0
 LayerCount: 2
 Fore
-Refer: 559 783 N 1 0 0 1 369 118 2
+Refer: 558 783 N 1 0 0 1 369 118 2
 Refer: 50 82 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni0211
-Encoding: 529 529 569
+Encoding: 529 529 568
 Width: 410
 Flags: W
 AnchorPoint: "bottom" 72 -31 basechar 0
@@ -14186,12 +14103,12 @@ AnchorPoint: "bottomatt" 95 10 basechar 0
 AnchorPoint: "top" 220 656 basechar 0
 LayerCount: 2
 Fore
-Refer: 559 783 N 1 0 0 1 307 -123 2
+Refer: 558 783 N 1 0 0 1 307 -123 2
 Refer: 82 114 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni0215
-Encoding: 533 533 570
+Encoding: 533 533 569
 Width: 568
 Flags: W
 AnchorPoint: "bottom" 256 -31 basechar 0
@@ -14200,12 +14117,12 @@ AnchorPoint: "bottomatt" 276 7 basechar 0
 AnchorPoint: "top" 266 646 basechar 0
 LayerCount: 2
 Fore
-Refer: 559 783 N 1 0 0 1 353 -133 2
+Refer: 558 783 N 1 0 0 1 353 -133 2
 Refer: 85 117 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni01E4
-Encoding: 484 484 571
+Encoding: 484 484 570
 Width: 656
 Flags: W
 AnchorPoint: "top" 399 758 basechar 0
@@ -14225,7 +14142,7 @@ Refer: 39 71 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni01E5
-Encoding: 485 485 572
+Encoding: 485 485 571
 Width: 612
 Flags: W
 AnchorPoint: "top" 261 527 basechar 0
@@ -14245,7 +14162,7 @@ Refer: 71 103 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni0197
-Encoding: 407 407 573
+Encoding: 407 407 572
 Width: 282
 Flags: W
 AnchorPoint: "top" 151 753 basechar 0
@@ -14265,7 +14182,7 @@ Refer: 41 73 N 1 0 0 1 37 0 2
 EndChar
 
 StartChar: uni019A
-Encoding: 410 410 574
+Encoding: 410 410 573
 Width: 171
 Flags: W
 AnchorPoint: "top" 77 758 basechar 0
@@ -14285,7 +14202,7 @@ Refer: 76 108 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni019B
-Encoding: 411 411 575
+Encoding: 411 411 574
 Width: 562
 Flags: W
 LayerCount: 2
@@ -14301,7 +14218,7 @@ Refer: 283 955 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni01EF
-Encoding: 495 495 576
+Encoding: 495 495 575
 Width: 484
 Flags: W
 AnchorPoint: "bottomattside" 369 -138 basechar 0
@@ -14309,12 +14226,12 @@ AnchorPoint: "bottom" 230 -236 basechar 0
 AnchorPoint: "top" 210 700 basechar 0
 LayerCount: 2
 Fore
-Refer: 388 780 N 1 0 0 1 334 -68 2
-Refer: 592 658 N 1 0 0 1 0 0 3
+Refer: 387 780 N 1 0 0 1 334 -68 2
+Refer: 591 658 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni01B5
-Encoding: 437 437 577
+Encoding: 437 437 576
 Width: 653
 Flags: W
 AnchorPoint: "top" 328 773 basechar 0
@@ -14334,7 +14251,7 @@ Refer: 58 90 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni01B6
-Encoding: 438 438 578
+Encoding: 438 438 577
 Width: 484
 Flags: W
 AnchorPoint: "top" 210 532 basechar 0
@@ -14354,7 +14271,7 @@ Refer: 90 122 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni0238
-Encoding: 568 568 579
+Encoding: 568 568 578
 Width: 1090
 Flags: W
 LayerCount: 2
@@ -14431,7 +14348,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0239
-Encoding: 569 569 580
+Encoding: 569 569 579
 Width: 1036
 Flags: W
 LayerCount: 2
@@ -14514,7 +14431,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni023A
-Encoding: 570 570 581
+Encoding: 570 570 580
 Width: 645
 Flags: W
 AnchorPoint: "top" 259 733 basechar 0
@@ -14534,7 +14451,7 @@ Refer: 33 65 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni023B
-Encoding: 571 571 582
+Encoding: 571 571 581
 Width: 633
 Flags: W
 AnchorPoint: "top" 319 743 basechar 0
@@ -14554,7 +14471,7 @@ Refer: 35 67 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni023C
-Encoding: 572 572 583
+Encoding: 572 572 582
 Width: 482
 Flags: W
 AnchorPoint: "top" 244 548 basechar 0
@@ -14574,7 +14491,7 @@ Refer: 67 99 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni023D
-Encoding: 573 573 584
+Encoding: 573 573 583
 Width: 565
 Flags: W
 AnchorPoint: "top" 59 739 basechar 0
@@ -14594,7 +14511,7 @@ Refer: 44 76 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni023E
-Encoding: 574 574 585
+Encoding: 574 574 584
 Width: 644
 Flags: W
 AnchorPoint: "top" 297 753 basechar 0
@@ -14614,7 +14531,7 @@ Refer: 52 84 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni01A5
-Encoding: 421 421 586
+Encoding: 421 421 585
 Width: 599
 Flags: W
 LayerCount: 2
@@ -14630,7 +14547,7 @@ Refer: 80 112 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni024E
-Encoding: 590 590 587
+Encoding: 590 590 586
 Width: 634
 Flags: W
 AnchorPoint: "top" 297 722 basechar 0
@@ -14650,7 +14567,7 @@ Refer: 57 89 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni024F
-Encoding: 591 591 588
+Encoding: 591 591 587
 Width: 562
 Flags: W
 AnchorPoint: "top" 276 527 basechar 0
@@ -14670,7 +14587,7 @@ Refer: 89 121 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni024C
-Encoding: 588 588 589
+Encoding: 588 588 588
 Width: 612
 Flags: W
 AnchorPoint: "top" 333 753 basechar 0
@@ -14690,7 +14607,7 @@ Refer: 50 82 N 1 0 0 1 51 0 2
 EndChar
 
 StartChar: uni024D
-Encoding: 589 589 590
+Encoding: 589 589 589
 Width: 410
 Flags: W
 AnchorPoint: "top" 220 512 basechar 0
@@ -14710,7 +14627,7 @@ Refer: 82 114 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni01B7
-Encoding: 439 439 591
+Encoding: 439 439 590
 Width: 592
 Flags: W
 AnchorPoint: "bottomatt" 304 -190 basechar 0
@@ -14739,7 +14656,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0292
-Encoding: 658 658 592
+Encoding: 658 658 591
 Width: 484
 Flags: W
 AnchorPoint: "bottom" 230 -236 basechar 0
@@ -14767,7 +14684,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni01EE
-Encoding: 494 494 593
+Encoding: 494 494 592
 Width: 592
 Flags: W
 AnchorPoint: "bottom" 276 -246 basechar 0
@@ -14776,12 +14693,12 @@ AnchorPoint: "bottomatt" 304 -190 basechar 0
 AnchorPoint: "top" 271 941 basechar 0
 LayerCount: 2
 Fore
-Refer: 388 780 N 1 0 0 1 395 173 2
-Refer: 591 439 N 1 0 0 1 0 0 3
+Refer: 387 780 N 1 0 0 1 395 173 2
+Refer: 590 439 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni01B8
-Encoding: 440 440 594
+Encoding: 440 440 593
 Width: 592
 Flags: W
 AnchorPoint: "top" 296 773 basechar 0
@@ -14807,7 +14724,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni01B9
-Encoding: 441 441 595
+Encoding: 441 441 594
 Width: 484
 Flags: W
 AnchorPoint: "top" 233 532 basechar 0
@@ -14833,7 +14750,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni028B
-Encoding: 651 651 596
+Encoding: 651 651 595
 Width: 568
 Flags: W
 AnchorPoint: "bottom" 256 -31 basechar 0
@@ -14865,7 +14782,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0195
-Encoding: 405 405 597
+Encoding: 405 405 596
 Width: 806
 Flags: W
 LayerCount: 2
@@ -14899,7 +14816,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni01F6
-Encoding: 502 502 598
+Encoding: 502 502 597
 Width: 952
 Flags: W
 LayerCount: 2
@@ -14927,7 +14844,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni01B2
-Encoding: 434 434 599
+Encoding: 434 434 598
 Width: 672
 Flags: W
 LayerCount: 2
@@ -14958,7 +14875,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0243
-Encoding: 579 579 600
+Encoding: 579 579 599
 Width: 601
 Flags: W
 AnchorPoint: "top" 243 748 basechar 0
@@ -14978,7 +14895,7 @@ Refer: 34 66 N 1 0 0 1 79 0 2
 EndChar
 
 StartChar: uni0244
-Encoding: 580 580 601
+Encoding: 580 580 600
 Width: 746
 Flags: W
 AnchorPoint: "top" 333 712 basechar 0
@@ -14998,7 +14915,7 @@ Refer: 53 85 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni0246
-Encoding: 582 582 602
+Encoding: 582 582 601
 Width: 447
 Flags: W
 AnchorPoint: "top" 236 736 basechar 0
@@ -15018,7 +14935,7 @@ Refer: 37 69 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni0247
-Encoding: 583 583 603
+Encoding: 583 583 602
 Width: 612
 Flags: W
 AnchorPoint: "top" 287 507 basechar 0
@@ -15038,7 +14955,7 @@ Refer: 69 101 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni0248
-Encoding: 584 584 604
+Encoding: 584 584 603
 Width: 522
 Flags: W
 AnchorPoint: "bottom" 215 -31 basechar 0
@@ -15058,7 +14975,7 @@ Refer: 42 74 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni0249
-Encoding: 585 585 605
+Encoding: 585 585 604
 Width: 370
 Flags: W
 AnchorPoint: "bottomattside" 93 -229 basechar 0
@@ -15078,7 +14995,7 @@ Substitution2: "dotless-1" uni025F
 EndChar
 
 StartChar: uni026F
-Encoding: 623 623 606
+Encoding: 623 623 605
 Width: 900
 Flags: W
 LayerCount: 2
@@ -15087,7 +15004,7 @@ Refer: 77 109 S -1 0 0 -1 809 473 2
 EndChar
 
 StartChar: uni02A3
-Encoding: 675 675 607
+Encoding: 675 675 606
 Width: 1050
 Flags: W
 LayerCount: 2
@@ -15097,17 +15014,17 @@ Refer: 68 100 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni02A4
-Encoding: 676 676 608
+Encoding: 676 676 607
 Width: 1033
 Flags: W
 LayerCount: 2
 Fore
 Refer: 68 100 N 1 0 0 1 0 0 2
-Refer: 592 658 S 1 0 0 1 549 0 2
+Refer: 591 658 S 1 0 0 1 549 0 2
 EndChar
 
 StartChar: uni02A6
-Encoding: 678 678 609
+Encoding: 678 678 608
 Width: 680
 Flags: W
 LayerCount: 2
@@ -15117,27 +15034,27 @@ Refer: 83 115 S 1 0 0 1 232 0 2
 EndChar
 
 StartChar: uni02A7
-Encoding: 679 679 610
+Encoding: 679 679 609
 Width: 613
 Flags: W
 LayerCount: 2
 Fore
-Refer: 689 643 N 1 0 0 1 77 0 2
+Refer: 688 643 N 1 0 0 1 77 0 2
 Refer: 84 116 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni02A9
-Encoding: 681 681 611
+Encoding: 681 681 610
 Width: 820
 Flags: W
 LayerCount: 2
 Fore
 Refer: 70 102 N 1 0 0 1 0 0 2
-Refer: 468 331 N 1 0 0 1 200 0 2
+Refer: 467 331 N 1 0 0 1 200 0 2
 EndChar
 
 StartChar: uni02AA
-Encoding: 682 682 612
+Encoding: 682 682 611
 Width: 488
 Flags: W
 LayerCount: 2
@@ -15147,7 +15064,7 @@ Refer: 83 115 S 1 0 0 1 44 0 2
 EndChar
 
 StartChar: uni02AB
-Encoding: 683 683 613
+Encoding: 683 683 612
 Width: 645
 Flags: W
 LayerCount: 2
@@ -15157,7 +15074,7 @@ Refer: 90 122 S 1 0 0 1 98 0 2
 EndChar
 
 StartChar: uni0289
-Encoding: 649 649 614
+Encoding: 649 649 613
 Width: 568
 Flags: W
 LayerCount: 2
@@ -15173,7 +15090,7 @@ Refer: 85 117 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni028C
-Encoding: 652 652 615
+Encoding: 652 652 614
 Width: 575
 Flags: W
 AnchorPoint: "bottom" 267 -14 basechar 0
@@ -15184,7 +15101,7 @@ Refer: 86 118 N -1 0 0 -1 539 498 2
 EndChar
 
 StartChar: uni028E
-Encoding: 654 654 616
+Encoding: 654 654 615
 Width: 562
 Flags: W
 LayerCount: 2
@@ -15193,7 +15110,7 @@ Refer: 89 121 S -1 0 0 -1 498 487 2
 EndChar
 
 StartChar: uni0268
-Encoding: 616 616 617
+Encoding: 616 616 616
 Width: 234
 Flags: W
 AnchorPoint: "bottom" 97 -31 basechar 0
@@ -15212,7 +15129,7 @@ Refer: 73 105 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni0258
-Encoding: 600 600 618
+Encoding: 600 600 617
 Width: 612
 Flags: W
 LayerCount: 2
@@ -15268,7 +15185,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0254
-Encoding: 596 596 619
+Encoding: 596 596 618
 Width: 482
 Flags: W
 LayerCount: 2
@@ -15303,7 +15220,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni025F
-Encoding: 607 607 620
+Encoding: 607 607 619
 Width: 370
 Flags: W
 AnchorPoint: "top" 269 528 basechar 0
@@ -15319,11 +15236,11 @@ SplineSet
  169 227 l 5,3,-1
  165 271 l 5,0,-1
 EndSplineSet
-Refer: 378 567 N 1 0 0 1 0 0 2
+Refer: 377 567 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni0253
-Encoding: 595 595 621
+Encoding: 595 595 620
 Width: 589
 Flags: W
 LayerCount: 2
@@ -15372,7 +15289,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0274
-Encoding: 628 628 622
+Encoding: 628 628 621
 Width: 568
 Flags: W
 LayerCount: 2
@@ -15393,7 +15310,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0275
-Encoding: 629 629 623
+Encoding: 629 629 622
 Width: 622
 Flags: W
 LayerCount: 2
@@ -15409,17 +15326,17 @@ Refer: 79 111 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni0298
-Encoding: 664 664 624
+Encoding: 664 664 623
 Width: 870
 Flags: W
 LayerCount: 2
 Fore
-Refer: 328 183 N 1 0 0 1 350 -2 2
+Refer: 327 183 N 1 0 0 1 350 -2 2
 Refer: 47 79 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni0265
-Encoding: 613 613 625
+Encoding: 613 613 624
 Width: 535
 Flags: W
 LayerCount: 2
@@ -15428,7 +15345,7 @@ Refer: 72 104 N -1 0 0 -1 470 484 2
 EndChar
 
 StartChar: uni0196
-Encoding: 406 406 626
+Encoding: 406 406 625
 Width: 317
 Flags: W
 AnchorPoint: "top" 114 753 basechar 0
@@ -15447,7 +15364,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni01A6
-Encoding: 422 422 627
+Encoding: 422 422 626
 Width: 532
 Flags: W
 LayerCount: 2
@@ -15494,7 +15411,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0280
-Encoding: 640 640 628
+Encoding: 640 640 627
 Width: 484
 Flags: W
 LayerCount: 2
@@ -15529,7 +15446,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0281
-Encoding: 641 641 629
+Encoding: 641 641 628
 Width: 484
 Flags: W
 LayerCount: 2
@@ -15564,7 +15481,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni01A2
-Encoding: 418 418 630
+Encoding: 418 418 629
 Width: 870
 Flags: W
 LayerCount: 2
@@ -15602,7 +15519,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni01A3
-Encoding: 419 419 631
+Encoding: 419 419 630
 Width: 660
 Flags: W
 LayerCount: 2
@@ -15647,7 +15564,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni01BB
-Encoding: 443 443 632
+Encoding: 443 443 631
 Width: 518
 Flags: W
 LayerCount: 2
@@ -15663,17 +15580,17 @@ Refer: 18 50 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni026E
-Encoding: 622 622 633
+Encoding: 622 622 632
 Width: 569
 Flags: W
 LayerCount: 2
 Fore
 Refer: 76 108 N 1 0 0 1 0 0 2
-Refer: 592 658 S 1 0 0 1 85 0 2
+Refer: 591 658 S 1 0 0 1 85 0 2
 EndChar
 
 StartChar: uni01BF
-Encoding: 447 447 634
+Encoding: 447 447 633
 Width: 586
 Flags: W
 LayerCount: 2
@@ -15705,7 +15622,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni01F7
-Encoding: 503 503 635
+Encoding: 503 503 634
 Width: 627
 Flags: W
 LayerCount: 2
@@ -15734,7 +15651,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0250
-Encoding: 592 592 636
+Encoding: 592 592 635
 AltUni2: 000252.ffffffff.0
 Width: 652
 Flags: W
@@ -15744,7 +15661,7 @@ Refer: 65 97 N -1 0 0 -1 622 487 2
 EndChar
 
 StartChar: uni0279
-Encoding: 633 633 637
+Encoding: 633 633 636
 Width: 410
 Flags: W
 LayerCount: 2
@@ -15753,7 +15670,7 @@ Refer: 82 114 N -1 0 0 -1 385 478 2
 EndChar
 
 StartChar: uni027C
-Encoding: 636 636 638
+Encoding: 636 636 637
 Width: 410
 Flags: W
 LayerCount: 2
@@ -15769,16 +15686,16 @@ Refer: 82 114 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni027A
-Encoding: 634 634 639
+Encoding: 634 634 638
 Width: 410
 Flags: W
 LayerCount: 2
 Fore
-Refer: 638 636 N -1 0 0 -1 385 478 2
+Refer: 637 636 N -1 0 0 -1 385 478 2
 EndChar
 
 StartChar: uni026B
-Encoding: 619 619 640
+Encoding: 619 619 639
 Width: 327
 Flags: W
 LayerCount: 2
@@ -15788,7 +15705,7 @@ Refer: 94 126 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni0269
-Encoding: 617 617 641
+Encoding: 617 617 640
 Width: 270
 Flags: W
 AnchorPoint: "top" 108 497 basechar 0
@@ -15807,7 +15724,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni026A
-Encoding: 618 618 642
+Encoding: 618 618 641
 Width: 267
 Flags: W
 AnchorPoint: "top" 130 497 basechar 0
@@ -15831,7 +15748,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0262
-Encoding: 610 610 643
+Encoding: 610 610 642
 Width: 482
 Flags: W
 AnchorPoint: "top" 244 548 basechar 0
@@ -15852,7 +15769,7 @@ Refer: 67 99 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni0220
-Encoding: 544 544 644
+Encoding: 544 544 643
 Width: 766
 Flags: W
 AnchorPoint: "top" 366 765 basechar 0
@@ -15880,7 +15797,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0263
-Encoding: 611 611 645
+Encoding: 611 611 644
 Width: 575
 Flags: W
 AnchorPoint: "top" 271 512 basechar 0
@@ -15906,7 +15823,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0264
-Encoding: 612 612 646
+Encoding: 612 612 645
 Width: 575
 Flags: W
 AnchorPoint: "bottom" 266 -34 basechar 0
@@ -15933,7 +15850,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0194
-Encoding: 404 404 647
+Encoding: 404 404 646
 Width: 727
 Flags: W
 AnchorPoint: "top" 328 722 basechar 0
@@ -15959,7 +15876,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni01BA
-Encoding: 442 442 648
+Encoding: 442 442 647
 Width: 484
 Flags: W
 AnchorPoint: "top" 210 532 basechar 0
@@ -15991,7 +15908,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0198
-Encoding: 408 408 649
+Encoding: 408 408 648
 Width: 541
 Flags: W
 LayerCount: 2
@@ -16015,7 +15932,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0199
-Encoding: 409 409 650
+Encoding: 409 409 649
 Width: 513
 Flags: W
 LayerCount: 2
@@ -16041,7 +15958,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni019D
-Encoding: 413 413 651
+Encoding: 413 413 650
 Width: 766
 Flags: W
 LayerCount: 2
@@ -16061,7 +15978,7 @@ Refer: 46 78 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni0223
-Encoding: 547 547 652
+Encoding: 547 547 651
 Width: 622
 Flags: W
 LayerCount: 2
@@ -16114,7 +16031,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0222
-Encoding: 546 546 653
+Encoding: 546 546 652
 Width: 843
 Flags: W
 LayerCount: 2
@@ -16155,7 +16072,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni01BD
-Encoding: 445 445 654
+Encoding: 445 445 653
 Width: 447
 Flags: W
 LayerCount: 2
@@ -16178,7 +16095,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni021C
-Encoding: 540 540 655
+Encoding: 540 540 654
 Width: 436
 Flags: W
 LayerCount: 2
@@ -16212,7 +16129,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni021D
-Encoding: 541 541 656
+Encoding: 541 541 655
 Width: 427
 Flags: W
 LayerCount: 2
@@ -16246,7 +16163,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni01BC
-Encoding: 444 444 657
+Encoding: 444 444 656
 Width: 553
 Flags: W
 LayerCount: 2
@@ -16270,7 +16187,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni025E
-Encoding: 606 606 658
+Encoding: 606 606 657
 Width: 478
 Flags: W
 LayerCount: 2
@@ -16309,17 +16226,17 @@ EndSplineSet
 EndChar
 
 StartChar: uni01D5
-Encoding: 469 469 659
+Encoding: 469 469 658
 Width: 746
 Flags: W
 LayerCount: 2
 Fore
-Refer: 383 772 N 1 0 0 1 480 90 2
+Refer: 382 772 N 1 0 0 1 480 90 2
 Refer: 134 220 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni01D6
-Encoding: 470 470 660
+Encoding: 470 470 659
 Width: 568
 Flags: W
 AnchorPoint: "bottomatt" 276 7 basechar 0
@@ -16328,12 +16245,12 @@ AnchorPoint: "bottom" 256 -31 basechar 0
 AnchorPoint: "top" 294 696 basechar 0
 LayerCount: 2
 Fore
-Refer: 383 772 N 1 0 0 1 424 -105 2
+Refer: 382 772 N 1 0 0 1 424 -105 2
 Refer: 166 252 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni01D7
-Encoding: 471 471 661
+Encoding: 471 471 660
 Width: 746
 Flags: W
 AnchorPoint: "bottomatt" 382 13 basechar 0
@@ -16342,12 +16259,12 @@ AnchorPoint: "bottom" 348 -36 basechar 0
 AnchorPoint: "top" 350 928 basechar 0
 LayerCount: 2
 Fore
-Refer: 380 769 N 1 0 0 1 439 160 2
+Refer: 379 769 N 1 0 0 1 439 160 2
 Refer: 134 220 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni01D8
-Encoding: 472 472 662
+Encoding: 472 472 661
 Width: 568
 Flags: W
 AnchorPoint: "bottomatt" 276 7 basechar 0
@@ -16356,12 +16273,12 @@ AnchorPoint: "bottom" 256 -31 basechar 0
 AnchorPoint: "top" 294 732 basechar 0
 LayerCount: 2
 Fore
-Refer: 380 769 N 1 0 0 1 383 -36 2
+Refer: 379 769 N 1 0 0 1 383 -36 2
 Refer: 166 252 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni01D9
-Encoding: 473 473 663
+Encoding: 473 473 662
 Width: 746
 Flags: W
 AnchorPoint: "bottomatt" 382 13 basechar 0
@@ -16370,12 +16287,12 @@ AnchorPoint: "bottom" 348 -36 basechar 0
 AnchorPoint: "top" 350 961 basechar 0
 LayerCount: 2
 Fore
-Refer: 388 780 N 1 0 0 1 474 193 2
+Refer: 387 780 N 1 0 0 1 474 193 2
 Refer: 134 220 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni01DA
-Encoding: 474 474 664
+Encoding: 474 474 663
 Width: 568
 Flags: W
 AnchorPoint: "bottomatt" 276 7 basechar 0
@@ -16384,12 +16301,12 @@ AnchorPoint: "bottom" 256 -31 basechar 0
 AnchorPoint: "top" 294 765 basechar 0
 LayerCount: 2
 Fore
-Refer: 388 780 N 1 0 0 1 418 -3 2
+Refer: 387 780 N 1 0 0 1 418 -3 2
 Refer: 166 252 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni01DB
-Encoding: 475 475 665
+Encoding: 475 475 664
 Width: 746
 Flags: W
 AnchorPoint: "bottomatt" 382 13 basechar 0
@@ -16398,12 +16315,12 @@ AnchorPoint: "bottom" 348 -36 basechar 0
 AnchorPoint: "top" 350 921 basechar 0
 LayerCount: 2
 Fore
-Refer: 379 768 N 1 0 0 1 391 153 2
+Refer: 378 768 N 1 0 0 1 391 153 2
 Refer: 134 220 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni01DC
-Encoding: 476 476 666
+Encoding: 476 476 665
 Width: 568
 Flags: W
 AnchorPoint: "bottomatt" 276 7 basechar 0
@@ -16412,12 +16329,12 @@ AnchorPoint: "bottom" 256 -31 basechar 0
 AnchorPoint: "top" 294 725 basechar 0
 LayerCount: 2
 Fore
-Refer: 379 768 N 1 0 0 1 335 -43 2
+Refer: 378 768 N 1 0 0 1 335 -43 2
 Refer: 166 252 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni01DE
-Encoding: 478 478 667
+Encoding: 478 478 666
 Width: 645
 Flags: W
 AnchorPoint: "bottomattside" 561 19 basechar 0
@@ -16426,12 +16343,12 @@ AnchorPoint: "bottomatt" 314 -10 basechar 0
 AnchorPoint: "top" 268 921 basechar 0
 LayerCount: 2
 Fore
-Refer: 383 772 N 1 0 0 1 398 119 2
+Refer: 382 772 N 1 0 0 1 398 119 2
 Refer: 110 196 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni01DF
-Encoding: 479 479 668
+Encoding: 479 479 667
 Width: 652
 Flags: W
 AnchorPoint: "bottomattside" 526 9 basechar 0
@@ -16440,12 +16357,12 @@ AnchorPoint: "bottomatt" 331 17 basechar 0
 AnchorPoint: "top" 237 708 basechar 0
 LayerCount: 2
 Fore
-Refer: 383 772 N 1 0 0 1 367 -94 2
+Refer: 382 772 N 1 0 0 1 367 -94 2
 Refer: 142 228 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni01E0
-Encoding: 480 480 669
+Encoding: 480 480 668
 Width: 645
 Flags: W
 AnchorPoint: "bottomattside" 561 19 basechar 0
@@ -16454,12 +16371,12 @@ AnchorPoint: "bottomatt" 314 -10 basechar 0
 AnchorPoint: "top" 259 944 basechar 0
 LayerCount: 2
 Fore
-Refer: 383 772 N 1 0 0 1 389 142 2
-Refer: 526 550 N 1 0 0 1 0 0 3
+Refer: 382 772 N 1 0 0 1 389 142 2
+Refer: 525 550 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni01E1
-Encoding: 481 481 670
+Encoding: 481 481 669
 Width: 652
 Flags: W
 AnchorPoint: "bottomattside" 526 9 basechar 0
@@ -16468,12 +16385,12 @@ AnchorPoint: "bottomatt" 331 17 basechar 0
 AnchorPoint: "top" 297 738 basechar 0
 LayerCount: 2
 Fore
-Refer: 383 772 N 1 0 0 1 427 -63 2
-Refer: 527 551 N 1 0 0 1 0 0 3
+Refer: 382 772 N 1 0 0 1 427 -63 2
+Refer: 526 551 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni01EC
-Encoding: 492 492 671
+Encoding: 492 492 670
 Width: 870
 Flags: W
 AnchorPoint: "bottomattside" 551 -86 basechar 0
@@ -16482,12 +16399,12 @@ AnchorPoint: "bottom" 420 -31 basechar 0
 AnchorPoint: "top" 425 847 basechar 0
 LayerCount: 2
 Fore
-Refer: 383 772 N 1 0 0 1 555 45 2
-Refer: 511 490 N 1 0 0 1 0 0 3
+Refer: 382 772 N 1 0 0 1 555 45 2
+Refer: 510 490 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni01ED
-Encoding: 493 493 672
+Encoding: 493 493 671
 Width: 622
 Flags: W
 AnchorPoint: "bottomattside" 392 -92 basechar 0
@@ -16496,12 +16413,12 @@ AnchorPoint: "bottom" 292 -36 basechar 0
 AnchorPoint: "top" 276 611 basechar 0
 LayerCount: 2
 Fore
-Refer: 383 772 N 1 0 0 1 407 -190 2
-Refer: 514 491 N 1 0 0 1 0 0 3
+Refer: 382 772 N 1 0 0 1 407 -190 2
+Refer: 513 491 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Aringacute
-Encoding: 506 506 673
+Encoding: 506 506 672
 Width: 645
 Flags: W
 AnchorPoint: "bottomattside" 561 19 basechar 0
@@ -16510,12 +16427,12 @@ AnchorPoint: "bottomatt" 314 -10 basechar 0
 AnchorPoint: "top" 262 983 basechar 0
 LayerCount: 2
 Fore
-Refer: 380 769 N 1 0 0 1 351 215 2
+Refer: 379 769 N 1 0 0 1 351 215 2
 Refer: 111 197 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: aringacute
-Encoding: 507 507 674
+Encoding: 507 507 673
 Width: 652
 Flags: W
 AnchorPoint: "bottomattside" 526 9 basechar 0
@@ -16524,12 +16441,12 @@ AnchorPoint: "bottomatt" 331 17 basechar 0
 AnchorPoint: "top" 287 796 basechar 0
 LayerCount: 2
 Fore
-Refer: 380 769 N 1 0 0 1 376 28 2
+Refer: 379 769 N 1 0 0 1 376 28 2
 Refer: 143 229 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni022A
-Encoding: 554 554 675
+Encoding: 554 554 674
 Width: 870
 Flags: W
 AnchorPoint: "bottomatt" 443 7 basechar 0
@@ -16538,12 +16455,12 @@ AnchorPoint: "bottom" 420 -31 basechar 0
 AnchorPoint: "top" 394 935 basechar 0
 LayerCount: 2
 Fore
-Refer: 383 772 N 1 0 0 1 524 133 2
+Refer: 382 772 N 1 0 0 1 524 133 2
 Refer: 128 214 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni022B
-Encoding: 555 555 676
+Encoding: 555 555 675
 Width: 622
 Flags: W
 AnchorPoint: "bottomatt" 317 -3 basechar 0
@@ -16552,12 +16469,12 @@ AnchorPoint: "bottom" 292 -36 basechar 0
 AnchorPoint: "top" 236 711 basechar 0
 LayerCount: 2
 Fore
-Refer: 383 772 N 1 0 0 1 366 -91 2
+Refer: 382 772 N 1 0 0 1 366 -91 2
 Refer: 160 246 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni022C
-Encoding: 556 556 677
+Encoding: 556 556 676
 Width: 870
 Flags: W
 AnchorPoint: "bottomatt" 443 7 basechar 0
@@ -16566,12 +16483,12 @@ AnchorPoint: "bottom" 420 -31 basechar 0
 AnchorPoint: "top" 389 985 basechar 0
 LayerCount: 2
 Fore
-Refer: 383 772 N 1 0 0 1 519 183 2
+Refer: 382 772 N 1 0 0 1 519 183 2
 Refer: 127 213 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni022D
-Encoding: 557 557 678
+Encoding: 557 557 677
 Width: 622
 Flags: W
 AnchorPoint: "bottomatt" 317 -3 basechar 0
@@ -16580,12 +16497,12 @@ AnchorPoint: "bottom" 292 -36 basechar 0
 AnchorPoint: "top" 227 762 basechar 0
 LayerCount: 2
 Fore
-Refer: 383 772 N 1 0 0 1 357 -40 2
+Refer: 382 772 N 1 0 0 1 357 -40 2
 Refer: 159 245 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni0230
-Encoding: 560 560 679
+Encoding: 560 560 678
 Width: 870
 Flags: W
 AnchorPoint: "bottomatt" 443 7 basechar 0
@@ -16594,12 +16511,12 @@ AnchorPoint: "bottom" 420 -31 basechar 0
 AnchorPoint: "top" 425 958 basechar 0
 LayerCount: 2
 Fore
-Refer: 383 772 N 1 0 0 1 555 157 2
-Refer: 530 558 N 1 0 0 1 0 0 3
+Refer: 382 772 N 1 0 0 1 555 157 2
+Refer: 529 558 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni0231
-Encoding: 561 561 680
+Encoding: 561 561 679
 Width: 622
 Flags: W
 AnchorPoint: "bottomatt" 317 -3 basechar 0
@@ -16608,12 +16525,12 @@ AnchorPoint: "bottom" 292 -36 basechar 0
 AnchorPoint: "top" 276 723 basechar 0
 LayerCount: 2
 Fore
-Refer: 383 772 N 1 0 0 1 407 -79 2
-Refer: 531 559 N 1 0 0 1 0 0 3
+Refer: 382 772 N 1 0 0 1 407 -79 2
+Refer: 530 559 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni0241
-Encoding: 577 577 681
+Encoding: 577 577 680
 Width: 549
 Flags: W
 LayerCount: 2
@@ -16639,7 +16556,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0294
-Encoding: 660 660 682
+Encoding: 660 660 681
 Width: 455
 Flags: W
 LayerCount: 2
@@ -16669,7 +16586,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0295
-Encoding: 661 661 683
+Encoding: 661 661 682
 Width: 455
 Flags: W
 LayerCount: 2
@@ -16699,16 +16616,16 @@ EndSplineSet
 EndChar
 
 StartChar: uni0296
-Encoding: 662 662 684
+Encoding: 662 662 683
 Width: 455
 Flags: W
 LayerCount: 2
 Fore
-Refer: 683 661 S -1 0 0 -1 420.226 715.281 2
+Refer: 682 661 S -1 0 0 -1 420.226 715.281 2
 EndChar
 
 StartChar: uni02A1
-Encoding: 673 673 685
+Encoding: 673 673 684
 Width: 455
 Flags: W
 LayerCount: 2
@@ -16720,11 +16637,11 @@ SplineSet
  83 174 l 5,3,-1
  80 237 l 5,0,-1
 EndSplineSet
-Refer: 682 660 N 1 0 0 1 0 0 2
+Refer: 681 660 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni02A2
-Encoding: 674 674 686
+Encoding: 674 674 685
 Width: 455
 Flags: W
 LayerCount: 2
@@ -16736,11 +16653,11 @@ SplineSet
  66 169 l 1,3,-1
  63 232 l 1,0,-1
 EndSplineSet
-Refer: 683 661 N 1 0 0 1 0 0 2
+Refer: 682 661 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni0242
-Encoding: 578 578 687
+Encoding: 578 578 686
 Width: 527
 Flags: W
 LayerCount: 2
@@ -16765,16 +16682,16 @@ EndSplineSet
 EndChar
 
 StartChar: uni01BE
-Encoding: 446 446 688
+Encoding: 446 446 687
 Width: 455
 Flags: W
 LayerCount: 2
 Fore
-Refer: 686 674 S -1 0 0 -1 420.404 715.281 2
+Refer: 685 674 S -1 0 0 -1 420.404 715.281 2
 EndChar
 
 StartChar: uni0283
-Encoding: 643 643 689
+Encoding: 643 643 688
 Width: 586
 Flags: W
 AnchorPoint: "top" 387 758 basechar 0
@@ -16810,7 +16727,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni01AA
-Encoding: 426 426 690
+Encoding: 426 426 689
 Width: 527
 Flags: W
 LayerCount: 2
@@ -16844,7 +16761,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0284
-Encoding: 644 644 691
+Encoding: 644 644 690
 Width: 586
 Flags: W
 AnchorPoint: "bottomatt" 153 -237 basechar 0
@@ -16860,11 +16777,11 @@ SplineSet
  169 227 l 1,3,-1
  165 271 l 1,0,-1
 EndSplineSet
-Refer: 689 643 N 1 0 0 1 0 0 2
+Refer: 688 643 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni0285
-Encoding: 645 645 692
+Encoding: 645 645 691
 Width: 586
 Flags: W
 LayerCount: 2
@@ -16886,7 +16803,7 @@ SplineSet
  121 408 121 408 141.853515625 391.313476562 c 0,22,23
  180 362 180 362 188.458984375 298.979492188 c 0,24,25
  193 266 193 266 193 256 c 256,26,27
- 186 119 186 119 184 51 c 4,28,29
+ 186 119 186 119 184 51 c 0,28,29
  180 -94 180 -94 227 -171.5 c 132,-1,30
  274 -249 274 -249 364 -249 c 132,-1,31
  454 -249 454 -249 509 -178 c 5,0,1
@@ -16894,7 +16811,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0287
-Encoding: 647 647 693
+Encoding: 647 647 692
 Width: 358
 Flags: W
 LayerCount: 2
@@ -16903,14 +16820,14 @@ Refer: 84 116 N -1 0 0 -1 297 641 2
 EndChar
 
 StartChar: uni0288
-Encoding: 648 648 694
+Encoding: 648 648 693
 Width: 400
 Flags: W
 LayerCount: 2
 Fore
 SplineSet
-99 412 m 5,0,-1
- 173 417 l 5,1,-1
+99 412 m 1,0,-1
+ 173 417 l 1,1,-1
  182 5 l 6,2,3
  183 -64 183 -64 195.4375 -102.5 c 4,4,5
  228 -212 228 -212 318.4375 -182.5 c 4,6,7
@@ -16919,13 +16836,13 @@ SplineSet
  374 -249 374 -249 282.802734375 -249.5 c 4,11,12
  181 -250 181 -250 137 -177 c 4,13,14
  101.576950105 -116.274771609 101.576950105 -116.274771609 101 2 c 6,15,-1
- 99 412 l 5,0,-1
+ 99 412 l 1,0,-1
 EndSplineSet
 Refer: 84 116 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni029A
-Encoding: 666 666 695
+Encoding: 666 666 694
 Width: 478
 Flags: W
 LayerCount: 2
@@ -16964,7 +16881,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni01B3
-Encoding: 435 435 696
+Encoding: 435 435 695
 Width: 686
 Flags: W
 AnchorPoint: "top" 297 722 basechar 0
@@ -16990,7 +16907,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni01B4
-Encoding: 436 436 697
+Encoding: 436 436 696
 Width: 650
 Flags: W
 AnchorPoint: "bottomatt" 174 -215 basechar 0
@@ -17032,7 +16949,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni01AC
-Encoding: 428 428 698
+Encoding: 428 428 697
 Width: 644
 Flags: W
 AnchorPoint: "bottomatt" 345 7 basechar 0
@@ -17057,7 +16974,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni01AE
-Encoding: 430 430 699
+Encoding: 430 430 698
 Width: 644
 Flags: W
 LayerCount: 2
@@ -17082,7 +16999,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni01AB
-Encoding: 427 427 700
+Encoding: 427 427 699
 Width: 358
 Flags: W
 LayerCount: 2
@@ -17100,25 +17017,25 @@ Refer: 84 116 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni031B
-Encoding: 795 795 701
+Encoding: 795 795 700
 Width: 0
 Flags: W
 AnchorPoint: "topattright" -122 677 mark 0
 LayerCount: 2
 Fore
 SplineSet
--122 677 m 0,0,1
- -85 675 -85 675 -74 685 c 0,2,3
- -59 699 -59 699 -58 763 c 1,4,-1
- 0 768 l 1,5,6
- 2 686 2 686 -29 655 c 0,7,8
- -52 632 -52 632 -126 634 c 0,9,-1
- -122 677 l 0,0,1
+-122 677 m 4,0,1
+ -85 675 -85 675 -74 685 c 4,2,3
+ -59 699 -59 699 -58 763 c 5,4,-1
+ 0 768 l 5,5,6
+ 2 686 2 686 -29 655 c 4,7,8
+ -52 632 -52 632 -126 634 c 4,9,-1
+ -122 677 l 4,0,1
 EndSplineSet
 EndChar
 
 StartChar: ohorn
-Encoding: 417 417 702
+Encoding: 417 417 701
 Width: 622
 Flags: W
 AnchorPoint: "top" 276 512 basechar 0
@@ -17127,12 +17044,12 @@ AnchorPoint: "bottomattside" 390 4 basechar 0
 AnchorPoint: "bottomatt" 317 -3 basechar 0
 LayerCount: 2
 Fore
-Refer: 701 795 N 1 0 0 1 617 -269 2
+Refer: 700 795 N 1 0 0 1 617 -269 2
 Refer: 79 111 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: Ohorn
-Encoding: 416 416 703
+Encoding: 416 416 702
 Width: 870
 Flags: W
 AnchorPoint: "top" 425 748 basechar 0
@@ -17141,12 +17058,12 @@ AnchorPoint: "bottomattside" 549 10 basechar 0
 AnchorPoint: "bottomatt" 443 7 basechar 0
 LayerCount: 2
 Fore
-Refer: 701 795 N 1 0 0 1 753 -4 2
+Refer: 700 795 N 1 0 0 1 753 -4 2
 Refer: 47 79 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: Uhorn
-Encoding: 431 431 704
+Encoding: 431 431 703
 Width: 803
 Flags: W
 AnchorPoint: "top" 333 712 basechar 0
@@ -17155,12 +17072,12 @@ AnchorPoint: "bottomattside" 481 25 basechar 0
 AnchorPoint: "bottomatt" 382 13 basechar 0
 LayerCount: 2
 Fore
-Refer: 701 795 N 1 0 0 1 801 -17 2
+Refer: 700 795 N 1 0 0 1 801 -17 2
 Refer: 53 85 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uhorn
-Encoding: 432 432 705
+Encoding: 432 432 704
 Width: 654
 Flags: W
 AnchorPoint: "top" 266 502 basechar 0
@@ -17169,8 +17086,555 @@ AnchorPoint: "bottomattside" 465 15 basechar 0
 AnchorPoint: "bottomatt" 276 7 basechar 0
 LayerCount: 2
 Fore
-Refer: 701 795 N 1 0 0 1 630 -265 2
+Refer: 700 795 N 1 0 0 1 630 -265 2
 Refer: 85 117 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: dagger
+Encoding: 8224 8224 705
+Width: 254
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+129.75 427.5 m 1,0,-1
+ 136.5 118.5 l 1,1,-1
+ 75.75 116.25 l 1,2,-1
+ 74.25 423.75 l 1,3,-1
+ 0.75 424.5 l 5,4,-1
+ 1.5 473.25 l 5,5,-1
+ 78 470.25 l 1,6,-1
+ 77.25 594 l 1,7,-1
+ 123.75 594 l 1,8,-1
+ 126.75 468.75 l 1,9,-1
+ 222 466.5 l 5,10,-1
+ 222 426.75 l 5,11,-1
+ 129.75 427.5 l 1,0,-1
+EndSplineSet
+EndChar
+
+StartChar: ellipsis
+Encoding: 8230 8230 706
+Width: 459
+LayerCount: 2
+Fore
+Refer: 14 46 N 1 0 0 1 306 0 2
+Refer: 14 46 N 1 0 0 1 153 0 2
+Refer: 14 46 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: twodotenleader
+Encoding: 8229 8229 707
+Width: 306
+LayerCount: 2
+Fore
+Refer: 14 46 N 1 0 0 1 153 0 2
+Refer: 14 46 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: daggerdbl
+Encoding: 8225 8225 708
+Width: 254
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+224 312 m 5,0,-1
+ 223.25 263.25 l 5,1,-1
+ 2.75 270 l 5,2,-1
+ 2.75 309.75 l 5,3,-1
+ 224 312 l 5,0,-1
+EndSplineSet
+Refer: 705 8224 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni2047
+Encoding: 8263 8263 709
+Width: 942
+LayerCount: 2
+Fore
+Refer: 31 63 N 1 0 0 1 471 0 2
+Refer: 31 63 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni2048
+Encoding: 8264 8264 710
+Width: 676
+LayerCount: 2
+Fore
+Refer: 1 33 N 1 0 0 1 471 0 2
+Refer: 31 63 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni2049
+Encoding: 8265 8265 711
+Width: 676
+LayerCount: 2
+Fore
+Refer: 31 63 N 1 0 0 1 205 0 2
+Refer: 1 33 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: exclamdbl
+Encoding: 8252 8252 712
+Width: 410
+LayerCount: 2
+Fore
+Refer: 1 33 N 1 0 0 1 205 0 2
+Refer: 1 33 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: second
+Encoding: 8243 8243 713
+Width: 274
+LayerCount: 2
+Fore
+Refer: 7 39 N 1 0 0 1 137 0 2
+Refer: 7 39 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: guilsinglleft
+Encoding: 8249 8249 714
+Width: 284
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+181 513 m 1,0,-1
+ 218 463 l 1,1,-1
+ 59 368 l 1,2,-1
+ 170 231 l 1,3,-1
+ 138 196 l 1,4,-1
+ -1 372 l 1,5,-1
+ 181 513 l 1,0,-1
+EndSplineSet
+EndChar
+
+StartChar: guilsinglright
+Encoding: 8250 8250 715
+Width: 328
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+98 508 m 1,0,-1
+ 272 372 l 1,1,-1
+ 137 194 l 1,2,-1
+ 101 231 l 1,3,-1
+ 212 368 l 1,4,-1
+ 53 463 l 1,5,-1
+ 98 508 l 1,0,-1
+EndSplineSet
+EndChar
+
+StartChar: uni204B
+Encoding: 8267 8267 716
+Width: 573
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+8.560546875 714 m 1,0,-1
+ 187.560546875 717 l 2,1,2
+ 248.560546875 718 248.560546875 718 337.060546875 716 c 128,-1,3
+ 425.560546875 714 425.560546875 714 476.560546875 680 c 0,4,5
+ 544.560546875 639 544.560546875 639 550.560546875 537 c 0,6,7
+ 553.560546875 482 553.560546875 482 536.060546875 441 c 128,-1,8
+ 518.560546875 400 518.560546875 400 485.560546875 363 c 128,-1,9
+ 452.560546875 326 452.560546875 326 367.560546875 302 c 0,10,11
+ 336.560546875 294 336.560546875 294 274.560546875 290 c 1,12,-1
+ 273.560546875 0 l 1,13,-1
+ 207.560546875 0 l 1,14,-1
+ 189.560546875 651 l 1,15,-1
+ 132.560546875 648 l 1,16,-1
+ 144.560546875 0 l 1,17,-1
+ 88.560546875 0 l 1,18,-1
+ 76.560546875 645 l 1,19,-1
+ 8.560546875 641 l 1,20,-1
+ 8.560546875 714 l 1,0,-1
+EndSplineSet
+EndChar
+
+StartChar: uni2034
+Encoding: 8244 8244 717
+Width: 411
+LayerCount: 2
+Fore
+Refer: 7 39 N 1 0 0 1 274 0 2
+Refer: 7 39 N 1 0 0 1 137 0 2
+Refer: 7 39 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni2036
+Encoding: 8246 8246 718
+Width: 274
+LayerCount: 2
+Fore
+Refer: 243 8216 N 1 0 0 1 137 0 2
+Refer: 243 8216 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni2037
+Encoding: 8247 8247 719
+Width: 411
+LayerCount: 2
+Fore
+Refer: 243 8216 N 1 0 0 1 274 0 2
+Refer: 243 8216 N 1 0 0 1 137 0 2
+Refer: 243 8216 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: bullet
+Encoding: 8226 8226 720
+Width: 212
+Flags: W
+LayerCount: 2
+Fore
+Refer: 14 46 N 1.5 0 0 1.5 -5.76751 272.232 2
+EndChar
+
+StartChar: uni2023
+Encoding: 8227 8227 721
+Width: 212
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+20 453 m 29,0,-1
+ 179 361 l 25,1,-1
+ 18 271 l 25,2,-1
+ 20 453 l 29,0,-1
+EndSplineSet
+EndChar
+
+StartChar: uni2043
+Encoding: 8259 8259 722
+Width: 304
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+15 406 m 1,0,-1
+ 264 406 l 5,1,-1
+ 263 339 l 5,2,-1
+ 12 341 l 1,3,-1
+ 15 406 l 1,0,-1
+EndSplineSet
+EndChar
+
+StartChar: uni2C6D
+Encoding: 11373 11373 723
+Width: 831
+Flags: W
+AnchorPoint: "top" 425 748 basechar 0
+AnchorPoint: "bottom" 420 -31 basechar 0
+AnchorPoint: "bottomattside" 724 14 basechar 0
+AnchorPoint: "bottomatt" 443 7 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+510.691927108 716.844306195 m 128,-1,1
+ 600.202036034 704.68861239 600.202036034 704.68861239 682 647.148266349 c 1,2,-1
+ 682 714 l 1,3,-1
+ 770 711 l 1,4,-1
+ 774 4 l 1,5,-1
+ 682 4 l 1,6,-1
+ 682 73.6169095629 l 1,7,8
+ 624.819559762 30.0009880757 624.819559762 30.0009880757 550.409779881 10.5004940378 c 128,-1,9
+ 476 -9 476 -9 425 -9 c 128,-1,10
+ 374 -9 374 -9 329 -4 c 128,-1,11
+ 284 1 284 1 237.5 17.5 c 128,-1,12
+ 191 34 191 34 150 62.5 c 128,-1,13
+ 109 91 109 91 75 131.5 c 128,-1,14
+ 41 172 41 172 22.5 223.5 c 128,-1,15
+ 4 275 4 275 8.5 354 c 128,-1,16
+ 13 433 13 433 37.5 490 c 0,17,18
+ 82.9635522129 595.772345965 82.9635522129 595.772345965 172.445190741 651.833131548 c 128,-1,19
+ 261.926829268 707.893917132 261.926829268 707.893917132 341.554323725 718.446958566 c 128,-1,0
+ 421.181818182 729 421.181818182 729 510.691927108 716.844306195 c 128,-1,1
+294.5 58.5 m 128,-1,21
+ 350 42 350 42 406.5 40.5 c 128,-1,22
+ 463 39 463 39 524 57 c 128,-1,23
+ 585 75 585 75 621.433703369 106.879490448 c 128,-1,24
+ 657.867406738 138.758980896 657.867406738 138.758980896 682 177.361527042 c 1,25,-1
+ 682 554.966032645 l 1,26,27
+ 675.07762306 565.992116105 675.07762306 565.992116105 660.53881153 584.496058053 c 128,-1,28
+ 646 603 646 603 614 624 c 128,-1,29
+ 582 645 582 645 551 657.5 c 128,-1,30
+ 520 670 520 670 454 677 c 1,31,32
+ 298.104093403 683.877760585 298.104093403 683.877760585 204.5 593 c 0,33,34
+ 153 543 153 543 126.5 468.5 c 128,-1,35
+ 100 394 100 394 102 319 c 128,-1,36
+ 104 244 104 244 133 192 c 128,-1,37
+ 162 140 162 140 200.5 107.5 c 128,-1,20
+ 239 75 239 75 294.5 58.5 c 128,-1,21
+EndSplineSet
+EndChar
+
+StartChar: uni024A
+Encoding: 586 586 724
+Width: 831
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+774 4 m 6
+ 774.429054054 -71.8353040541 774.429054054 -71.8353040541 785 -115 c 0
+ 809 -213 809 -213 914 -179.5 c 0
+ 943 -170 943 -170 979 -128 c 1
+ 1025 -175 l 1
+ 970 -246 970 -246 878.365234375 -246.5 c 0
+ 757 -247 757 -247 718 -178 c 0
+ 682 -115 682 -115 682 4 c 10
+ 682 714 l 25
+ 770 711 l 29
+ 774 4 l 6
+EndSplineSet
+Refer: 723 11373 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni024B
+Encoding: 587 587 725
+Width: 593
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+541 1 m 6,0,1
+ 542 -54 542 -54 552 -104 c 4,2,3
+ 577.566759043 -215.574582864 577.566759043 -215.574582864 681 -182.5 c 4,4,5
+ 710 -173 710 -173 746 -131 c 5,6,-1
+ 792 -178 l 5,7,8
+ 737 -249 737 -249 645.365234375 -249.5 c 4,9,10
+ 546 -250 546 -250 499.5625 -177 c 4,11,12
+ 462 -115 462 -115 463 0 c 6,13,-1
+ 464 85 l 1,14,15
+ 393 16 393 16 272 10 c 0,16,17
+ 154 4 154 4 75.5 76.5 c 128,-1,18
+ -3 149 -3 149 5 259 c 0,19,20
+ 13 363 13 363 95 426 c 0,21,22
+ 171 484 171 484 287 486 c 0,23,24
+ 393 488 393 488 467 422 c 1,25,-1
+ 467 472 l 1,26,-1
+ 534 471 l 1,27,-1
+ 541 1 l 6,0,1
+174 76 m 128,-1,29
+ 207 57 207 57 250 56.5 c 128,-1,30
+ 293 56 293 56 322.5 64 c 128,-1,31
+ 352 72 352 72 375 86 c 128,-1,32
+ 398 100 398 100 414.5 119 c 128,-1,33
+ 431 138 431 138 441.5 159.5 c 0,34,35
+ 460.720763723 198.856801909 460.720763723 198.856801909 462.360381862 241.428400955 c 128,-1,36
+ 464 284 464 284 452.5 317.5 c 128,-1,37
+ 441 351 441 351 417.5 377 c 0,38,39
+ 364.173076923 436 364.173076923 436 278 436 c 0,40,41
+ 210.655172414 436 210.655172414 436 153.5 393.5 c 0,42,43
+ 88.7932731747 345.384741591 88.7932731747 345.384741591 86 256 c 0,44,45
+ 83.6831036983 179.542422045 83.6831036983 179.542422045 121 124.5 c 0,46,28
+ 141 95 141 95 174 76 c 128,-1,29
+EndSplineSet
+EndChar
+
+StartChar: uni0224
+Encoding: 548 548 726
+Width: 653
+Flags: W
+AnchorPoint: "top" 328 773 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+488 8 m 6,0,1
+ 108 0 l 1,2,-1
+ 102 46 l 1,3,-1
+ 512 658 l 1,4,-1
+ 51 654 l 1,5,-1
+ 46 717 l 1,6,-1
+ 609 711 l 1,7,-1
+ 610 675 l 1,8,-1
+ 210 61 l 1,9,-1
+ 485 70 l 6,10,11
+ 573 73 573 73 608.5 22 c 132,-1,12
+ 644 -29 644 -29 596 -119 c 5,13,-1
+ 539 -85 l 5,14,15
+ 571 -27 571 -27 556.89453125 -8.349609375 c 4,16,17
+ 544 9 544 9 488 8 c 6,0,1
+EndSplineSet
+EndChar
+
+StartChar: uni0225
+Encoding: 549 549 727
+Width: 484
+Flags: W
+AnchorPoint: "top" 210 532 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+310 5 m 2,0,1
+ 34 8 l 1,2,-1
+ 32 49 l 1,3,-1
+ 319 431 l 1,4,-1
+ 8 428 l 1,5,-1
+ 10 492 l 1,6,-1
+ 410 483 l 1,7,-1
+ 411 442 l 1,8,-1
+ 133 62 l 1,9,-1
+ 312 62 l 2,10,11
+ 384 62 384 62 420.5 13 c 128,-1,12
+ 457 -36 457 -36 408 -128 c 1,13,-1
+ 351 -94 l 1,14,15
+ 383 -36 383 -36 368.89453125 -17.349609375 c 0,16,17
+ 352 5 352 5 310 5 c 2,0,1
+EndSplineSet
+EndChar
+
+StartChar: uni0240
+Encoding: 576 576 728
+Width: 484
+Flags: W
+AnchorPoint: "top" 210 532 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+436 -58 m 1,0,1
+ 480 -112 l 1,2,3
+ 387 -166 387 -166 313 -113 c 0,4,5
+ 212 -41 212 -41 162 -10 c 0,6,7
+ 133 8 133 8 74 8 c 2,8,-1
+ 34 8 l 1,9,-1
+ 32 49 l 1,10,-1
+ 319 431 l 1,11,-1
+ 8 428 l 1,12,-1
+ 10 492 l 1,13,-1
+ 410 483 l 1,14,-1
+ 411 442 l 1,15,-1
+ 133 62 l 1,16,17
+ 183 62 183 62 223.5 32.38671875 c 0,18,19
+ 248 14 248 14 269 -4.8271484375 c 0,20,21
+ 312 -41 312 -41 328 -52 c 4,22,23
+ 386 -93 386 -93 436 -58 c 1,0,1
+EndSplineSet
+EndChar
+
+StartChar: uni023F
+Encoding: 575 575 729
+Width: 445
+Flags: W
+AnchorPoint: "top" 210 538 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+106 93 m 5
+ 193.505588079 39.2315061203 193.505588079 39.2315061203 243 -36 c 4
+ 295 -115 295 -115 356 -59 c 5
+ 392 -114 l 5
+ 286 -175 286 -175 222 -86 c 4
+ 160 0 160 0 32 68 c 5
+ 106 93 l 5
+EndSplineSet
+Refer: 83 115 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni0221
+Encoding: 545 545 730
+Width: 631
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+490 -2 m 6
+ 493 72 l 5
+ 606 710 l 5
+ 582 -82 l 6
+ 580 -148 580 -148 643 -148 c 7
+ 702 -148 702 -148 702 -95 c 7
+ 702 -35 702 -35 642 -35 c 7
+ 585 -35 585 -35 582 -82 c 4
+ 578 -152 578 -152 573 -222 c 5
+ 501 -218 l 5
+ 515 -85 l 4
+ 565 31 565 31 645 26 c 12
+ 758 20 758 20 758 -98 c 7
+ 758 -196 758 -196 658 -196 c 7
+ 482 -196 482 -196 490 -2 c 6
+EndSplineSet
+Refer: 68 100 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni0234
+Encoding: 564 564 731
+Width: 325
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+37 0 m 2,0,-1
+ 29 728 l 1,1,-1
+ 131 729 l 1,2,-1
+ 132 -82 l 2,3,4
+ 132 -148 132 -148 193 -148 c 3,5,6
+ 252 -148 252 -148 252 -95 c 3,7,8
+ 252 -35 252 -35 192 -35 c 3,9,10
+ 135 -35 135 -35 132 -82 c 0,11,12
+ 128 -152 128 -152 123 -222 c 1,13,-1
+ 51 -218 l 1,14,-1
+ 58 -83 l 4,15,16
+ 108 31 108 31 195 26 c 0,17,18
+ 308 20 308 20 308 -98 c 3,19,20
+ 308 -196 308 -196 208 -196 c 3,21,22
+ 39 -196 39 -196 37 0 c 2,0,-1
+EndSplineSet
+EndChar
+
+StartChar: uni0235
+Encoding: 565 565 732
+Width: 750
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+539 36 m 5
+ 536 -62 l 6
+ 533.979591837 -128 533.979591837 -128 597 -128 c 7
+ 656 -128 656 -128 656 -75 c 7
+ 656 -15 656 -15 596 -15 c 7
+ 539 -15 539 -15 536 -62 c 4
+ 532 -132 532 -132 527 -202 c 5
+ 455 -198 l 5
+ 469 -65 l 4
+ 519 51 519 51 599 46 c 12
+ 712 40 712 40 712 -78 c 7
+ 712 -176 712 -176 612 -176 c 7
+ 446 -176 446 -176 444 18 c 5
+ 539 36 l 5
+EndSplineSet
+Refer: 78 110 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni0236
+Encoding: 566 566 733
+Width: 358
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+254 -144 m 0
+ 313 -145 313 -145 313 -91 c 3
+ 313 -31 313 -31 253 -31 c 3
+ 202 -31 202 -31 196 -91 c 4
+ 190 -154 190 -154 184 -218 c 1
+ 112 -214 l 1
+ 126 -81 l 0
+ 176 35 176 35 256 30 c 8
+ 369 24 369 24 369 -94 c 3
+ 369 -192 369 -192 269 -192 c 3
+ 101.946341463 -192 101.946341463 -192 101 2 c 2
+ 99 412 l 1
+ 173 417 l 1
+ 182 5 l 2
+ 182.852546917 -34.0277033065 182.852546917 -34.0277033065 196 -91 c 4
+ 208 -143 208 -143 254 -144 c 0
+EndSplineSet
+Refer: 84 116 N 1 0 0 1 0 0 2
 EndChar
 EndChars
 EndSplineFont
