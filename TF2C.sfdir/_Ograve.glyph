@@ -1,0 +1,11 @@
+StartChar: Ograve
+Encoding: 210 210 97
+AltUni2: 0000f2.ffffffff.0
+Width: 654
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 240 -1 N 1 0 0 1 0 0 2
+Refer: 64 96 S 1.63995 0 0 1.28003 147 -232 2
+EndChar

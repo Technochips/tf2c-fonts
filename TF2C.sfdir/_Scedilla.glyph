@@ -1,0 +1,15 @@
+StartChar: Scedilla
+Encoding: 350 350 158
+AltUni2: 00015f.ffffffff.0
+Width: 389
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+153 7 m 2,0,1
+ 153 6 153 6 153 6 c 2,2,-1
+ 153 7 l 2,0,1
+EndSplineSet
+Refer: 77 184 S 1 0 0 1 143 -61 2
+Refer: 51 83 N 1 0 0 1 0 0 2
+EndChar

@@ -1,0 +1,22 @@
+StartChar: Lambda
+Encoding: 923 923 158
+AltUni2: 00028c.ffffffff.0 000245.ffffffff.0 0003bb.ffffffff.0
+Width: 1581
+Flags: W
+AnchorPoint: "top" 669 1451 basechar 0
+AnchorPoint: "bottomattside" 1147 34 basechar 0
+AnchorPoint: "bottom" 765 -14 basechar 0
+AnchorPoint: "bottomatt" 771 -7 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+0 103 m 1,0,-1
+ 593 1461 l 1,1,-1
+ 913 1439 l 1,2,-1
+ 1481 116 l 1,3,-1
+ 1152 -7 l 1,4,-1
+ 754 945 l 1,5,-1
+ 352 6 l 1,6,-1
+ 0 103 l 1,0,-1
+EndSplineSet
+EndChar

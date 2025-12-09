@@ -1,0 +1,11 @@
+StartChar: T.mark
+Encoding: 65555 -1 245
+Width: 563
+Flags: W
+AnchorPoint: "bottomattside" 205 3 basechar 0
+AnchorPoint: "bottom" 254 -10 basechar 0
+AnchorPoint: "top" 246 694 basechar 0
+LayerCount: 2
+Fore
+Refer: 52 84 N 1 0 0 0.95 0 0 2
+EndChar

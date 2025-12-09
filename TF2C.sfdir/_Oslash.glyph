@@ -1,0 +1,19 @@
+StartChar: Oslash
+Encoding: 216 216 103
+AltUni2: 0000f8.ffffffff.0
+Width: 654
+GlyphClass: 2
+Flags: W
+AnchorPoint: "top" 298 706 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+10 79 m 25,0,-1
+ 558 722 l 25,1,-1
+ 595 703 l 25,2,-1
+ 65 27 l 25,3,-1
+ 10 79 l 25,0,-1
+EndSplineSet
+Refer: 47 79 N 1 0 0 1 0 0 2
+Substitution2: "mark-downsizer-1" Oslash.mark
+EndChar

@@ -1,0 +1,14 @@
+StartChar: Sacute
+Encoding: 346 346 182
+Width: 441
+GlyphClass: 2
+Flags: W
+AnchorPoint: "bottom" 211 -30 basechar 0
+AnchorPoint: "bottomattside" 299 26 basechar 0
+AnchorPoint: "bottomatt" 249 20 basechar 0
+AnchorPoint: "top" 211 893 basechar 0
+LayerCount: 2
+Fore
+Refer: 379 769 S 1 0 0 1 300 125 2
+Refer: 51 83 N 1 0 0 1 0 0 2
+EndChar

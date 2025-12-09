@@ -1,0 +1,14 @@
+StartChar: igrave
+Encoding: 236 236 150
+Width: 244
+GlyphClass: 2
+Flags: W
+AnchorPoint: "bottomattside" 79 5 basechar 0
+AnchorPoint: "bottom" 97 -31 basechar 0
+AnchorPoint: "bottomatt" 123 13 basechar 0
+AnchorPoint: "top" 108 625 basechar 0
+LayerCount: 2
+Fore
+Refer: 378 768 N 1 0 0 1 148 -143 2
+Refer: 255 305 N 1 0 0 1 0 0 3
+EndChar

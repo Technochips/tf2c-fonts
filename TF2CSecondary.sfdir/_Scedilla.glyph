@@ -1,0 +1,13 @@
+StartChar: Scedilla
+Encoding: 350 350 256
+Width: 441
+Flags: W
+AnchorPoint: "top" 225 758 basechar 0
+AnchorPoint: "bottom" 211 -30 basechar 0
+AnchorPoint: "bottomattside" 299 26 basechar 0
+AnchorPoint: "bottomatt" 223 -115 basechar 0
+LayerCount: 2
+Fore
+Refer: 442 807 N 1 0 0 1 307 20 2
+Refer: 51 83 N 1 0 0 1 0 0 2
+EndChar

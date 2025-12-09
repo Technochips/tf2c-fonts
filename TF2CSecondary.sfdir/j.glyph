@@ -1,0 +1,29 @@
+StartChar: j
+Encoding: 106 106 74
+Width: 370
+GlyphClass: 2
+Flags: W
+AnchorPoint: "bottomatt" 146 -232 basechar 0
+AnchorPoint: "bottomattside" 93 -229 basechar 0
+AnchorPoint: "bottom" 118 -282 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+231 585 m 0,0,1
+ 231 594 231 594 235 602 c 0,2,3
+ 239 610 239 610 245 615 c 0,4,5
+ 251 621 251 621 259 625 c 0,6,7
+ 267 629 267 629 275 629 c 256,8,9
+ 283 629 283 629 292 625 c 0,10,11
+ 300 621 300 621 306 615 c 0,12,13
+ 312 609 312 609 316 602 c 0,14,15
+ 320 594 320 594 319 585 c 0,16,17
+ 319 567 319 567 306 553 c 0,18,19
+ 293 540 293 540 275 541 c 256,20,21
+ 258 541 258 541 245 553 c 0,22,23
+ 231 567 231 567 231 585 c 0,0,1
+EndSplineSet
+Refer: 377 567 N 1 0 0 1 0 0 2
+Kerns2: 377 -63 "kern" 83 16 "kern" 80 24 "kern" 79 -8 "kern" 75 48 "kern" 74 -63 "kern" 72 24 "kern" 70 24 "kern" 66 32 "kern" 54 -11 "kern" 47 -6 "kern" 42 -84 "kern" 38 32 "kern"
+Substitution2: "dotless-1" uni0237
+EndChar

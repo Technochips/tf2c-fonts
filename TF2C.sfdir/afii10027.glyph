@@ -1,0 +1,12 @@
+StartChar: afii10027
+Encoding: 1049 1049 133
+AltUni2: 000439.ffffffff.0
+Width: 563
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 271 -1 S 1 0 0 1 0 0 2
+Refer: 125 728 N 1.4087 0 0 1.52941 190 -320 2
+Kerns2: 54 -5 "kern" 55 -2 "kern" 57 -15 "kern"
+EndChar

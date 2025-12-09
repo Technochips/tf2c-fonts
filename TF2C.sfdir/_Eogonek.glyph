@@ -1,0 +1,14 @@
+StartChar: Eogonek
+Encoding: 280 280 113
+AltUni2: 000119.ffffffff.0
+Width: 509
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+374 2 m 1024
+EndSplineSet
+Refer: 187 731 S 1 0 0 1 368 0 2
+Refer: 37 69 N 1 0 0 1 0 0 2
+EndChar

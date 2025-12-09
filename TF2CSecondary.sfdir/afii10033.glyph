@@ -1,0 +1,23 @@
+StartChar: afii10033
+Encoding: 1055 1055 203
+AltUni2: 0003a0.ffffffff.0
+Width: 764
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+19 0 m 1,0,-1
+ 19 717 l 1,1,-1
+ 65 717 l 1,2,-1
+ 637 711 l 1,3,-1
+ 710 708 l 1,4,-1
+ 707 10 l 1,5,-1
+ 649 9 l 1,6,-1
+ 667 645 l 1,7,-1
+ 72 656 l 1,8,-1
+ 87 0 l 1,9,-1
+ 19 0 l 1,0,-1
+EndSplineSet
+Kerns2: 33 -36 "kern" 35 -48 "kern" 41 -17 "kern" 44 -6 "kern" 45 -17 "kern" 46 -25 "kern" 47 -30 "kern" 50 -31 "kern" 52 -67 "kern" 54 -66 "kern" 69 -48 "kern" 70 32 "kern" 71 -42 "kern" 74 -48 "kern" 78 -18 "kern" 84 -32 "kern" 377 -48 "kern" 254 -17 "kern"
+EndChar

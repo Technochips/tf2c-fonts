@@ -1,0 +1,13 @@
+StartChar: itilde
+Encoding: 297 297 405
+Width: 244
+Flags: W
+AnchorPoint: "bottomattside" 79 5 basechar 0
+AnchorPoint: "bottom" 97 -31 basechar 0
+AnchorPoint: "bottomatt" 123 13 basechar 0
+AnchorPoint: "top" 108 639 basechar 0
+LayerCount: 2
+Fore
+Refer: 381 771 N 1 0 0 1 231 -136 2
+Refer: 255 305 N 1 0 0 1 0 0 3
+EndChar

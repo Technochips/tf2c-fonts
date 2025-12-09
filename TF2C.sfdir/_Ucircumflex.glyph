@@ -1,0 +1,11 @@
+StartChar: Ucircumflex
+Encoding: 219 219 106
+AltUni2: 0000fb.ffffffff.0
+Width: 552
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 246 -1 S 1 0 0 1 0 0 2
+Refer: 123 710 N 0.938144 0 0 0.57672 168 401 2
+EndChar

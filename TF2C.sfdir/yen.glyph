@@ -1,0 +1,20 @@
+StartChar: yen
+Encoding: 165 165 161
+Width: 464
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+300 300 m 25,0,-1
+ 300 270 l 25,1,-1
+ 114 270 l 25,2,-1
+ 112 292 l 25,3,-1
+ 300 300 l 25,0,-1
+305 341 m 25,4,-1
+ 306 324 l 25,5,-1
+ 117 325 l 25,6,-1
+ 120 356 l 25,7,-1
+ 305 341 l 25,4,-1
+EndSplineSet
+Refer: 57 89 N 0.75 0 0 0.75 0 83 2
+EndChar

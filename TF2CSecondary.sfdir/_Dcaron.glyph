@@ -1,0 +1,13 @@
+StartChar: Dcaron
+Encoding: 270 270 337
+Width: 746
+Flags: W
+AnchorPoint: "bottom" 343 -31 basechar 0
+AnchorPoint: "bottomattside" 425 22 basechar 0
+AnchorPoint: "bottomatt" 351 13 basechar 0
+AnchorPoint: "top" 348 865 basechar 0
+LayerCount: 2
+Fore
+Refer: 387 780 S 1 0 0 1 472 97 2
+Refer: 36 68 N 1 0 0 1 0 0 2
+EndChar

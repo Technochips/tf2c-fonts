@@ -1,0 +1,11 @@
+StartChar: Yacute
+Encoding: 221 221 108
+AltUni2: 0000fd.ffffffff.0
+Width: 563
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 250 -1 N 1 0 0 1 0 0 2
+Refer: 76 180 N 1 0 0 1 202 -13 2
+EndChar

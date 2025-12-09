@@ -1,0 +1,13 @@
+StartChar: Uhorn
+Encoding: 431 431 703
+Width: 803
+Flags: W
+AnchorPoint: "top" 333 712 basechar 0
+AnchorPoint: "bottom" 348 -36 basechar 0
+AnchorPoint: "bottomattside" 481 25 basechar 0
+AnchorPoint: "bottomatt" 382 13 basechar 0
+LayerCount: 2
+Fore
+Refer: 700 795 N 1 0 0 1 801 -17 2
+Refer: 53 85 N 1 0 0 1 0 0 2
+EndChar

@@ -1,0 +1,27 @@
+StartChar: K
+Encoding: 75 75 43
+AltUni2: 00041a.ffffffff.0 00039a.ffffffff.0 00006b.ffffffff.0 0003ba.ffffffff.0 00043a.ffffffff.0
+Width: 1185
+GlyphClass: 2
+Flags: W
+AnchorPoint: "bottomattside" 819 88 basechar 0
+AnchorPoint: "bottomatt" 584 0 basechar 0
+AnchorPoint: "bottom" 635 -41 basechar 0
+AnchorPoint: "top" 635 1475 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+582 680 m 1,0,-1
+ 1053 215 l 1,1,-1
+ 858 20 l 1,2,-1
+ 426 512 l 1,3,-1
+ 467 20 l 1,4,-1
+ 78 0 l 1,5,-1
+ 0 1423 l 1,6,-1
+ 389 1442 l 1,7,-1
+ 410 936 l 1,8,-1
+ 838 1442 l 1,9,-1
+ 1092 1208 l 1,10,-1
+ 582 680 l 1,0,-1
+EndSplineSet
+EndChar

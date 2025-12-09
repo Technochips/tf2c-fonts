@@ -1,0 +1,17 @@
+StartChar: uni031B
+Encoding: 795 795 700
+Width: 0
+Flags: W
+AnchorPoint: "topattright" -122 677 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-122 677 m 4,0,1
+ -85 675 -85 675 -74 685 c 4,2,3
+ -59 699 -59 699 -58 763 c 5,4,-1
+ 0 768 l 5,5,6
+ 2 686 2 686 -29 655 c 4,7,8
+ -52 632 -52 632 -126 634 c 4,9,-1
+ -122 677 l 4,0,1
+EndSplineSet
+EndChar

@@ -1,0 +1,19 @@
+StartChar: uni0247
+Encoding: 583 583 602
+Width: 612
+Flags: W
+AnchorPoint: "top" 287 507 basechar 0
+AnchorPoint: "bottom" 312 -36 basechar 0
+AnchorPoint: "bottomattside" 477 23 basechar 0
+AnchorPoint: "bottomatt" 325 3 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+95 8 m 5,0,-1
+ 437 547 l 5,1,-1
+ 501 509 l 5,2,-1
+ 128 -17 l 5,3,-1
+ 95 8 l 5,0,-1
+EndSplineSet
+Refer: 69 101 N 1 0 0 1 0 0 2
+EndChar

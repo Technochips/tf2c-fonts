@@ -1,0 +1,28 @@
+StartChar: L
+Encoding: 76 76 44
+AltUni2: 00006c.ffffffff.0
+Width: 498
+GlyphClass: 2
+Flags: W
+AnchorPoint: "bottom" 246 -26 basechar 0
+AnchorPoint: "bottomattside" 457 3 basechar 0
+AnchorPoint: "top" 83 745 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+0 717 m 1,0,-1
+ 156 717 l 1,1,2
+ 118 692 118 692 111 684.5 c 128,-1,3
+ 104 677 104 677 103 675 c 0,4,5
+ 102 674 102 674 101 645.5 c 128,-1,6
+ 100 617 100 617 99 56 c 1,7,8
+ 404 63 404 63 408 67 c 0,9,10
+ 413 68 413 68 459 126 c 1,11,-1
+ 458 1 l 1,12,-1
+ 33 -1 l 1,13,-1
+ 29 691 l 1,14,15
+ 15 703 15 703 0 717 c 1,0,-1
+EndSplineSet
+Kerns2: 35 -32 "kern" 39 -30 "kern" 47 -19 "kern" 49 -19 "kern" 52 -68 "kern" 53 -32 "kern" 54 -90 "kern" 55 -56 "kern" 57 -88 "kern"
+Substitution2: "mark-downsizer-1" L.mark
+EndChar

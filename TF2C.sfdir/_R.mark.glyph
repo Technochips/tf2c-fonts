@@ -1,0 +1,11 @@
+StartChar: R.mark
+Encoding: 65553 -1 243
+Width: 614
+Flags: W
+AnchorPoint: "bottomattside" 546 52 basechar 0
+AnchorPoint: "bottom" 307 0 basechar 0
+AnchorPoint: "top" 238 697 basechar 0
+LayerCount: 2
+Fore
+Refer: 50 82 N 1 0 0 0.949928 0 -0 2
+EndChar

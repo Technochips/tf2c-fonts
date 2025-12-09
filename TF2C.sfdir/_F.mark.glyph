@@ -1,0 +1,11 @@
+StartChar: F.mark
+Encoding: 65541 -1 231
+Width: 513
+Flags: W
+AnchorPoint: "bottomattside" 48 3 basechar 0
+AnchorPoint: "bottom" 92 -31 basechar 0
+AnchorPoint: "top" 246 717 basechar 0
+LayerCount: 2
+Fore
+Refer: 38 70 N 1 0 0 0.95 0 0 2
+EndChar

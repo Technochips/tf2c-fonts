@@ -1,0 +1,11 @@
+StartChar: Igrave
+Encoding: 204 204 91
+AltUni2: 0000ec.ffffffff.0
+Width: 221
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 234 -1 N 1 0 0 1 0 0 2
+Refer: 64 96 S 0.880005 0 0 0.880005 -18 74 2
+EndChar

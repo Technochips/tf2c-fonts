@@ -1,0 +1,11 @@
+StartChar: Q.mark
+Encoding: 65552 -1 242
+Width: 638
+Flags: W
+AnchorPoint: "bottomattside" 398 22 basechar 0
+AnchorPoint: "bottom" 307 -20 basechar 0
+AnchorPoint: "top" 317 712 basechar 0
+LayerCount: 2
+Fore
+Refer: 49 81 N 1 0 0 0.95 0 0 2
+EndChar

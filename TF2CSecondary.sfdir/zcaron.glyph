@@ -1,0 +1,13 @@
+StartChar: zcaron
+Encoding: 382 382 356
+Width: 484
+Flags: W
+AnchorPoint: "bottom" 225 -20 basechar 0
+AnchorPoint: "bottomattside" 424 2 basechar 0
+AnchorPoint: "bottomatt" 253 13 basechar 0
+AnchorPoint: "top" 224 706 basechar 0
+LayerCount: 2
+Fore
+Refer: 387 780 S 1 0 0 1 348 -62 2
+Refer: 90 122 N 1 0 0 1 0 0 2
+EndChar

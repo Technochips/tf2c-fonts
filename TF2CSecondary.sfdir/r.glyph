@@ -1,0 +1,34 @@
+StartChar: r
+Encoding: 114 114 82
+Width: 410
+GlyphClass: 2
+Flags: W
+AnchorPoint: "bottomatt" 95 10 basechar 0
+AnchorPoint: "bottomattside" 63 4 basechar 0
+AnchorPoint: "bottom" 72 -31 basechar 0
+AnchorPoint: "top" 220 512 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+105 4 m 5,0,-1
+ 29 0 l 5,1,-1
+ 26 470 l 5,2,-1
+ 97 472 l 1,3,-1
+ 98 391 l 1,4,5
+ 106 402 106 402 119.5 415 c 128,-1,6
+ 133 428 133 428 150.5 440.5 c 128,-1,7
+ 168 453 168 453 190 462.5 c 128,-1,8
+ 212 472 212 472 238 476 c 128,-1,9
+ 264 480 264 480 294.5 475.5 c 128,-1,10
+ 325 471 325 471 359 456 c 1,11,-1
+ 339 384 l 1,12,13
+ 311 399 311 399 282.5 406 c 128,-1,14
+ 254 413 254 413 226 410 c 128,-1,15
+ 198 407 198 407 174 394 c 128,-1,16
+ 150 381 150 381 132 356 c 128,-1,17
+ 114 331 114 331 104.5 294 c 128,-1,18
+ 95 257 95 257 97 207 c 6,19,-1
+ 105 4 l 5,0,-1
+EndSplineSet
+Kerns2: 254 -36 "kern" 255 -24 "kern" 90 -42 "kern" 89 -32 "kern" 88 -16 "kern" 87 -16 "kern" 86 -24 "kern" 85 -8 "kern" 84 -8 "kern" 80 -16 "kern" 79 -66 "kern" 77 -16 "kern" 75 -24 "kern" 73 -24 "kern" 71 -56 "kern" 70 56 "kern" 69 -80 "kern" 68 -56 "kern" 67 -56 "kern" 65 -72 "kern" 53 -31 "kern" 45 -18 "kern" 41 -36 "kern" 39 -36 "kern" 14 -63 "kern" 12 -63 "kern"
+EndChar

@@ -1,0 +1,13 @@
+StartChar: Lacute
+Encoding: 313 313 270
+AltUni2: 00013a.ffffffff.0
+Width: 1023
+AnchorPoint: "bottom" 471 -10 basechar 0
+AnchorPoint: "bottomatt" 451 20 basechar 0
+AnchorPoint: "bottomattside" 772 53 basechar 0
+AnchorPoint: "top" 218 1823 basechar 0
+LayerCount: 2
+Fore
+Refer: 202 769 N 1 0 0 1 431 290 2
+Refer: 44 76 N 1 0 0 1 0 0 2
+EndChar

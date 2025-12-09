@@ -1,0 +1,11 @@
+StartChar: gravecomb
+Encoding: 768 768 378
+Width: 0
+Flags: W
+AnchorPoint: "mkmktop" -41 768 basemark 0
+AnchorPoint: "mkmktop" -41 640 mark 0
+AnchorPoint: "top" -41 640 mark 0
+LayerCount: 2
+Fore
+Refer: 64 96 N 1 0 0 1 -134 0 2
+EndChar

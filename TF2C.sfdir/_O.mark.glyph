@@ -1,0 +1,11 @@
+StartChar: O.mark
+Encoding: 65550 -1 240
+Width: 654
+Flags: W
+AnchorPoint: "bottomattside" 406 19 basechar 0
+AnchorPoint: "bottom" 323 -20 basechar 0
+AnchorPoint: "top" 298 706 basechar 0
+LayerCount: 2
+Fore
+Refer: 47 79 N 1 0 0 0.95286 0 0 2
+EndChar

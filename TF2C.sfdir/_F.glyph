@@ -1,0 +1,36 @@
+StartChar: F
+Encoding: 70 70 38
+AltUni2: 000066.ffffffff.0
+Width: 513
+GlyphClass: 2
+Flags: W
+AnchorPoint: "bottom" 92 -31 basechar 0
+AnchorPoint: "bottomattside" 48 3 basechar 0
+AnchorPoint: "top" 246 717 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+0 715 m 1,0,-1
+ 482 713 l 1,1,-1
+ 479 577 l 1,2,3
+ 467 595 467 595 456 611 c 0,4,5
+ 447 624 447 624 437 637 c 128,-1,6
+ 427 650 427 650 420 652 c 0,7,8
+ 417 653 417 653 400.5 653.5 c 128,-1,9
+ 384 654 384 654 104 651 c 1,10,-1
+ 110 408 l 1,11,-1
+ 292 414 l 1,12,-1
+ 290 349 l 1,13,-1
+ 111 350 l 1,14,15
+ 120 58 120 58 121 55 c 0,16,17
+ 123 50 123 50 189 1 c 1,18,-1
+ 10 1 l 1,19,20
+ 49 38 49 38 50 42 c 0,21,22
+ 50 44 50 44 46 352 c 0,23,24
+ 42 650 42 650 45 654 c 1,25,-1
+ 2 654 l 1,26,-1
+ 0 715 l 1,0,-1
+EndSplineSet
+Kerns2: 33 -71 "kern" 35 -36 "kern" 39 -25 "kern" 47 -16 "kern" 49 -14 "kern" 56 -10 "kern"
+Substitution2: "mark-downsizer-1" F.mark
+EndChar

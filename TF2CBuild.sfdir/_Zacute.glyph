@@ -1,0 +1,15 @@
+StartChar: Zacute
+Encoding: 377 377 88
+AltUni2: 00017a.ffffffff.0
+Width: 1221
+GlyphClass: 2
+Flags: W
+AnchorPoint: "bottom" 512 -31 basechar 0
+AnchorPoint: "bottomatt" 481 20 basechar 0
+AnchorPoint: "bottomattside" 825 29 basechar 0
+AnchorPoint: "top" 576 1801 basechar 0
+LayerCount: 2
+Fore
+Refer: 58 90 N 1 0 0 1 0 0 2
+Refer: 202 769 N 1 0 0 1 789 268 2
+EndChar

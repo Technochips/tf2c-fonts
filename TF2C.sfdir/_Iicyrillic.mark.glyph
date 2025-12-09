@@ -1,0 +1,10 @@
+StartChar: Iicyrillic.mark
+Encoding: 65581 -1 271
+Width: 563
+Flags: W
+AnchorPoint: "bottom" 266 -10 basechar 0
+AnchorPoint: "top" 276 694 basechar 0
+LayerCount: 2
+Fore
+Refer: 132 1048 N 1 0 0 0.95 0 0 2
+EndChar

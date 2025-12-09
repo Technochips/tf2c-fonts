@@ -1,0 +1,10 @@
+StartChar: Aogonek
+Encoding: 260 260 171
+Width: 343
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 33 65 N 1 0 0 1 0 0 2
+Refer: 293 731 S 1 0 0 1 199 28 2
+EndChar

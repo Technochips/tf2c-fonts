@@ -1,0 +1,13 @@
+StartChar: i
+Encoding: 105 105 217
+Width: 585
+Flags: W
+AnchorPoint: "top" 320 1471 basechar 0
+AnchorPoint: "bottom" 256 -61 basechar 0
+AnchorPoint: "bottomatt" 246 10 basechar 0
+AnchorPoint: "bottomattside" 102 31 basechar 0
+LayerCount: 2
+Fore
+Refer: 41 73 S 1 0 0 1 0 0 2
+Substitution2: "turkish-1" Idotaccent
+EndChar

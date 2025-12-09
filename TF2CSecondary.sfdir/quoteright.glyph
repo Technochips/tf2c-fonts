@@ -1,0 +1,11 @@
+StartChar: quoteright
+Encoding: 8217 8217 244
+AltUni2: 0002bc.ffffffff.0
+Width: 137
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 7 39 S 1 0 0 1 0 0 2
+Kerns2: 68 -56 "kern" 83 -32 "kern" 86 -24 "kern"
+EndChar

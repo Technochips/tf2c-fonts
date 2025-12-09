@@ -1,0 +1,11 @@
+StartChar: X.mark
+Encoding: 65559 -1 249
+Width: 574
+Flags: W
+AnchorPoint: "bottomattside" 505 17 basechar 0
+AnchorPoint: "bottom" 276 10 basechar 0
+AnchorPoint: "top" 292 686 basechar 0
+LayerCount: 2
+Fore
+Refer: 56 88 N 1 0 0 0.95 0 0 2
+EndChar

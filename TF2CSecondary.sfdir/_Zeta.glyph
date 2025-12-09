@@ -1,0 +1,20 @@
+StartChar: Zeta
+Encoding: 918 918 270
+Width: 653
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+609 711 m 1,0,-1
+ 610 675 l 1,1,-1
+ 210 61 l 1,2,-1
+ 600 80 l 1,3,-1
+ 605 10 l 1,4,-1
+ 108 0 l 1,5,-1
+ 102 46 l 1,6,-1
+ 512 658 l 1,7,-1
+ 51 654 l 1,8,-1
+ 46 717 l 1,9,-1
+ 609 711 l 1,0,-1
+EndSplineSet
+EndChar

@@ -1,0 +1,15 @@
+StartChar: Zdotaccent
+Encoding: 379 379 89
+AltUni2: 00017c.ffffffff.0
+Width: 1221
+GlyphClass: 2
+Flags: W
+AnchorPoint: "bottom" 512 -31 basechar 0
+AnchorPoint: "bottomatt" 481 20 basechar 0
+AnchorPoint: "bottomattside" 825 29 basechar 0
+AnchorPoint: "top" 556.5 1808 basechar 0
+LayerCount: 2
+Fore
+Refer: 58 90 N 1 0 0 1 0 0 2
+Refer: 206 775 N 1 0 0 1 687.5 222 2
+EndChar

@@ -1,0 +1,19 @@
+StartChar: Eth
+Encoding: 208 208 95
+AltUni2: 000111.ffffffff.0 000110.ffffffff.0 0000f0.ffffffff.0
+Width: 585
+GlyphClass: 2
+Flags: W
+AnchorPoint: "top" 250 708 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+0 383 m 25,0,-1
+ 254 402 l 25,1,-1
+ 251 336 l 25,2,-1
+ 3 344 l 25,3,-1
+ 0 383 l 25,0,-1
+EndSplineSet
+Refer: 36 68 N 1 0 0 1 0 0 2
+Substitution2: "mark-downsizer-1" Eth.mark
+EndChar

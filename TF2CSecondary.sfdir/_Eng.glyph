@@ -1,0 +1,27 @@
+StartChar: Eng
+Encoding: 330 330 462
+Width: 766
+Flags: W
+AnchorPoint: "bottom" 529 -265 basechar 0
+AnchorPoint: "bottomattside" 637 -209 basechar 0
+AnchorPoint: "top" 374 712 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+650 9 m 1,0,1
+ 650 9 650 9 81 586 c 1,2,-1
+ 89 0 l 1,3,-1
+ 20 0 l 1,4,-1
+ 20 717 l 1,5,-1
+ 67 717 l 1,6,-1
+ 644 118 l 5,7,-1
+ 638 711 l 5,8,-1
+ 712 708 l 1,9,-1
+ 709 10 l 0,10,11
+ 713 -230 713 -230 553 -238 c 0,12,13
+ 463 -242 463 -242 408 -197 c 1,14,-1
+ 440 -146 l 0,15,16
+ 496 -181 496 -181 555 -182 c 0,17,18
+ 649 -185 649 -185 650 9 c 1,0,1
+EndSplineSet
+EndChar

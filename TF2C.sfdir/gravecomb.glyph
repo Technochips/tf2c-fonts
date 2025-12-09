@@ -1,0 +1,9 @@
+StartChar: gravecomb
+Encoding: 768 768 288
+Width: 0
+Flags: W
+AnchorPoint: "top" -29 723 mark 0
+LayerCount: 2
+Fore
+Refer: 64 96 S 1.50746 0 0 1.50685 -171 -376 2
+EndChar

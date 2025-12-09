@@ -1,0 +1,18 @@
+StartChar: lambda
+Encoding: 955 955 283
+Width: 562
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+278 432 m 1,0,-1
+ 168 690 l 1,1,-1
+ 226 724 l 1,2,-1
+ 532 33 l 1,3,-1
+ 456 4 l 1,4,-1
+ 310 367 l 1,5,-1
+ 94 0 l 1,6,-1
+ 31 32 l 1,7,-1
+ 278 432 l 1,0,-1
+EndSplineSet
+EndChar

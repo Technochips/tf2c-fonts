@@ -1,0 +1,27 @@
+StartChar: F
+Encoding: 70 70 38
+Width: 410
+GlyphClass: 2
+Flags: W
+AnchorPoint: "bottomatt" 72 10 basechar 0
+AnchorPoint: "bottomattside" 36 6 basechar 0
+AnchorPoint: "bottom" 189 -5 basechar 0
+AnchorPoint: "top" 215 737 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+0 9 m 5,0,-1
+ 9 716 l 5,1,-1
+ 370 714 l 5,2,-1
+ 370 650 l 5,3,-1
+ 61 662 l 5,4,-1
+ 68 436 l 5,5,-1
+ 307 445 l 5,6,-1
+ 305 359 l 5,7,-1
+ 74 368 l 5,8,-1
+ 86 -1 l 5,9,-1
+ 1 2 l 5,10,-1
+ 0 9 l 5,0,-1
+EndSplineSet
+Kerns2: 255 -16 "kern" 377 -176 "kern" 89 -63 "kern" 82 -32 "kern" 79 -96 "kern" 78 18 "kern" 77 -32 "kern" 74 -176 "kern" 73 -16 "kern" 69 -80 "kern" 68 24 "kern" 65 -80 "kern" 51 15 "kern" 44 16 "kern" 42 -191 "kern" 39 -42 "kern" 37 36 "kern" 36 25 "kern" 33 -88 "kern"
+EndChar

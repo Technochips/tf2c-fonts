@@ -1,0 +1,9 @@
+StartChar: hungarumlaut
+Encoding: 733 733 210
+Width: 268
+Flags: W
+LayerCount: 2
+Fore
+Refer: 76 180 S 1 0 0 1 90 0 2
+Refer: 76 180 N 1 0 0 1 0 0 2
+EndChar

@@ -1,0 +1,19 @@
+StartChar: Oslash
+Encoding: 216 216 130
+Width: 870
+GlyphClass: 2
+Flags: W
+AnchorPoint: "top" 425 748 basechar 0
+AnchorPoint: "bottom" 420 -31 basechar 0
+AnchorPoint: "bottomattside" 549 10 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+117 43 m 1,0,-1
+ 644 723 l 1,1,-1
+ 697 673 l 1,2,-1
+ 150 17 l 1,3,-1
+ 117 43 l 1,0,-1
+EndSplineSet
+Refer: 47 79 S 1 0 0 1 0 0 2
+EndChar

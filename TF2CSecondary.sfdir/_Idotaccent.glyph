@@ -1,0 +1,12 @@
+StartChar: Idotaccent
+Encoding: 304 304 254
+Width: 245
+Flags: W
+AnchorPoint: "bottom" 82 -31 basechar 0
+AnchorPoint: "bottomattside" 89 5 basechar 0
+LayerCount: 2
+Fore
+Refer: 384 775 S 1 0 0 1 174 88 2
+Refer: 41 73 N 1 0 0 1 0 0 2
+Kerns2: 36 24 "kern" 37 25 "kern" 38 30 "kern" 40 42 "kern" 43 25 "kern" 44 24 "kern" 45 18 "kern" 46 17 "kern" 50 11 "kern" 51 18 "kern" 53 17 "kern" 65 -32 "kern" 67 -32 "kern" 68 -32 "kern" 70 32 "kern" 71 -63 "kern" 74 -191 "kern" 76 -16 "kern" 77 -16 "kern" 78 -16 "kern" 79 -48 "kern" 81 -48 "kern" 85 -16 "kern" 86 -32 "kern" 87 -32 "kern" 89 -32 "kern" 377 -191 "kern"
+EndChar

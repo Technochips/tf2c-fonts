@@ -1,0 +1,25 @@
+StartChar: uni01B3
+Encoding: 435 435 695
+Width: 686
+Flags: W
+AnchorPoint: "top" 297 722 basechar 0
+AnchorPoint: "bottom" 323 -31 basechar 0
+AnchorPoint: "bottomattside" 308 4 basechar 0
+AnchorPoint: "bottomatt" 341 17 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+521 615 m 6,0,1
+ 556.815197653 657.36206174 556.815197653 657.36206174 606 561 c 5,2,-1
+ 656 588 l 5,3,4
+ 551 754 551 754 470 661 c 6,5,-1
+ 286 450 l 1,6,-1
+ 76 705 l 1,7,-1
+ 28 670 l 1,8,-1
+ 261 397 l 1,9,-1
+ 273 0 l 1,10,-1
+ 362 3 l 1,11,-1
+ 335 395 l 1,12,-1
+ 521 615 l 6,0,1
+EndSplineSet
+EndChar

@@ -1,0 +1,11 @@
+StartChar: uni030B
+Encoding: 779 779 386
+Width: 0
+Flags: W
+AnchorPoint: "mkmktop" -144 775 basemark 0
+AnchorPoint: "mkmktop" -144 631 mark 0
+AnchorPoint: "top" -144 631 mark 0
+LayerCount: 2
+Fore
+Refer: 360 733 N 1 0 0 1 -255 1 2
+EndChar

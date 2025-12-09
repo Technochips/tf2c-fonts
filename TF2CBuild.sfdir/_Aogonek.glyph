@@ -1,0 +1,15 @@
+StartChar: Aogonek
+Encoding: 260 260 79
+AltUni2: 000105.ffffffff.0
+Width: 1454
+GlyphClass: 2
+Flags: W
+AnchorPoint: "top" 669 1451 basechar 0
+AnchorPoint: "bottom" 717 -10 basechar 0
+AnchorPoint: "bottomatt" 717 0 basechar 0
+AnchorPoint: "bottomattside" 1084 -174 basechar 0
+LayerCount: 2
+Fore
+Refer: 33 65 N 1 0 0 1 0 0 2
+Refer: 212 808 N 1 0 0 1 1330 48 2
+EndChar

@@ -1,0 +1,16 @@
+StartChar: Tbar
+Encoding: 358 358 328
+AltUni2: 000167.ffffffff.0
+Width: 563
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+125 369 m 25,0,-1
+ 383 389 l 29,1,-1
+ 356 340 l 25,2,-1
+ 158 332 l 25,3,-1
+ 125 369 l 25,0,-1
+EndSplineSet
+Refer: 52 84 N 1 0 0 1 0 0 2
+EndChar

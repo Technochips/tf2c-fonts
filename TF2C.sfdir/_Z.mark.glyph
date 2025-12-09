@@ -1,0 +1,11 @@
+StartChar: Z.mark
+Encoding: 65561 -1 251
+Width: 523
+Flags: W
+AnchorPoint: "bottomattside" 486 7 basechar 0
+AnchorPoint: "bottom" 241 -15 basechar 0
+AnchorPoint: "top" 230 705 basechar 0
+LayerCount: 2
+Fore
+Refer: 58 90 N 1 0 0 0.949275 0 0 2
+EndChar

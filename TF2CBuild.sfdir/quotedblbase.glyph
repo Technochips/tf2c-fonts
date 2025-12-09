@@ -1,0 +1,19 @@
+StartChar: quotedblbase
+Encoding: 8222 8222 141
+Width: 350
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+150 0 m 1,0,-1
+ 90 0 l 1,1,-1
+ 133 276 l 1,2,-1
+ 244 270 l 1,3,-1
+ 150 0 l 1,0,-1
+107 301 m 1,4,-1
+ 61 50 l 1,5,-1
+ 2 50 l 1,6,-1
+ 0 276 l 1,7,-1
+ 107 301 l 1,4,-1
+EndSplineSet
+EndChar

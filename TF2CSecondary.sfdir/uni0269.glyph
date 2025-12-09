@@ -1,0 +1,18 @@
+StartChar: uni0269
+Encoding: 617 617 640
+Width: 270
+Flags: W
+AnchorPoint: "top" 108 497 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+158 194 m 2,0,1
+ 156 99 156 99 178 81 c 0,2,3
+ 193 70 193 70 232 72 c 1,4,-1
+ 244 5 l 1,5,6
+ 44 -34 44 -34 49 147 c 2,7,-1
+ 60 460 l 1,8,-1
+ 163 461 l 1,9,-1
+ 158 194 l 2,0,1
+EndSplineSet
+EndChar

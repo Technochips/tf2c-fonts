@@ -1,0 +1,10 @@
+StartChar: Psi.mark
+Encoding: 65573 -1 263
+Width: 571
+Flags: W
+AnchorPoint: "bottom" 257 -20 basechar 0
+AnchorPoint: "top" 256 707 basechar 0
+LayerCount: 2
+Fore
+Refer: 183 936 N 1 0 0 0.95 0 0 2
+EndChar

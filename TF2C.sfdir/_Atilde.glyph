@@ -1,0 +1,11 @@
+StartChar: Atilde
+Encoding: 195 195 82
+AltUni2: 0000e3.ffffffff.0
+Width: 507
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 226 -1 N 1 0 0 1 0 0 2
+Refer: 126 732 S 1.56522 0 0 1.44737 91 -56 2
+EndChar

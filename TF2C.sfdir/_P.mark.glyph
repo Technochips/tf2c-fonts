@@ -1,0 +1,11 @@
+StartChar: P.mark
+Encoding: 65551 -1 241
+Width: 495
+Flags: W
+AnchorPoint: "bottomattside" 71 6 basechar 0
+AnchorPoint: "bottom" 108 -20 basechar 0
+AnchorPoint: "top" 256 701 basechar 0
+LayerCount: 2
+Fore
+Refer: 48 80 N 1 0 0 0.95 0 0 2
+EndChar

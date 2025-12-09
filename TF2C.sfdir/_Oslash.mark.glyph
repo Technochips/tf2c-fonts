@@ -1,0 +1,10 @@
+StartChar: Oslash.mark
+Encoding: 65564 -1 254
+Width: 654
+Flags: W
+AnchorPoint: "bottom" 323 -20 basechar 0
+AnchorPoint: "top" 298 706 basechar 0
+LayerCount: 2
+Fore
+Refer: 103 216 N 1 0 0 0.95 0 0 2
+EndChar

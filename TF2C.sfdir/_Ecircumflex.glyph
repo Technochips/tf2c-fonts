@@ -1,0 +1,11 @@
+StartChar: Ecircumflex
+Encoding: 202 202 89
+AltUni2: 0000ea.ffffffff.0
+Width: 509
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 230 -1 S 1 0 0 1 0 0 2
+Refer: 123 710 N 0.938144 0 0 0.57672 135 384 2
+EndChar

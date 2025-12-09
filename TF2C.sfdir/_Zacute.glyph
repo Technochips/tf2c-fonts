@@ -1,0 +1,11 @@
+StartChar: Zacute
+Encoding: 377 377 120
+AltUni2: 00017a.ffffffff.0
+Width: 523
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 251 -1 N 1 0 0 1 0 0 2
+Refer: 76 180 S 1.00016 0 0 1.00001 167 -21 2
+EndChar

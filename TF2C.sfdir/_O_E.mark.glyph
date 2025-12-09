@@ -1,0 +1,10 @@
+StartChar: OE.mark
+Encoding: 65567 -1 257
+Width: 701
+Flags: W
+AnchorPoint: "bottom" 351 -29 basechar 0
+AnchorPoint: "top" 343 712 basechar 0
+LayerCount: 2
+Fore
+Refer: 116 338 N 1 0 0 0.95 0 0 2
+EndChar

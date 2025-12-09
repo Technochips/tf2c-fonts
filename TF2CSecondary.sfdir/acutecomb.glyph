@@ -1,0 +1,11 @@
+StartChar: acutecomb
+Encoding: 769 769 379
+Width: 0
+Flags: W
+AnchorPoint: "mkmktop" -89 768 basemark 0
+AnchorPoint: "mkmktop" -89 633 mark 0
+AnchorPoint: "top" -89 633 mark 0
+LayerCount: 2
+Fore
+Refer: 103 180 S 1 0 0 1 -140 1 2
+EndChar

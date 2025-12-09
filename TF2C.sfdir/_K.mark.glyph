@@ -1,0 +1,11 @@
+StartChar: K.mark
+Encoding: 65546 -1 236
+Width: 522
+Flags: W
+AnchorPoint: "bottomattside" 456 71 basechar 0
+AnchorPoint: "bottom" 256 -5 basechar 0
+AnchorPoint: "top" 261 686 basechar 0
+LayerCount: 2
+Fore
+Refer: 43 75 N 1 0 0 0.95 0 0 2
+EndChar

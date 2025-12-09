@@ -1,0 +1,11 @@
+StartChar: tildecomb
+Encoding: 771 771 381
+Width: 0
+Flags: W
+AnchorPoint: "mkmktop" -124 775 basemark 0
+AnchorPoint: "mkmktop" -124 633 mark 0
+AnchorPoint: "top" -124 633 mark 0
+LayerCount: 2
+Fore
+Refer: 194 732 N 1 0 0 1 -250 1 2
+EndChar

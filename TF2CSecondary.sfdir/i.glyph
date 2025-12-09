@@ -1,0 +1,16 @@
+StartChar: i
+Encoding: 105 105 73
+AltUni2: 000456.ffffffff.0
+Width: 234
+GlyphClass: 2
+Flags: W
+AnchorPoint: "bottomatt" 123 13 basechar 0
+AnchorPoint: "bottomattside" 79 5 basechar 0
+AnchorPoint: "bottom" 97 -31 basechar 0
+LayerCount: 2
+Fore
+Refer: 384 775 N 1 0 0 1 151 -145 2
+Refer: 255 305 S 1 0 0 1 0 0 2
+Kerns2: 377 -136 "kern" 85 18 "kern" 83 17 "kern" 82 32 "kern" 78 -10 "kern" 77 18 "kern" 76 30 "kern" 75 24 "kern" 74 -136 "kern" 72 42 "kern" 71 -16 "kern" 70 72 "kern" 68 -16 "kern" 67 -22 "kern" 66 24 "kern" 53 17 "kern" 46 31 "kern" 45 31 "kern" 44 31 "kern" 42 -25 "kern" 40 53 "kern"
+Substitution2: "dotless-1" dotlessi
+EndChar

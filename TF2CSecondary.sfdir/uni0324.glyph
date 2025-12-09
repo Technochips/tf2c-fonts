@@ -1,0 +1,11 @@
+StartChar: uni0324
+Encoding: 804 804 447
+Width: 0
+Flags: W
+AnchorPoint: "mkmkbottom" -81 -85 basemark 0
+AnchorPoint: "mkmkbottom" -81 0 mark 0
+AnchorPoint: "bottom" -81 0 mark 0
+LayerCount: 2
+Fore
+Refer: 99 168 N 1 0 0 1 -177 -764 2
+EndChar

@@ -1,0 +1,10 @@
+StartChar: afii10040.mark
+Encoding: 65586 -1 276
+Width: 600
+Flags: W
+AnchorPoint: "bottom" 298 -27 basechar 0
+AnchorPoint: "top" 302 696 basechar 0
+LayerCount: 2
+Fore
+Refer: 138 1062 N 1 0 0 0.95 0 0 2
+EndChar
